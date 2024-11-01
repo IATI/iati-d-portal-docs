@@ -20,3 +20,12 @@ d-portal.org is an open source platform. This means you can use all aspects of t
     :hidden:
     
     Home <self>
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 2
+    :caption: Frequently Asked Questions
+
+    general_faq
+    technical_faq
