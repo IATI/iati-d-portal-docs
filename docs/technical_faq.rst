@@ -32,10 +32,11 @@ What is the source of country codes and descriptions?
 
 Where is the additional data used in d-portal stored?
     In `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. This includes:
-        - List of Reporting Organisation IDs
-        - Currencies
-        - Exchange rates
-        - Sector codes
+
+    - List of Reporting Organisation IDs
+    - Currencies
+    -  Exchange rates
+    - Sector codes
 
 Why are `sectors <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/sector/>`_ aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes?
     Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations.

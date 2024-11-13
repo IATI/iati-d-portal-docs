@@ -2,7 +2,7 @@
 d-portal
 **************
 
-d-portal is a tool which helps you explore International Aid Transparency Initiative (IATI) data.
+d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data.
 
 It provides:
 
@@ -18,8 +18,13 @@ d-portal.org is an open source platform. This means you can use all aspects of t
 
 .. toctree::
     :hidden:
-    
+    :titlesonly:
+    :maxdepth: 2
+    :caption: d-portal
+
     Home <self>
+    searching
+
 
 .. toctree::
     :hidden:
@@ -29,3 +34,13 @@ d-portal.org is an open source platform. This means you can use all aspects of t
 
     general_faq
     technical_faq
+
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 2
+    :caption: d-portal Tools
+
+    d_preview
+    generator

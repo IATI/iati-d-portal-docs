@@ -20,7 +20,7 @@ Why is there missing data?
 
 Why are there zeros and dashes in the tables?
     - Zeroes show issues with data quality. For example, codes which do not follow the IATI standard.
-    - Dashes show that on organisation does not currently report IATI data. 
+    - Dashes show that an organisation does not currently report IATI data. 
 
 Where can I ask questions about d-portal?
     Via support@iatistandard.org or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
