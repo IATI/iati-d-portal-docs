@@ -137,7 +137,12 @@ html_css_files = [
 # further.  For a list of options available for each theme, see the    
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    "github_repository": "https://github.com/IATI/iati-d-portal-docs",
+    "languages": {
+        "en": "English",
+    },
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []
