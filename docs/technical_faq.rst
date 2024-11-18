@@ -15,9 +15,11 @@ How is data assigned to a specific year?
     - For budgets, using the end date.
 
 How are exchange rates calculated?
-    - Default USD: The value date is used as the exchange date.
-    - Other currencies: The USD value is converted using today's exchange rate.
-    - Foward looking budgets: Using the `latest exchange rates <https://www.imf.org/external/np/fin/data/rms_five.aspx>`_ nightly. There is a full re-import once a week.
+    Exchange rates are taken from the `Freechange <https://xriss.github.io/freechange-charts/>`_ application. Freechange uses a number of sources for exchange rates, depending on data availability. These are fully described in the `Freechange Github repository <https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_.
+
+    For USD, GBP, EUR, and CAD, currency conversion is carried out when transactions and budgets are imported into d-portal. The `value-date element <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/value/>`_ is used as the exchange date.
+
+    For all other currencies, transactions and budgets are initially converted into USD. They are then converted into the target currency using today's exchange rate. These values are estimates, and will be less accurate for older transactions. 
 
 Why is my organisation's data missing from a recipient countries chart/table/map?
     - Charts need a transaction with a transaction date in the relevant year, with a valid recipient country code or sector code.
