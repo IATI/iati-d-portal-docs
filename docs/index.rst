@@ -39,8 +39,9 @@ d-portal.org is an open source platform. This means you can use all aspects of t
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 2
+    :maxdepth: 5
     :caption: d-portal Tools
 
     d_preview
     generator
+    dash
