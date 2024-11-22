@@ -19,7 +19,7 @@ d-portal.org is an open source platform. This means you can use all aspects of t
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 5
+    :maxdepth: 2
     :caption: d-portal
 
     Home <self>
@@ -40,7 +40,7 @@ d-portal.org is an open source platform. This means you can use all aspects of t
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 5
+    :maxdepth: 2
     :caption: d-portal Tools
 
     d_preview

@@ -3,8 +3,8 @@ Technical FAQs
 ###################
 
 Which `transaction types <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ are used in summary tables?
-    - Spend data is the sum of expenditure and disbursments. If these are not published, outgoing commitments will be used. 
-    - Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursments will be used.
+    - Spend data is the sum of expenditure and disbursements. If these are not published, outgoing commitments will be used. 
+    - Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursements will be used.
     - Budget is the sum of `budgets <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_. If these are not published, `planned disbursements <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/planned-disbursement/>`_ will be used.
 
 How is the data cleaned?
