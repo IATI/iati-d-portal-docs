@@ -1,5 +1,5 @@
 **************
-Dquery
+Query d-portal
 **************
 
 `Dquery <https://d-portal.org/dquery/>`_ provides a read only SQL interface to the d-portal database. This includes non-standard attributes and extensions to the IATI standard which are not displayed by the d-portal site. 
