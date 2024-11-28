@@ -17,7 +17,7 @@ D-portal includes tools which can be used to investigate missing data and errors
     Individual reporting organisations use of the IATI standard elements can also be explored.
 
 `Cleanerr <https://notshi.github.io/cleanerr/>`_
-    Cleaner reports issues with individual datasets. 
+    Cleanerr reports issues with individual datasets. 
     These include:
 
     - Duplicate organisation identifiers

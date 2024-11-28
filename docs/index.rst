@@ -1,5 +1,5 @@
 **************
-d-portal
+`d-portal <https://d-portal.org/ctrack.html#view=search>`_ 
 **************
 
 d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data.
@@ -12,9 +12,7 @@ It provides:
 
 
 Open source
-------------------
-
-d-portal.org is an open source platform. This means you can use all aspects of the platform to build your own portal using the `free source code <https://github.com/IATI/D-Portal>`_.
+    d-portal.org is an open source platform. This means you can use all aspects of the platform to build your own portal using the `free source code <https://github.com/IATI/D-Portal>`_.
 
 .. toctree::
     :hidden:
