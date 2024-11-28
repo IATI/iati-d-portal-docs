@@ -17,18 +17,18 @@ Open source
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: d-portal
 
     Home <self>
-    searching
+    getting_started
     sources
 
 
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Frequently Asked Questions
 
     general_faq
@@ -38,7 +38,7 @@ Open source
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: d-portal Tools
 
     d_preview

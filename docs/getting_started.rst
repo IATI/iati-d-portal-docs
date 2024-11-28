@@ -2,7 +2,6 @@
 Getting started
 **************
 
-
 Searching d-portal
 -------------------
 
@@ -17,12 +16,12 @@ Freetext:
 
 Once your search query is ready, you can click "Explore Results" to view the activities. 
 
-At the top right of your results pages you can use the settings options to alter the currency, language, 12 month period your results are displayed in.
+You can use the settings options at the top right to change the currency, language, and 12-month period your results are displayed in.
 
 Downloading Results
 -------------------
 
-You results page will include summary figures and table previews. If click on any of these you will be presented with a table, with a CSV download button at the top right.  
+Your results page will include summary figures and table previews. If click on any of these you will be presented with a table, with a CSV download button at the top right.  
 
 Location data can also be downloaded from heatmaps into a CSV file.
 
@@ -30,8 +29,17 @@ Example Questions
 -------------------
 
 To practise using d-portal, you can find the answers to these example questions:
+
 - How many projects are taking place in Ghana on water and sanitation (Sector group 140)?
 - Which organisations that are currently working on tackling Ebola in Guinea?
 - How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?
 - Which government is the original funder of this activity: MW-NBM-R1527-W106?
 - Which two countries received the largest amount of aid as a response to Hurricane Matthew?
+
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+
+    view_your_data
