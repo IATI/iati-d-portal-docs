@@ -2,15 +2,15 @@
 Technical FAQs
 ###################
 
-1. :ref:`Which transaction types are used in summary tables? <faq_1>`
-2. :ref:`How is the data cleaned? <faq_2>`
-3. :ref:`How is data assigned to a specific year? <faq_3>`
-4. :ref:`How are exchange rates calculated? <faq_4>`
-5. :ref:`Why is my organisation's data missing from a recipient countries chart/table/map? <faq_5>`
-6. :ref:`Why are graphs missing from my activity? <faq_6>`
-7. :ref:`What is the source of country codes and descriptions? <faq_7>`
-8. :ref:`Where is the additional data used in d-portal stored? <faq_8>`
-9. :ref:`Why are sectors aggregated using DAC 3 Digit codes? <faq_9>`
+1. :ref:`Which transaction types are used in summary tables? <faq_a>`
+2. :ref:`How is the data cleaned? <faq_b>`
+3. :ref:`How is data assigned to a specific year? <faq_c>`
+4. :ref:`How are exchange rates calculated? <faq_d>`
+5. :ref:`Why is my organisation's data missing from a recipient countries chart/table/map? <faq_e>`
+6. :ref:`Why are graphs missing from my activity? <faq_f>`
+7. :ref:`What is the source of country codes and descriptions? <faq_g>`
+8. :ref:`Where is the additional data used in d-portal stored? <faq_h>`
+9. :ref:`Why are sectors aggregated using DAC 3 Digit codes? <faq_i>`
 
 | 
 
@@ -18,22 +18,22 @@ Technical FAQs
 
 | 
 
-.. _faq_1: 
+.. _faq_a: 
 1. Which `transaction types <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ are used in summary tables?
     - Spend data is the sum of expenditure and disbursements. If these are not published, outgoing commitments will be used. 
     - Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursements will be used.
     - Budget is the sum of `budgets <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_. If these are not published, `planned disbursements <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/planned-disbursement/>`_ will be used.
 
-.. _faq_2: 
+.. _faq_b: 
 2. How is the data cleaned?
     To be updated following finalisation of new data policy.
 
-.. _faq_3: 
+.. _faq_c: 
 3. How is data assigned to a specific year?
     - For transactions, using the value or transaction date.
     - For budgets, using the end date.
 
-.. _faq_4: 
+.. _faq_d: 
 4. How are exchange rates calculated?
     Exchange rates are taken from the `Freechange <https://xriss.github.io/freechange-charts/>`_ application. Freechange uses a number of sources for exchange rates, depending on data availability. These are fully described in the `Freechange Github repository <https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_.
 
@@ -41,21 +41,21 @@ Technical FAQs
 
     For all other currencies, transactions and budgets are initially converted into USD. They are then converted into the target currency using today's exchange rate. These values are estimates, and will be less accurate for older transactions. 
 
-.. _faq_5: 
+.. _faq_e: 
 5. Why is my organisation's data missing from a recipient countries chart/table/map?
     - Charts need a transaction with a transaction date in the relevant year, with a valid recipient country code or sector code.
     - Tables need a transaction with a transaction date in the relevant year, with a valid recipient country code or sector code.
     - Maps need transactions with a valid location tag and recipient country code.
 
-.. _faq_6: 
+.. _faq_f: 
 6. Why are graphs missing from my activity?
     Graphs are only shown for an activity if all transactions are in the same currency.
 
-.. _faq_7: 
+.. _faq_g: 
 7. What is the source of country codes and descriptions?
     The `ISO 3166-2 Wikipedia page <https://en.wikipedia.org/wiki/ISO_3166-2>`_.
 
-.. _faq_8: 
+.. _faq_h: 
 8. Where is the additional data used in d-portal stored?
     In `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. This includes:
 
@@ -64,6 +64,6 @@ Technical FAQs
     -  Exchange rates
     - Sector codes
 
-.. _faq_9: 
+.. _faq_i: 
 9. Why are `sectors <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/sector/>`_ aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes?
     Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations.
