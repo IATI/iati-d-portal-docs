@@ -32,7 +32,7 @@ Technical FAQs
 
 .. _faq_c: 
 \3. How is data assigned to a specific year?
-    - For transactions, using the value or transaction date.
+    - For transactions, using the transaction date, else the value date.
     - For budgets, using the end date.
 
 .. _faq_d: 

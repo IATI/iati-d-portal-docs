@@ -24,8 +24,8 @@ General FAQs
     The `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI) is a global effort to make data about development and humanitarian aid more transparent. IATI data helps people make informed decisions that deliver better results.
 
 .. _faq_3: 
-\. When is d-portal updated?
-    d-portal is updated every night, including all existing and newly published files.
+\3. When is d-portal updated?
+    d-portal is updated every 24 hours, including all existing and newly published files.
 
 .. _faq_4: 
 \4. Why is there missing data?
@@ -33,13 +33,13 @@ General FAQs
     
     - Reporting organisations can include different levels of detail in their data. 
     - Reporting organisations may follow different update schedules.
-    - There may be errors in a reporting organisations data. This can be checked using the `IATI Validator <https://validator.iatistandard.org/>`_. 
+    - There may be errors in a reporting organisation's data. This can be checked using the `IATI Validator <https://validator.iatistandard.org/>`_. 
 
 .. _faq_5: 
 \5. Why are there zeros and dashes in the tables?
-    - Zeroes show issues with data quality. For example, codes which do not follow the IATI standard.
+    - Zeroes show issues with data quality. For example, codes which do not follow the IATI Standard.
     - Dashes show that an organisation does not currently report IATI data. 
 
 .. _faq_6: 
 \6. Where can I ask questions about d-portal?
-    Via support@iatistandard.org or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
+    By emailing support@iatistandard.org or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.

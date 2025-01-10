@@ -2,13 +2,13 @@
 `d-portal <https://d-portal.org/ctrack.html#view=search>`_ 
 **************
 
-d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data.
+d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data. These data are formatted according to the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_.
 
-It provides:
+Use d-portal if you want to:
 
-- Views of individual IATI activities.
-- A search function.
-- Summaries of IATI data by reporting organisation or recipient country.
+- View individual IATI activities in detail.
+- Search IATI activities using keywords and filters.
+- Access summaries of IATI data by reporting organisation or recipient country.
 
 
 Open source
