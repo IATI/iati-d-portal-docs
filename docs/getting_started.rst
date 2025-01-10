@@ -21,7 +21,7 @@ You can use the settings options at the top right to change the currency, langua
 Downloading Results
 -------------------
 
-Your results page will include summary figures and table previews. If click on any of these you will be presented with a table, with a CSV download button at the top right.  
+Your results page will include summary figures and table previews. If you click on any of these you will be presented with a table, with a CSV download button at the top right.  
 
 Location data can also be downloaded from heatmaps into a CSV file.
 
@@ -31,7 +31,7 @@ Example Questions
 To practise using d-portal, you can find the answers to these example questions:
 
 - How many projects are taking place in Ghana on water and sanitation (Sector group 140)?
-- Which organisations that are currently working on tackling Ebola in Guinea?
+- Which organisations are currently working on tackling Ebola in Guinea?
 - How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?
 - Which government is the original funder of this activity: MW-NBM-R1527-W106?
 - Which two countries received the largest amount of aid as a response to Hurricane Matthew?
