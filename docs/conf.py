@@ -139,9 +139,10 @@ html_css_files = [
 #
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-d-portal-docs",
-    "languages": {
-        "en": "English",
-    },
+    "header_title_text": "d-portal",
+    "languages": ["en"],
+    "tool_name": "d-portal",
+    "tool_url": "https://d-portal.org/",
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
