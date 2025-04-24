@@ -141,6 +141,7 @@ html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-d-portal-docs",
     "header_title_text": "d-portal",
     "languages": ["en"],
+    "project_title": "d-portal: Documentation",
     "tool_nav_items": {
         "d-portal": "https://d-portal.org/"
     },
