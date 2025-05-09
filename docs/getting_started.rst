@@ -8,11 +8,12 @@ Searching d-portal
 d-portal provides a search function which allows you to explore IATI data. This is made up of filters and a freetext box. As you build your search query, the number of filtered IATI activities will update.
 
 Filters:
-    The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These include recipient countries, sectors, and reporting organisations, for example.  
+    The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. 
+    These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example.  
     You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters.
 
 Freetext:
-    The freetext search box searches against the `Title <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/title/>`_ and `Description <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/description/>`_ elements of IATI activities.
+    The freetext search box searches against the  :iati-reference:`title` and :iati-reference:`description` elements of IATI activities.
 
 Once your search query is ready, you can click "Explore Results" to view the activities. 
 
@@ -30,7 +31,7 @@ Example Questions
 
 To practise using d-portal, you can find the answers to these example questions:
 
-- How many projects are taking place in Ghana on water and sanitation (Sector group 140)?
+- How many projects are taking place in Ghana on water and sanitation (DAC 5 Digit sector group 140)?
 - Which organisations are currently working on tackling Ebola in Guinea?
 - How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?
 - Which government is the original funder of this activity: MW-NBM-R1527-W106?
