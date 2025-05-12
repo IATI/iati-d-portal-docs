@@ -7,8 +7,8 @@ It generates HTML code which you can copy into your webpage to create an IATI wi
 
 These widgets can show IATI data in table, graph, map, or list formats:
 
-- Published by specific reporting organisations
-- Describing funds to specific recipient countries
+- Published by specific :iati-reference:`reporting-org`
+- Describing funds a specific :iati-reference:`recipient-country`.
 
 The resulting widget will update automatically overnight, in line with d-portal.
 
