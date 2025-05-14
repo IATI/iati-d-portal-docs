@@ -2,7 +2,7 @@
 Filter glossary
 **************
 
-This page provide more detail on the filters and options available in d-portal's search function. 
+This page provides more detail on the filters and options available in d-portal's search function. 
 Definitions of the codes used in each filter dropdown can be found in the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. 
 
 Settings:
@@ -55,12 +55,13 @@ Filters:
         :samp:`d-portal.org/ctrack.html?&/participating-org@ref={ORG-ID}#view=main`
 
 `Policy Marker <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/policy-marker/>`_
-    
-    Uses both IATI code for the vocabulary to be used to define a policy or theme addressed by the activity and OECD DAC CRS code indicating 
-    the significance of the policy marker for this activity.
+    A combination of `Policy Significance <https://iatistandard.org/en/iati-standard/203/codelists/policysignificance/>`_ and 
+    `Policy Marker <https://iatistandard.org/en/iati-standard/203/codelists/policymarker/>`_ codes. These define a policy or theme addressed by the activity, and 
+    the significance of the policy marker for this activity. For example, the code **0_4** filters for "not targeted, Trade Development", while **2_4** filters 
+    for "principal objective, Trade Development".
 
-Reporting Organisation	   
-    Organisations are from the IATI Registry. This IATI element is a list of reporting organisations issuing the report.
+`Reporting Organisation	<https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/reporting-org/>`_
+    The organisation reporting an activity, taken from the IATI Registry.
 
 Recipient Country	
     Countries reported by publishers are using ISO3166 Alpha-2.
