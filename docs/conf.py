@@ -56,7 +56,7 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'd-portal Docs'
+project = 'd-portal: Documentation'
 copyright = '2024 United Nations Development Programme, on behalf of the IATI Secretariat'
 author = 'IATI Secretariat'
 
@@ -139,8 +139,11 @@ html_css_files = [
 #
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-d-portal-docs",
-    "languages": {
-        "en": "English",
+    "header_title_text": "d-portal",
+    "languages": ["en"],
+    "project_title": "d-portal: Documentation",
+    "tool_nav_items": {
+        "d-portal": "https://d-portal.org/"
     },
 }
 
