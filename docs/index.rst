@@ -1,5 +1,5 @@
 **************
-`d-portal <https://d-portal.org/ctrack.html#view=search>`_ 
+d-portal
 **************
 
 d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data. These data are formatted according to the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_.

@@ -1,6 +1,6 @@
-**************
+************************
 Data Validity and Logs
-**************
+************************
 
 D-portal includes tools which can be used to investigate missing data and errors.
 
