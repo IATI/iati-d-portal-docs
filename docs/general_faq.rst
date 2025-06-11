@@ -48,4 +48,4 @@ General FAQs
 .. _faq_6: 
 
 \6. Where can I ask questions about d-portal?
-    By emailing support@iatistandard.org or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
+    By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
