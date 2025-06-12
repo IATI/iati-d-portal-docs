@@ -8,14 +8,11 @@ Searching d-portal
 d-portal provides a search function which allows you to explore IATI data. This is made up of filters and a freetext box. As you build your search query, the number of filtered IATI activities will update.
 
 Filters:
-<<<<<<< formatting
     The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. 
     These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example.  
     You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters.
-=======
-    The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These include recipient countries, sectors, and reporting organisations, for example.  
-    You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters. See the :ref:`Filter glossary` page for more details.
->>>>>>> main
+    See the :ref:`Filter glossary` page for more details.
+
 
 Freetext:
     The freetext search box searches against the  :iati-reference:`title` and :iati-reference:`description` elements of IATI activities.

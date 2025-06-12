@@ -22,11 +22,7 @@ Technical FAQs
 
 .. _faq_a: 
 
-<<<<<<< formatting
 \1. Which :iati-reference:`transaction/transaction-type` are used in summary tables?
-=======
-\1. Which `transaction types <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ are used in summary tables?
->>>>>>> main
     - Spend data is the sum of expenditure and disbursements. If these are not published, outgoing commitments will be used. 
     - Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursements will be used.
     - Budget is the sum of  :iati-reference:`budget/value`. If these are not published, :iati-reference:`planned-disbursement/value` will be used.
@@ -55,7 +51,7 @@ Technical FAQs
 
 \5. Why is my organisation's data missing from a recipient country's chart/table/map?
     - Charts need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`.
-    - Tables need a transaction with a :iati-reference:`transaction/transaction-date`in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`.
+    - Tables need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`.
     - Maps need transactions with a valid :iati-reference:`location/point/pos` and :iati-reference:`recipient-country/@code`.
 
 .. _faq_f: 
@@ -86,11 +82,7 @@ Technical FAQs
 
 .. _faq_j: 
 
-<<<<<<< formatting
 \10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes? 
-=======
-\10. Why are `sectors <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/sector/>`_ aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes? 
->>>>>>> main
     Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations.
 
 .. _faq_k:
