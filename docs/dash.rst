@@ -5,7 +5,7 @@ Data Validity and Logs
 D-portal includes tools which can be used to investigate missing data and errors.
 
 `Dash <https://d-portal.org/ctrack.html?#view=dash>`_ 
-    Dash provides an overview of the data populating d-portal from individual reporting organisations. This includes summary statistics, and reports on errors such as invalid recipient countries.
+    Dash provides an overview of the data populating d-portal from individual reporting organisations. This includes summary statistics, and reports on errors such as an invalid :iati-reference:`recipient-country`.
     By showing where invalid data is reported, Dash can help to explain gaps in the data.
 
 `d-portal Logs <https://xriss.github.io/D-Portal-Logs/>`_

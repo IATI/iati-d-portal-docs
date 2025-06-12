@@ -22,10 +22,10 @@ Technical FAQs
 
 .. _faq_a: 
 
-\1. Which `transaction types <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ are used in summary tables?
+\1. Which :iati-reference:`transaction/transaction-type` are used in summary tables?
     - Spend data is the sum of expenditure and disbursements. If these are not published, outgoing commitments will be used. 
     - Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursements will be used.
-    - Budget is the sum of `budgets <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_. If these are not published, `planned disbursements <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/planned-disbursement/>`_ will be used.
+    - Budget is the sum of  :iati-reference:`budget/value`. If these are not published, :iati-reference:`planned-disbursement/value` will be used.
 
 .. _faq_b: 
 
@@ -35,8 +35,8 @@ Technical FAQs
 .. _faq_c: 
 
 \3. How is data assigned to a specific year?
-    - For transactions, using the transaction date, else the value date.
-    - For budgets, using the end date.
+    - For transactions, using :iati-reference:`transaction/transaction-date`, else :iati-reference:`transaction/value/@value-date`.
+    - For budgets, using :iati-reference:`budget/period-end`.
 
 .. _faq_d: 
 
@@ -50,9 +50,9 @@ Technical FAQs
 .. _faq_e: 
 
 \5. Why is my organisation's data missing from a recipient country's chart/table/map?
-    - Charts need a transaction with a transaction date in the relevant year, with a valid recipient country code or sector code.
-    - Tables need a transaction with a transaction date in the relevant year, with a valid recipient country code or sector code.
-    - Maps need transactions with a valid location tag and recipient country code.
+    - Charts need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`.
+    - Tables need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`.
+    - Maps need transactions with a valid :iati-reference:`location/point/pos` and :iati-reference:`recipient-country/@code`.
 
 .. _faq_f: 
 
@@ -82,13 +82,16 @@ Technical FAQs
 
 .. _faq_j: 
 
-\10. Why are `sectors <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/sector/>`_ aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes? 
+\10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes? 
     Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations.
 
 .. _faq_k:
 
 \11. How are results percentages calculated? 
-    The results percentage is the actual value, expressed as a percentage from the baseline value to the target value. It is clamped from 0 to 100.
+    The results percentage is the :iati-reference:`result/indicator/period/actual/@value`, expressed as a percentage from the :iati-reference:`result/indicator/baseline/@value` 
+    to the :iati-reference:`result/indicator/period/target`. 
+    
+    It is clamped from 0 to 100.
     If the target or actual value is less than the baseline value, the percentage will be 0%.
 
     For example, a result could have baseline of 10, a target of 100, and an actual value of 50. 

@@ -1,6 +1,6 @@
-******************
+*******************
 Preview your data
-******************
+*******************
 
 `d-preview <http://d-preview.codeforiati.org/upload>`_ is a tool which generates a private preview of an IATI XML file. Using the same interface as d-portal, d-preview allows users to “proof-read” their IATI XML before publication.
 
