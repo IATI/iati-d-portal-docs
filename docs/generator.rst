@@ -1,6 +1,6 @@
-**************
+****************
 Widget Generator
-**************
+****************
 
 The `d-portal Generator <https://d-portal.org/ctrack.html#view=generator>`_ is a tool to help users to reproduce IATI data in their own webpages or blogs.
 It generates HTML code which you can copy into your webpage to create an IATI widget.
