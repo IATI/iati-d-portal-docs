@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../d_preview.rst:3
+msgid "Preview your data"
+msgstr "Prévisualiser vos données"
+
+#: ../../d_preview.rst:5
+msgid "`d-preview <http://d-preview.codeforiati.org/upload>`_ is a tool which generates a private preview of an IATI XML file. Using the same interface as d-portal, d-preview allows users to “proof-read” their IATI XML before publication."
+msgstr "`d-preview <http://d-preview.codeforIITA.org/upload>`_ est un outil qui génère un aperçu privé d'un fichier XML de lʼIITA. Utilisant la même interface que d-portal, d-preview permet aux utilisateurs de « relire » leur fichier XML de lʼIITA avant publication."
+
+#: ../../d_preview.rst:7
+msgid "Users can upload IATI XML from their computer, or use a link to a file to generate a preview. The link to this preview can also be shared with colleagues and stakeholders."
+msgstr "Les utilisateurs peuvent téléverser le fichier XML de lʼIITA depuis leur ordinateur ou utiliser un lien vers un fichier pour générer un aperçu. Le lien vers cet aperçu peut également être partagé avec des collègues et des parties prenantes."
+
+#: ../../d_preview.rst:9
+msgid "All previews are automatically deleted after ten days."
+msgstr "Tous les aperçus sont automatiquement supprimés au bout de dix jours."

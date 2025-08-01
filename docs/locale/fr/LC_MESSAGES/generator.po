@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../generator.rst:3
+msgid "Widget Generator"
+msgstr "Générateur de widgets"
+
+#: ../../generator.rst:5
+msgid "The `d-portal Generator <https://d-portal.org/ctrack.html#view=generator>`_ is a tool to help users to reproduce IATI data in their own webpages or blogs. It generates HTML code which you can copy into your webpage to create an IATI widget."
+msgstr "Le `générateur de d-portal <https://d-portal.org/ctrack.html#view=generator>`_ est un outil qui aide les utilisateurs à reproduire les données de l'IITA sur leurs propres pages web ou blogs. Il génère un code HTML que vous pouvez copier sur votre page web pour créer un widget de lʼIITA."
+
+#: ../../generator.rst:8
+msgid "These widgets can show IATI data in table, graph, map, or list formats:"
+msgstr "Ces widgets peuvent afficher les données de l'IITA sous forme de tableau, de graphique, de carte ou de liste :"
+
+#: ../../generator.rst:10
+msgid "Published by specific :iati-reference:`reporting-org`"
+msgstr "Publié par :iati-reference:`reporting-org` spécifique"
+
+#: ../../generator.rst:11
+msgid "Describing funds a specific :iati-reference:`recipient-country`."
+msgstr "Décrire les fonds d'un :iati-reference:`recipient-country` spécifique."
+
+#: ../../generator.rst:13
+msgid "The resulting widget will update automatically overnight, in line with d-portal."
+msgstr "Le widget obtenu sera automatiquement mis à jour pendant la nuit, conformément à d-portal."
+
+#: ../../generator.rst:15
+msgid "Both secured and non-secured HTTP access is supported by d-portal. This means users on secured domains should also be able to use d-portal Generator content."
+msgstr "L'accès HTTP sécurisé et non sécurisé est pris en charge par d-portal. Cela signifie que les utilisateurs de domaines sécurisés devraient également être en mesure d'utiliser le contenu du générateur de d-portal."
