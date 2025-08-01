@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../filter_glossary.rst:3
+msgid "Filter glossary"
+msgstr "Glosario de filtros"
+
+#: ../../filter_glossary.rst:5
+msgid "This page provides more detail on the filters and options available in d-portal's search function. Definitions of the codes used in each filter dropdown can be found in the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_."
+msgstr "Esta página proporciona más detalles sobre los filtros y opciones disponibles en la función de búsqueda de d-portal. Las definiciones de los códigos utilizados en cada filtro desplegable pueden consultarse en la `Norma IATI <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_."
+
+#: ../../filter_glossary.rst:9
+msgid "Settings:"
+msgstr "Configuración:"
+
+#: ../../filter_glossary.rst:11
+msgid "ABC - 123"
+msgstr "ABC - 123"
+
+#: ../../filter_glossary.rst:12
+msgid "This button determines the sort order of the dropdown menus; in alphabetical order, or numerical. For example, alphabetically by DAC 3 digit sector codenames, or numerically by sector codes."
+msgstr "Este botón determina el orden de los menús desplegables, alfabético o numérico. Por ejemplo, alfabéticamente por códigos de sector de 3 dígitos del CAD, o numéricamente por códigos de sector."
+
+#: ../../filter_glossary.rst:16
+msgid "Filters:"
+msgstr "Filtros:"
+
+#: ../../filter_glossary.rst:18
+msgid "`Activity Status <https://iatistandard.org/en/iati-standard/203/codelists/activitystatus/>`_"
+msgstr "`Estado de la actividad <https://iatistandard.org/en/iati-standard/203/codelists/activitystatus/>`_"
+
+#: ../../filter_glossary.rst:19
+msgid "A code defining the current status of an activity."
+msgstr "Código que indica el estado actual de una actividad."
+
+#: ../../filter_glossary.rst:21
+msgid "`Collaboration Type     <https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_"
+msgstr "`Tipo de colaboración     <https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_"
+
+#: ../../filter_glossary.rst:22
+msgid "A code defining the type of collaboration involved in an activity's disbursements, for example bilateral or multilateral."
+msgstr "Código que indica el tipo de colaboración relacionada con los desembolsos de una actividad, por ejemplo, bilateral o multilateral."
+
+#: ../../filter_glossary.rst:24
+msgid "`Default Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_"
+msgstr "`Tipo de ayuda predeterminada <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_"
+
+#: ../../filter_glossary.rst:25
+msgid "A code specifying the default type of aid being supplied in an activity, such as project-type intervention or budget support. Individual transactions may have a different code for this element."
+msgstr "Código que especifica el tipo de ayuda predeterminada que se proporciona en una actividad, como intervención de tipo proyecto o presupuesto de apoyo. Las transacciones individuales pueden tener un código diferente para este elemento."
+
+#: ../../filter_glossary.rst:28
+msgid "`Default Finance Type <https://iatistandard.org/en/iati-standard/203/codelists/financetype/>`_"
+msgstr "`Tipo de financiación predeterminada <https://iatistandard.org/en/iati-standard/203/codelists/financetype/>`_"
+
+#: ../../filter_glossary.rst:29
+msgid "A code specifying the default type of finance being described in an activity, such as grants or loans. Individual transactions may have a different code for this element."
+msgstr "Código que especifica el tipo de financiación predeterminada que se describe en una actividad, como subvenciones o préstamos. Las transacciones individuales pueden tener un código diferente para este elemento."
+
+#: ../../filter_glossary.rst:32
+msgid "`Default Flow Type <https://iatistandard.org/en/iati-standard/203/codelists/flowtype/>`_"
+msgstr "`Tipo de flujo predeterminado <https://iatistandard.org/en/iati-standard/203/codelists/flowtype/>`_"
+
+#: ../../filter_glossary.rst:33
+msgid "A code defining the default resource flow type for an activity, for example Official Development Assistance (ODA). Individual transactions may have a different code for this element."
+msgstr "Código que indica el tipo de flujo de recursos predeterminado para una actividad, por ejemplo, asistencia oficial para el desarrollo (AOD). Las transacciones individuales pueden tener un código diferente para este elemento."
+
+#: ../../filter_glossary.rst:36
+msgid "`Default Tied Status <https://iatistandard.org/en/iati-standard/203/codelists/tiedstatus/>`_"
+msgstr "`Estado vinculado predeterminado <https://iatistandard.org/en/iati-standard/203/codelists/tiedstatus/>`_"
+
+#: ../../filter_glossary.rst:37
+msgid "A code defining the default tied status of an activity; untied, tied, or partially tied. Individual transactions may have a different code for this element."
+msgstr "Código que indica el estado de vinculación predeterminado de una actividad: desvinculada, vinculada o parcialmente vinculada. Las transacciones individuales pueden tener un código diferente para este elemento."
+
+#: ../../filter_glossary.rst:40
+msgid "`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_"
+msgstr "`Categoría de documento <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_"
+
+#: ../../filter_glossary.rst:41
+msgid "A code defining the category of documents linked to an activity."
+msgstr "Código que indica la categoría de los documentos vinculados a una actividad."
+
+#: ../../filter_glossary.rst:43
+msgid "`Humanitarian Activity <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/>`_"
+msgstr "`Actividad humanitaria <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/>`_"
+
+#: ../../filter_glossary.rst:44
+msgid "A flag which indicates an activity and/or transaction relates entirely or partially to humanitarian aid."
+msgstr "Etiqueta que indica que una actividad o transacción está relacionada total o parcialmente con la ayuda humanitaria."
+
+#: ../../filter_glossary.rst:46
+msgid "`Humanitarian Scope Vocab <https://iatistandard.org/en/iati-standard/203/codelists/humanitarianscopevocabulary/>`_"
+msgstr "`Vocabulario del ámbito humanitario <https://iatistandard.org/en/iati-standard/203/codelists/humanitarianscopevocabulary/>`_"
+
+#: ../../filter_glossary.rst:47
+msgid "A code for a recognised vocabulary used to classify emergencies, appeals, and other humanitarian events and actions."
+msgstr "Código de un vocabulario reconocido utilizado para clasificar emergencias, llamamientos y otros episodios y acciones humanitarias."
+
+#: ../../filter_glossary.rst:49
+msgid "`Participating Organisation <https://iatiregistry.org/publisher/>`_"
+msgstr "`Organización participante <https://iatiregistry.org/publisher/>`_"
+
+#: ../../filter_glossary.rst:50
+msgid "Organisations involved in an activity. This filter is not extensive, and only includes Reporting Organisations who have registered data on the IATI registry."
+msgstr "Las organizaciones que participan en una actividad. Este filtro no es exhaustivo y solo incluye a las organizaciones que presentan informes que han registrado datos en el Registro de la IATI."
+
+#: ../../filter_glossary.rst:53
+msgid "To search for participating organisations not included in the dropdown menu, you can insert their organisation-identifier (org-id) directly into the d-portal url as follows:"
+msgstr "Para buscar organizaciones participantes no incluidas en el menú desplegable, puede insertar su identificador de organización (org-id) directamente en la url de d-portal de la siguiente manera:"
+
+#: ../../filter_glossary.rst:55
+msgid ":samp:`d-portal.org/ctrack.html?&/participating-org@ref={org-id}#view=main`"
+msgstr ":samp:`d-portal.org/ctrack.html?&/participating-org@ref={org-id}#view=main`"
+
+#: ../../filter_glossary.rst:57
+msgid "Policy Marker"
+msgstr "Marcador de políticas"
+
+#: ../../filter_glossary.rst:58
+msgid "A combination of `Policy Significance <https://iatistandard.org/en/iati-standard/203/codelists/policysignificance/>`_ and `Policy Marker <https://iatistandard.org/en/iati-standard/203/codelists/policymarker/>`_ codes. These define a policy or theme addressed by the activity, and the significance of the policy marker for this activity. For example, the code **0_4** filters for \"not targeted, Trade Development\", while **2_4** filters for \"principal objective, Trade Development\"."
+msgstr "Combinación de los códigos `Policy Significance <https://iatistandard.org/en/iati-standard/203/codelists/policysignificance/>`_ y `Marcador de políticas <https://iatistandard.org/en/iati-standard/203/codelists/policymarker/>`_. Especifican una política o un tema abordado por la actividad, así como la importancia del marcador de políticas para esa actividad. Por ejemplo, el código **0_4** filtra para \"no objetivo, Desarrollo comercial\", mientras que **2_4** filtra para \"objetivo principal, Desarrollo comercial\"."
+
+#: ../../filter_glossary.rst:63
+msgid "`Reporting Organisation <https://iatiregistry.org/publisher/>`_"
+msgstr "`Organización que presenta el informe <https://iatiregistry.org/publisher/>`_"
+
+#: ../../filter_glossary.rst:64
+msgid "The organisation reporting an activity, taken from the IATI Registry."
+msgstr "La organización que informa de una actividad, extraída del Registro de la IATI."
+
+#: ../../filter_glossary.rst:66
+msgid "`Recipient Country <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_"
+msgstr "`País receptor <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_"
+
+#: ../../filter_glossary.rst:67
+msgid "A ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction."
+msgstr "Código ISO 3166-1 alfa 2 que indica el país receptor de una actividad o transacción."
+
+#: ../../filter_glossary.rst:69
+msgid "`Related Activity Type <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`_"
+msgstr "`Tipo de actividad relacionada <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`_"
+
+#: ../../filter_glossary.rst:70
+msgid "A code defining the relationship between an IATI activity and another, separately reported IATI activity."
+msgstr "Código que indica la relación entre una actividad de la IATI y otra notificada por separado."
+
+#: ../../filter_glossary.rst:72
+msgid "`Result Type <https://iatistandard.org/en/iati-standard/203/codelists/resulttype/>`_"
+msgstr "`Tipo de resultado <https://iatistandard.org/en/iati-standard/203/codelists/resulttype/>`_"
+
+#: ../../filter_glossary.rst:73
+msgid "A code defining the type of result being reported in an activity."
+msgstr "Código que indica el tipo de resultado que se comunica en una actividad."
+
+#: ../../filter_glossary.rst:75
+msgid "`Sector <https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_"
+msgstr "`Sector <https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_"
+
+#: ../../filter_glossary.rst:76
+msgid "An OECD DAC 5-digit code classifying the purpose of an activity or transaction."
+msgstr "Código de 5 dígitos del CAD de la OCDE que clasifica la finalidad de una actividad o transacción."
+
+#: ../../filter_glossary.rst:78
+msgid "`Sector Group <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_"
+msgstr "`Grupo de sector <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_"
+
+#: ../../filter_glossary.rst:79
+msgid "An OECD DAC 3-digit code classifying the purpose of an activity or transaction."
+msgstr "Código de 3 dígitos del CAD de la OCDE que clasifica la finalidad de una actividad o transacción."
+
+#: ../../filter_glossary.rst:81
+msgid "`Tag Vocabulary <https://iatistandard.org/en/iati-standard/203/codelists/tagvocabulary/>`_"
+msgstr "`Vocabulario de etiquetas <https://iatistandard.org/en/iati-standard/203/codelists/tagvocabulary/>`_"
+
+#: ../../filter_glossary.rst:82
+msgid "A code defining the tag classification vocabulary used in an activity. For example, the UN Sustainable Development Goals codelist."
+msgstr "Código que indica el vocabulario de clasificación de etiquetas utilizado en una actividad. Por ejemplo, la lista de códigos de los Objetivos de Desarrollo Sostenible de las Naciones Unidas."
+
+#: ../../filter_glossary.rst:84
+msgid "Total Outgoing Commitment"
+msgstr "Compromisos salientes totales"
+
+#: ../../filter_glossary.rst:85
+msgid "The sum of all outgoing commitment `type transactions <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ in an activity. This can be used to filter activities by minimum and/or maximum total Outgoing Commitment."
+msgstr "La suma de todos los `tipos de transacciones <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ que sean compromisos salientes en una actividad. Se puede utilizar para filtrar las actividades por compromiso saliente total mínimo o máximo."
+
+#: ../../filter_glossary.rst:88
+msgid "`Transaction Type <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_"
+msgstr "`Tipo de transacción <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_"
+
+#: ../../filter_glossary.rst:89
+msgid "A code defining the type of transactions in an activity, for example disbursements, or incoming commitments."
+msgstr "Código que indica el tipo de transacciones de una actividad, por ejemplo, los desembolsos o los compromisos recibidos."
+
+#: ../../filter_glossary.rst:91
+msgid "Year Range"
+msgstr "Años"
+
+#: ../../filter_glossary.rst:92
+msgid "The start and/or end year of an activity, taken from actual and planned `activity dates <DAC 3 digit sector>`_. The filter looks for activities that were active in the period between the minimum and maximum year. So activities that started before the end of the max year and ended after the start of the minimum year will be returned."
+msgstr "Los años de inicio o fin de una actividad, tomados de las `fechas de actividad <DAC 3 digit sector>`_ reales y previstas. El filtro busca las actividades que estuvieron activas en el período comprendido entre el año mínimo y el máximo. Por lo tanto, se mostrarán las actividades que hayan comenzado antes del final del año máximo y terminado después del comienzo del año mínimo."

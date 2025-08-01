@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:17
+msgid "Home"
+msgstr "Inicio"
+
+#: ../../index.rst:3
+#: ../../index.rst:17
+msgid "d-portal"
+msgstr "d-portal"
+
+#: ../../index.rst:28
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#: ../../index.rst:38
+msgid "d-portal Tools"
+msgstr "Herramientas de d-portal"
+
+#: ../../index.rst:49
+msgid "PDF"
+msgstr "PDF"
+
+#: ../../index.rst:49
+msgid "Download"
+msgstr "Descargar"
+
+#: ../../index.rst:5
+msgid "d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data. These data are formatted according to the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_."
+msgstr "d-portal es una herramienta que ayuda a los usuarios a explorar los datos de la Iniciativa Internacional para la Transparencia de la Ayuda (IATI). El formato de estos datos se ajusta a la `Norma IATI <https://iatistandard.org/en/iati-standard/203/>`_."
+
+#: ../../index.rst:7
+msgid "Use d-portal if you want to:"
+msgstr "Utilice d-portal si quiere:"
+
+#: ../../index.rst:9
+msgid "View individual IATI activities in detail."
+msgstr "Ver las distintas actividades de la IATI de forma pormenorizada."
+
+#: ../../index.rst:10
+msgid "Search IATI activities using keywords and filters."
+msgstr "Buscar actividades de la IATI utilizando palabras clave y filtros."
+
+#: ../../index.rst:11
+msgid "Access summaries of IATI data by reporting organisation or recipient country."
+msgstr "Acceder a resúmenes de los datos de la IATI por organización que presenta informes o país receptor."
+
+#: ../../index.rst:14
+msgid "Open source"
+msgstr "Código abierto"
+
+#: ../../index.rst:15
+msgid "d-portal.org is an open source platform. This means you can use all aspects of the platform to build your own portal using the `free source code <https://github.com/IATI/D-Portal>`_."
+msgstr "d-portal.org es una plataforma de código abierto. Esto significa que puede utilizar todos los aspectos de la plataforma para construir su propio portal utilizando el `código fuente gratuito <https://github.com/IATI/D-Portal>`_."

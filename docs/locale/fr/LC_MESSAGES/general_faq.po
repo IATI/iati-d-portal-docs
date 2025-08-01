@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../general_faq.rst:3
+msgid "General FAQs"
+msgstr "FAQ générale"
+
+#: ../../general_faq.rst:5
+msgid ":ref:`What data is included in d-portal? <faq_1>`"
+msgstr ":ref:`Quelles sont les données incluses dans d-portal ? <faq_1>`"
+
+#: ../../general_faq.rst:6
+msgid ":ref:`What is IATI? <faq_2>`"
+msgstr ":ref:`Qu'est-ce que l'IITA ? <faq_2>`"
+
+#: ../../general_faq.rst:7
+msgid ":ref:`When is d-portal updated? <faq_3>`"
+msgstr ":ref:`Quand est-ce que d-portal est mis à jour ? <faq_3>`"
+
+#: ../../general_faq.rst:8
+msgid ":ref:`Why is there missing data? <faq_4>`"
+msgstr ":ref:`Pourquoi y a-t-il des données manquantes ? <faq_4>`"
+
+#: ../../general_faq.rst:9
+msgid ":ref:`Why are there zeros and dashes in the tables? <faq_5>`"
+msgstr ":ref:`Pourquoi y a-t-il des zéros et des tirets dans les tableaux ? <faq_5>`"
+
+#: ../../general_faq.rst:10
+msgid ":ref:`Where can I ask questions about d-portal? <faq_6>`"
+msgstr ":ref:`Où puis-je poser des questions sur d-portal ? <faq_6>`"
+
+#: ../../general_faq.rst:20
+msgid "\\1. What data is included in d-portal?"
+msgstr "\\1. Quelles sont les données incluses dans d-portal ?"
+
+#: ../../general_faq.rst:21
+msgid "Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). These data come from the `IATI Registry <https://www.iatiregistry.org/>`_."
+msgstr "Données publiées dans le cadre de l'Initiative internationale pour la transparence de l'aide <https://IITAstandard.org/en/>`_ (IITA). Ces données proviennent du `Registre IITA <https://www.IITAregistry.org/>`_."
+
+#: ../../general_faq.rst:25
+msgid "\\2. What is IATI?"
+msgstr "\\2. Qu'est-ce que l'IITA ?"
+
+#: ../../general_faq.rst:26
+msgid "The `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI) is a global effort to make data about development and humanitarian aid more transparent. IATI data helps people make informed decisions that deliver better results."
+msgstr "L'Initiative internationale pour la transparence de l'aide (IITA) est un mouvement mondial visant à rendre plus transparentes les données relatives au développement et à l'aide humanitaire. Les données de l'IITA aident les individus à prendre des décisions éclairées afin de produire de meilleurs résultats."
+
+#: ../../general_faq.rst:30
+msgid "\\3. When is d-portal updated?"
+msgstr "\\3. Quand d-portal est-il mis à jour ?"
+
+#: ../../general_faq.rst:31
+msgid "d-portal is updated every 24 hours, including all existing and newly published files."
+msgstr "d-portal est mis à jour toutes les 24 heures, y compris tous les fichiers existants et nouvellement publiés."
+
+#: ../../general_faq.rst:35
+msgid "\\4. Why is there missing data?"
+msgstr "\\4. Pourquoi y a-t-il des données manquantes ?"
+
+#: ../../general_faq.rst:36
+msgid "Common reasons for \"missing\" data in d-portal include:"
+msgstr "Les données « manquantes » dans d-portal s'expliquent souvent par les raisons suivantes :"
+
+#: ../../general_faq.rst:38
+msgid "Reporting organisations can include different levels of detail in their data."
+msgstr "Les organismes déclarants peuvent inclure différents niveaux de détail dans leurs données."
+
+#: ../../general_faq.rst:39
+msgid "Reporting organisations may follow different update schedules."
+msgstr "Les organisations déclarantes peuvent suivre des calendriers de mise à jour différents."
+
+#: ../../general_faq.rst:40
+msgid "There may be errors in a reporting organisation's data. This can be checked using the `IATI Validator <https://validator.iatistandard.org/>`_."
+msgstr "Il peut y avoir des erreurs dans les données d'une organisation déclarante. Ceci peut être vérifié à l'aide de lʼ`outil de validation de lʼIITA <https://validator.IITAstandard.org/>`_."
+
+#: ../../general_faq.rst:44
+msgid "\\5. Why are there zeros and dashes in the tables?"
+msgstr "\\5. Pourquoi y a-t-il des zéros et des tirets dans les tableaux ?"
+
+#: ../../general_faq.rst:45
+msgid "Zeroes show issues with data quality. For example, codes which do not follow the IATI Standard."
+msgstr "Les zéros indiquent des problèmes de qualité des données. Par exemple, les codes qui ne suivent pas la norme de l'IITA."
+
+#: ../../general_faq.rst:46
+msgid "Dashes show that an organisation does not currently report IATI data."
+msgstr "Les tirets indiquent qu'une organisation ne communique pas actuellement de données relatives à lʼIITA."
+
+#: ../../general_faq.rst:50
+msgid "\\6. Where can I ask questions about d-portal?"
+msgstr "\\6. Où puis-je poser des questions sur d-portal ?"
+
+#: ../../general_faq.rst:51
+msgid "By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_."
+msgstr "En `contactant lʼassistance de lʼIITA <https://IITAstandard.org/en/guidance/get-support/>`_ ou sur notre `page de résolution de problèmes GitHub <https://github.com/IITA/D-Portal/issues>`_."
