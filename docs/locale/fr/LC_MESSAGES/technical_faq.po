@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../technical_faq.rst:3
+msgid "Technical FAQs"
+msgstr "FAQ technique"
+
+#: ../../technical_faq.rst:5
+msgid ":ref:`Which transaction types are used in summary tables? <faq_a>`"
+msgstr ":ref:`Quels types de transactions sont utilisés dans les tableaux récapitulatifs ? <faq_a>`"
+
+#: ../../technical_faq.rst:6
+msgid ":ref:`How is the data cleaned? <faq_b>`"
+msgstr ":ref:`Comment les données sont-elles nettoyées ? <faq_b>`"
+
+#: ../../technical_faq.rst:7
+msgid ":ref:`How is data assigned to a specific year? <faq_c>`"
+msgstr ":ref:`Comment les données sont-elles assignées à une année spécifique ? <faq_c>`"
+
+#: ../../technical_faq.rst:8
+msgid ":ref:`How are exchange rates calculated? <faq_d>`"
+msgstr ":ref:`Comment les taux de change sont-ils calculés ? <faq_d>`"
+
+#: ../../technical_faq.rst:9
+msgid ":ref:`Why is my organisation's data missing from a recipient country's chart/table/map? <faq_e>`"
+msgstr ":ref:`Pourquoi les données de mon organisation sont-elles absentes du du diagramme/du tableau/de la carte d'un pays bénéficiaire ? <faq_e>`"
+
+#: ../../technical_faq.rst:10
+msgid ":ref:`Why are graphs missing from my activity? <faq_f>`"
+msgstr ":ref:`Pourquoi les graphiques sont-ils absents de mon activité ? <faq_f>`"
+
+#: ../../technical_faq.rst:11
+msgid ":ref:`Why do graphs start at 1970-01-01 for my activity? <faq_g>`"
+msgstr ":ref:`Pourquoi les graphiques commencent-ils à 1970-01-01 pour mon activité ? <faq_g>`"
+
+#: ../../technical_faq.rst:12
+msgid ":ref:`What is the source of country codes and descriptions? <faq_h>`"
+msgstr ":ref:`Quelle est la source des codes et descriptions de pays ? <faq_h>`"
+
+#: ../../technical_faq.rst:13
+msgid ":ref:`Where is the additional data used in d-portal stored? <faq_i>`"
+msgstr ":ref:`Où sont stockées les données supplémentaires utilisées dans d-portal ? <faq_i>`"
+
+#: ../../technical_faq.rst:14
+msgid ":ref:`Why are sectors aggregated using DAC 3 Digit codes? <faq_j>`"
+msgstr ":ref:`Pourquoi les secteurs sont-ils agrégés à l'aide des codes du CAD à 3 chiffres ? <faq_j>`"
+
+#: ../../technical_faq.rst:15
+msgid ":ref:`How are results percentages calculated? <faq_k>`"
+msgstr ":ref:`Comment sont calculés les pourcentages de résultats ? <faq_k>`"
+
+#: ../../technical_faq.rst:25
+msgid "\\1. Which :iati-reference:`transaction/transaction-type` are used in summary tables?"
+msgstr "\\1. Quelles sont les :iati-reference:`transaction/transaction-type` utilisées dans les tableaux récapitulatifs ?"
+
+#: ../../technical_faq.rst:26
+msgid "Spend data is the sum of expenditure and disbursements. If these are not published, outgoing commitments will be used."
+msgstr "Les données relatives aux dépenses correspondent à la somme des dépenses et des décaissements. Si ceux-ci ne sont pas publiés, les engagements sortants seront utilisés."
+
+#: ../../technical_faq.rst:27
+msgid "Total commitment is the sum of outgoing commitments. If these are not published, expenditure and disbursements will be used."
+msgstr "L'engagement total est la somme des engagements sortants. Si ceux-ci ne sont pas publiés, les dépenses et les décaissements seront utilisés."
+
+#: ../../technical_faq.rst:28
+msgid "Budget is the sum of  :iati-reference:`budget/value`. If these are not published, :iati-reference:`planned-disbursement/value` will be used."
+msgstr "Le budget est la somme de :iati-reference:`budget/value`. Si ces données ne sont pas publiées, :iati-reference:`planned-disbursement/value` sera utilisé."
+
+#: ../../technical_faq.rst:32
+msgid "\\2. How is the data cleaned?"
+msgstr "\\2. Comment les données sont-elles nettoyées ?"
+
+#: ../../technical_faq.rst:33
+msgid "To be updated following finalisation of new data policy."
+msgstr "À mettre à jour après la finalisation de la nouvelle politique en matière de données."
+
+#: ../../technical_faq.rst:37
+msgid "\\3. How is data assigned to a specific year?"
+msgstr "\\3. Comment les données sont-elles affectées à une année spécifique ?"
+
+#: ../../technical_faq.rst:38
+msgid "For transactions, using :iati-reference:`transaction/transaction-date`, else :iati-reference:`transaction/value/@value-date`."
+msgstr "Pour les transactions, utiliser :iati-reference:`transaction/transaction-date`, sinon :iati-reference:`transaction/value/@value-date`."
+
+#: ../../technical_faq.rst:39
+msgid "For budgets, using :iati-reference:`budget/period-end`."
+msgstr "Pour les budgets, utiliser :iati-reference:`budget/period-end`."
+
+#: ../../technical_faq.rst:43
+msgid "\\4. How are exchange rates calculated?"
+msgstr "\\4. Comment les taux de change sont-ils calculés ?"
+
+#: ../../technical_faq.rst:44
+msgid "Exchange rates are taken from the `Freechange <https://xriss.github.io/freechange-charts/>`_ application. Freechange uses a number of sources for exchange rates, depending on data availability. These are fully described in the `Freechange Github repository <https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_."
+msgstr "Les taux de change sont tirés de l'application `Freechange <https://xriss.github.io/freechange-charts/>`_. Freechange utilise un certain nombre de sources pour les taux de change, en fonction de la disponibilité des données. Ces dernières sont décrites en détail dans le `référentiel Github Freechange <https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_."
+
+#: ../../technical_faq.rst:46
+msgid "For USD, GBP, EUR, and CAD, currency conversion is carried out when transactions and budgets are imported into d-portal. The `value-date element <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/value/>`_ is used as the exchange date."
+msgstr "La conversion des devise USD, GBP, EUR et CAD est effectuée lorsque les transactions et les budgets sont importés dans d-portal. L'élément `date de la valeur <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/value/>`_ est utilisé comme date d'échange."
+
+#: ../../technical_faq.rst:48
+msgid "For all other currencies, transactions and budgets are initially converted into USD. They are then converted into the target currency using today's exchange rate. These values are estimates, and will be less accurate for older transactions."
+msgstr "Pour toutes les autres devises, les transactions et les budgets sont initialement convertis en USD. Ils sont ensuite convertis dans la devise cible sur la base du taux de change du jour. Ces valeurs sont des estimations et seront moins précises pour les transactions plus anciennes."
+
+#: ../../technical_faq.rst:52
+msgid "\\5. Why is my organisation's data missing from a recipient country's chart/table/map?"
+msgstr "\\5. Pourquoi les données de mon organisation sont-elles absentes du du diagramme/du tableau/de la carte d'un pays bénéficiaire ?"
+
+#: ../../technical_faq.rst:53
+msgid "Charts need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`."
+msgstr "Les graphiques nécessitent une transaction avec une :iati-reference:`transaction/transaction-date` au cours de l'année concernée, avec un :iati-reference:`recipient-country/@code` ou un :iati-reference:`sector/@code` valide."
+
+#: ../../technical_faq.rst:54
+msgid "Tables need a transaction with a :iati-reference:`transaction/transaction-date` in the relevant year, with a valid :iati-reference:`recipient-country/@code` or :iati-reference:`sector/@code`."
+msgstr "Les tableaux requièrent une transaction avec une :iati-reference:`transaction/transaction-date` au cours de l'année concernée, avec un :iati-reference:`recipient-country/@code` ou un :iati-reference:`sector/@code` valide."
+
+#: ../../technical_faq.rst:55
+msgid "Maps need transactions with a valid :iati-reference:`location/point/pos` and :iati-reference:`recipient-country/@code`."
+msgstr "Les cartes requièrent des transactions avec un :iati-reference:`location/point/pos` et un :iati-reference:`recipient-country/@code` valides."
+
+#: ../../technical_faq.rst:59
+msgid "\\6. Why are graphs missing from my activity?"
+msgstr "\\6. Pourquoi les graphiques sont-ils absents de mon activité ?"
+
+#: ../../technical_faq.rst:60
+msgid "Graphs are only shown for an activity if all transactions are in the same currency."
+msgstr "Les graphiques ne sont affichés pour une activité que si toutes les transactions sont effectuées dans la même devise."
+
+#: ../../technical_faq.rst:64
+msgid "\\7. Why do graphs start at 1970-01-01 for my activity?"
+msgstr "\\7. Pourquoi les graphiques commencent-ils à 1970-01-01 pour mon activité ?"
+
+#: ../../technical_faq.rst:65
+msgid "D-portal does not adjust the x-axis when there is only one transaction of a given type, or if all transactions are on the same date. The axis will be adjusted when more transactions are added."
+msgstr "d-portal n'ajuste pas l'axe des x lorsqu'il n'y a qu'une seule transaction d'un type donné, ou si toutes les transactions sont à la même date. L'axe sera ajusté lorsque d'autres transactions seront ajoutées."
+
+#: ../../technical_faq.rst:70
+msgid "\\8. What is the source of country codes and descriptions?"
+msgstr "\\8. Quelle est la source des codes et descriptions de pays ?"
+
+#: ../../technical_faq.rst:71
+msgid "The `ISO 3166-2 Wikipedia page <https://en.wikipedia.org/wiki/ISO_3166-2>`_."
+msgstr "La page Wikipédia `ISO 3166-2 <https://en.wikipedia.org/wiki/ISO_3166-2>`_."
+
+#: ../../technical_faq.rst:75
+msgid "\\9. Where is the additional data used in d-portal stored?"
+msgstr "\\9. Où sont stockées les données supplémentaires utilisées dans d-portal ?"
+
+#: ../../technical_faq.rst:76
+msgid "In `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. This includes:"
+msgstr "Dans `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. Il s'agit notamment des éléments suivants :"
+
+#: ../../technical_faq.rst:78
+msgid "List of Reporting Organisation IDs"
+msgstr "Liste des identifiants des organisations déclarantes"
+
+#: ../../technical_faq.rst:79
+msgid "Currencies"
+msgstr "Devises"
+
+#: ../../technical_faq.rst:80
+msgid "Exchange rates"
+msgstr "Taux de change"
+
+#: ../../technical_faq.rst:81
+msgid "Sector codes"
+msgstr "Codes sectoriels"
+
+#: ../../technical_faq.rst:85
+msgid "\\10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes?"
+msgstr "\\10. Pourquoi les :iati-reference:`sector/@code sont-ils agrégés à l'aide des codes du DAC à 3 chiffres <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ ?"
+
+#: ../../technical_faq.rst:86
+msgid "Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations."
+msgstr "Certaines organisations ne publient des données qu'avec les codes du CAD à 3 chiffres. Les codes du CAD à 5 chiffres sont convertis en 3 chiffres aux fins des visualisations dans d-portal."
+
+#: ../../technical_faq.rst:90
+msgid "\\11. How are results percentages calculated?"
+msgstr "\\11. Comment les pourcentages de résultats sont-ils calculés ?"
+
+#: ../../technical_faq.rst:91
+msgid "The results percentage is the :iati-reference:`result/indicator/period/actual/@value`, expressed as a percentage from the :iati-reference:`result/indicator/baseline/@value` to the :iati-reference:`result/indicator/period/target`."
+msgstr "Le pourcentage du résultat est le :iati-reference:`result/indicator/period/actual/@value`, exprimé en pourcentage du :iati-reference:`result/indicator/baseline/@value` par rapport au :iati-reference:`result/indicator/period/target`."
+
+#: ../../technical_faq.rst:94
+msgid "It is clamped from 0 to 100. If the target or actual value is less than the baseline value, the percentage will be 0%."
+msgstr "Il est compris entre 0 et 100. Si la valeur cible ou réelle est inférieure à la valeur de référence, le pourcentage sera de 0 %."
+
+#: ../../technical_faq.rst:97
+msgid "For example, a result could have baseline of 10, a target of 100, and an actual value of 50."
+msgstr "Par exemple, un résultat peut avoir une base de 10, un objectif de 100 et une valeur réelle de 50."
+
+#: ../../technical_faq.rst:99
+msgid "The baseline to target value change is: ``100 - 10 = 90``"
+msgstr "Le changement de la valeur de référence à la valeur cible est le suivant : ``100 - 10 = 90``"
+
+#: ../../technical_faq.rst:100
+msgid "The baseline to actual value change is: ``50 - 10 = 40``"
+msgstr "La variation de la valeur de référence par rapport à la valeur réelle est la suivante : ``50 - 10 = 40``"
+
+#: ../../technical_faq.rst:101
+msgid "The results percentage is therefore: ``40/90 x 100 = 44%``"
+msgstr "Le pourcentage de résultats est donc le suivant : ``40/90 x 100 = 44 %``"

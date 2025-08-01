@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../d_query.rst:3
+msgid "Query d-portal"
+msgstr "Interroger d-portal"
+
+#: ../../d_query.rst:5
+msgid "`Dquery <https://d-portal.org/dquery/>`_ provides a read only SQL interface to the d-portal database. This includes non-standard attributes and extensions to the IATI Standard which are not displayed by the d-portal site. Data can be downloaded from Dquery in XML, JSON, HTML, and CSV formats."
+msgstr "`Dquery <https://d-portal.org/dquery/>`_ fournit une interface SQL en lecture seule à la base de données d-portal. Il s'agit notamment des attributs non standard et des extensions de la norme de lʼIITA qui ne sont pas affichés par le site d-portail. Les données peuvent être téléchargées depuis Dquery aux formats XML, JSON, HTML et CSV."
+
+#: ../../d_query.rst:8
+msgid "Dquery includes example queries, and the option to view the results of queries on the d-portal site."
+msgstr "Dquery fournit des exemples de requêtes et offre la possibilité de visualiser les résultats des requêtes sur le site d-portal."
+
+#: ../../d_query.rst:10
+msgid "In depth documentation for Dquery is available on `Github <https://github.com/notshi/dquery/blob/master/readme.md>`_."
+msgstr "Une documentation détaillée sur Dquery est disponible sur `Github <https://github.com/notshi/dquery/blob/master/readme.md>`_."
