@@ -52,7 +52,9 @@ Filters:
 .. tip::
     To search for participating organisations not included in the dropdown menu, you can insert their organisation-identifier (org-id) directly into the d-portal url as follows:
 
-        :samp:`d-portal.org/ctrack.html?&/participating-org@ref={org-id}#view=main`
+        :samp:`https://d-portal.iatistandard.org/ctrack.html?&/participating-org@ref={org-id}#view=main` 
+
+    This allows you to see all activities involving participating organisations which do not report IATI data themselves.
 
 Policy Marker
     A combination of `Policy Significance <https://iatistandard.org/en/iati-standard/203/codelists/policysignificance/>`_ and 
@@ -62,6 +64,14 @@ Policy Marker
 
 `Reporting Organisation	<https://iatiregistry.org/publisher/>`_
     The organisation reporting an activity, taken from the IATI Registry.
+
+    
+.. tip::
+    To search for reporting organisations not included in the dropdown menu, you can insert their organisation-identifier (org-id) directly into the d-portal url as follows:
+
+        :samp:`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-id}#view=main` 
+
+    This allows you to access an organisation's data when they are not using their validated organisation-identifier in their publication.
 
 `Recipient Country <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_
     A ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction.
