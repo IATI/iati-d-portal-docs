@@ -143,7 +143,7 @@ html_theme_options = {
     "languages": ["en"],
     "project_title": "d-portal: Documentation",
     "tool_nav_items": {
-        "d-portal": "https://d-portal.org/"
+        "d-portal": "https://d-portal.iatistandard.org/"
     },
 }
 
