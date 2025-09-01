@@ -8,6 +8,7 @@ General FAQs
 4. :ref:`Why is there missing data? <faq_4>`
 5. :ref:`Why are there zeros and dashes in the tables? <faq_5>`
 6. :ref:`Where can I ask questions about d-portal? <faq_6>`
+7. :ref:`Where can I access the classic d-portal theme? <faq_6>`
 
 | 
 
@@ -49,3 +50,8 @@ General FAQs
 
 \6. Where can I ask questions about d-portal?
     By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
+
+.. _faq_7: 
+
+\7. Where can I access the classic d-portal theme? 
+    You can access the classic d-portal theme at https://classic.d-portal.org/.
