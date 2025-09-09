@@ -50,7 +50,7 @@ msgstr "\\1. Quelles sont les données incluses dans d-portal ?"
 
 #: ../../general_faq.rst:21
 msgid "Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). These data come from the `IATI Registry <https://www.iatiregistry.org/>`_."
-msgstr "Données publiées dans le cadre de l'Initiative internationale pour la transparence de l'aide <https://IITAstandard.org/en/>`_ (IITA). Ces données proviennent du `Registre IITA <https://www.IITAregistry.org/>`_."
+msgstr "Données publiées dans le cadre de `l'Initiative internationale pour la transparence de l'aide <https://iatistandard.org/en/>`_ (IITA). Ces données proviennent du `Registre IITA <https://www.iatiregistry.org/>`_."
 
 #: ../../general_faq.rst:25
 msgid "\\2. What is IATI?"
@@ -86,7 +86,7 @@ msgstr "Les organisations déclarantes peuvent suivre des calendriers de mise à
 
 #: ../../general_faq.rst:40
 msgid "There may be errors in a reporting organisation's data. This can be checked using the `IATI Validator <https://validator.iatistandard.org/>`_."
-msgstr "Il peut y avoir des erreurs dans les données d'une organisation déclarante. Ceci peut être vérifié à l'aide de lʼ`outil de validation de lʼIITA <https://validator.IITAstandard.org/>`_."
+msgstr "Il peut y avoir des erreurs dans les données d'une organisation déclarante. Ceci peut être vérifié à l'aide de lʼ `outil de validation de lʼIITA <https://validator.iatistandard.org/>`_."
 
 #: ../../general_faq.rst:44
 msgid "\\5. Why are there zeros and dashes in the tables?"
@@ -106,4 +106,4 @@ msgstr "\\6. Où puis-je poser des questions sur d-portal ?"
 
 #: ../../general_faq.rst:51
 msgid "By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_."
-msgstr "En `contactant lʼassistance de lʼIITA <https://IITAstandard.org/en/guidance/get-support/>`_ ou sur notre `page de résolution de problèmes GitHub <https://github.com/IITA/D-Portal/issues>`_."
+msgstr "En `contactant lʼassistance de lʼIITA <https://iatistandard.org/en/guidance/get-support/>`_ ou sur notre `page de résolution de problèmes GitHub <https://github.com/IITA/D-Portal/issues>`_."

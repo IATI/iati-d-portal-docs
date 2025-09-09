@@ -34,7 +34,7 @@ msgstr "Filtres :"
 
 #: ../../getting_started.rst:11
 msgid "The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example. You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters. See the :ref:`Filter glossary` page for more details."
-msgstr "Les filtres sont basés sur les éléments de la `norme de lʼIITA <https://IITAstandard.org/en/IITA-standard/203/activity-standard/>`_. Il s'agit par exemple de :iati-reference:`recipient-country`, :iati-reference:`sector`, et :iati-reference:`reporting-org`. Vous pouvez sélectionner plusieurs filtres à l'aide des menus déroulants. Cliquer sur « Plus de filtres » permet d'afficher un plus grand nombre de filtres. Voir la page :ref:`Glossaire des filtres` pour plus de détails."
+msgstr "Les filtres sont basés sur les éléments de la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/activity-standard/>`_. Il s'agit par exemple de :iati-reference:`recipient-country`, :iati-reference:`sector`, et :iati-reference:`reporting-org`. Vous pouvez sélectionner plusieurs filtres à l'aide des menus déroulants. Cliquer sur « Plus de filtres » permet d'afficher un plus grand nombre de filtres. Voir la page :ref:`Glossaire des filtres` pour plus de détails."
 
 #: ../../getting_started.rst:17
 msgid "Freetext:"
@@ -42,7 +42,7 @@ msgstr "Texte libre :"
 
 #: ../../getting_started.rst:18
 msgid "The freetext search box searches against the  :iati-reference:`title` and :iati-reference:`description` elements of IATI activities."
-msgstr "La barre de recherche pour texte libre permet d'effectuer une recherche sur les éléments :IITA-reference:`titre` et :IITA-reference:`description` des activités de l'IITA."
+msgstr "La barre de recherche pour texte libre permet d'effectuer une recherche sur les éléments :iati-reference:`titre` et :iati-reference:`description` des activités de l'IITA."
 
 #: ../../getting_started.rst:20
 msgid "Once your search query is ready, you can click \"Explore Results\" to view the activities."

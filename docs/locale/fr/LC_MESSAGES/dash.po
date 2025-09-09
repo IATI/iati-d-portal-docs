@@ -34,7 +34,7 @@ msgstr "Dash fournit un aperçu des données qui alimentent d-portal depuis des 
 
 #: ../../dash.rst:11
 msgid "`d-portal Logs <https://xriss.github.io/D-Portal-Logs/>`_"
-msgstr "`Journaux du d-portal<https://xriss.github.io/D-Portal-Logs/>`_"
+msgstr "`Journaux du d-portal <https://xriss.github.io/D-Portal-Logs/>`_"
 
 #: ../../dash.rst:12
 msgid "The d-portal logs site hosts two tools; Database Logs and Xpath Stats."

@@ -50,7 +50,7 @@ msgstr "\\1. ¿Qué datos se incluyen en d-portal?"
 
 #: ../../general_faq.rst:21
 msgid "Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). These data come from the `IATI Registry <https://www.iatiregistry.org/>`_."
-msgstr "Los datos publicados en la Iniciativa Internacional para la Transparencia de la Ayuda <https://iatistandard.org/en/>`_ (IATI). Estos datos proceden del `Registro de la IATI <https://www.iatiregistry.org/>`_."
+msgstr "Los datos publicados en la `Iniciativa Internacional para la Transparencia de la Ayuda <https://iatistandard.org/en/>`_ (IATI). Estos datos proceden del `Registro de la IATI <https://www.iatiregistry.org/>`_."
 
 #: ../../general_faq.rst:25
 msgid "\\2. What is IATI?"

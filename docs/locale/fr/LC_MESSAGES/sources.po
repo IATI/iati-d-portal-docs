@@ -34,7 +34,7 @@ msgstr "Données de lʼIITA"
 
 #: ../../sources.rst:8
 msgid "`IATI Registry <http://iatiregistry.org/>`_"
-msgstr "`Registre de lʼIITA <http://IITAregistry.org/>`_"
+msgstr "`Registre de lʼIITA <http://iatiregistry.org/>`_"
 
 #: ../../sources.rst:10
 msgid "IATI Standard"
@@ -42,7 +42,7 @@ msgstr "Norme de lʼIITA"
 
 #: ../../sources.rst:10
 msgid "`IATI Standard <https://iatistandard.org/en/iati-standard/>`_"
-msgstr "Les données de l'IITA sont formatées conformément à la `norme IITA <https://IITAstandard.org/en/IITA-standard/203/>`_"
+msgstr "Les données de l'IITA sont formatées conformément à la `norme IITA <https://iatistandard.org/en/IITA-standard/203/>`_"
 
 #: ../../sources.rst:12
 msgid "Country Flags"

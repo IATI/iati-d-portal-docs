@@ -43,7 +43,7 @@ msgstr "Télécharger"
 
 #: ../../index.rst:5
 msgid "d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data. These data are formatted according to the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_."
-msgstr "d-portal est un outil qui aide les utilisateurs à explorer les données de l'Initiative internationale pour la transparence de l'aide (IITA). Les données de l'IITA sont formatées conformément à la `norme de lʼIITA <https://IITAstandard.org/en/IITA-standard/203/>`_."
+msgstr "d-portal est un outil qui aide les utilisateurs à explorer les données de l'Initiative internationale pour la transparence de l'aide (IITA). Les données de l'IITA sont formatées conformément à la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/>`_."
 
 #: ../../index.rst:7
 msgid "Use d-portal if you want to:"

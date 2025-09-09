@@ -22,7 +22,7 @@ msgstr "Glossaire des filtres"
 
 #: ../../filter_glossary.rst:5
 msgid "This page provides more detail on the filters and options available in d-portal's search function. Definitions of the codes used in each filter dropdown can be found in the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_."
-msgstr "Cette page fournit plus de détails sur les filtres et les options disponibles dans la fonction de recherche de d-portal. Les définitions des codes utilisés dans chaque filtre peuvent être consultées dans la `norme de lʼIITA <https://IITAstandard.org/en/IITA-standard/203/activity-standard/>`_."
+msgstr "Cette page fournit plus de détails sur les filtres et les options disponibles dans la fonction de recherche de d-portal. Les définitions des codes utilisés dans chaque filtre peuvent être consultées dans la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/activity-standard/>`_."
 
 #: ../../filter_glossary.rst:9
 msgid "Settings:"
@@ -42,7 +42,7 @@ msgstr "Filtres :"
 
 #: ../../filter_glossary.rst:18
 msgid "`Activity Status <https://iatistandard.org/en/iati-standard/203/codelists/activitystatus/>`_"
-msgstr "`Statut de l'activité <https://IITAstandard.org/en/IITA-standard/203/codelists/activitystatus/>`_"
+msgstr "`Statut de l'activité <https://iatistandard.org/en/IITA-standard/203/codelists/activitystatus/>`_"
 
 #: ../../filter_glossary.rst:19
 msgid "A code defining the current status of an activity."
@@ -50,7 +50,7 @@ msgstr "Code définissant l'état actuel d'une activité."
 
 #: ../../filter_glossary.rst:21
 msgid "`Collaboration Type     <https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_"
-msgstr "`Type de collaboration <https://IITAstandard.org/en/IITA-standard/203/codelists/collaborationtype/>`_"
+msgstr "`Type de collaboration <https://iatistandard.org/en/IITA-standard/203/codelists/collaborationtype/>`_"
 
 #: ../../filter_glossary.rst:22
 msgid "A code defining the type of collaboration involved in an activity's disbursements, for example bilateral or multilateral."
@@ -58,7 +58,7 @@ msgstr "Le type de collaboration impliqué dans les décaissements de fonds de l
 
 #: ../../filter_glossary.rst:24
 msgid "`Default Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_"
-msgstr "`Type d'aide par défaut <https://IITAstandard.org/en/IITA-standard/203/codelists/aidtype/>`_"
+msgstr "`Type d'aide par défaut <https://iatistandard.org/en/IITA-standard/203/codelists/aidtype/>`_"
 
 #: ../../filter_glossary.rst:25
 msgid "A code specifying the default type of aid being supplied in an activity, such as project-type intervention or budget support. Individual transactions may have a different code for this element."
@@ -66,7 +66,7 @@ msgstr "Code indiquant le type d'aide fourni par défaut dans le cadre d'une act
 
 #: ../../filter_glossary.rst:28
 msgid "`Default Finance Type <https://iatistandard.org/en/iati-standard/203/codelists/financetype/>`_"
-msgstr "`Type de financement par défaut <https://IITAstandard.org/en/IITA-standard/203/codelists/financetype/>`_"
+msgstr "`Type de financement par défaut <https://iatistandard.org/en/IITA-standard/203/codelists/financetype/>`_"
 
 #: ../../filter_glossary.rst:29
 msgid "A code specifying the default type of finance being described in an activity, such as grants or loans. Individual transactions may have a different code for this element."
@@ -74,7 +74,7 @@ msgstr "Un code spécifiant le type de financement par défaut décrit dans une 
 
 #: ../../filter_glossary.rst:32
 msgid "`Default Flow Type <https://iatistandard.org/en/iati-standard/203/codelists/flowtype/>`_"
-msgstr "`Type de flux par défaut <https://IITAstandard.org/en/IITA-standard/203/codelists/flowtype/>`_"
+msgstr "`Type de flux par défaut <https://iatistandard.org/en/IITA-standard/203/codelists/flowtype/>`_"
 
 #: ../../filter_glossary.rst:33
 msgid "A code defining the default resource flow type for an activity, for example Official Development Assistance (ODA). Individual transactions may have a different code for this element."
@@ -82,7 +82,7 @@ msgstr "Code définissant le type de flux de ressources par défaut pour une act
 
 #: ../../filter_glossary.rst:36
 msgid "`Default Tied Status <https://iatistandard.org/en/iati-standard/203/codelists/tiedstatus/>`_"
-msgstr "`Statut conditionnel par défaut <https://IITAstandard.org/en/IITA-standard/203/codelists/tiedstatus/>`_"
+msgstr "`Statut conditionnel par défaut <https://iatistandard.org/en/IITA-standard/203/codelists/tiedstatus/>`_"
 
 #: ../../filter_glossary.rst:37
 msgid "A code defining the default tied status of an activity; untied, tied, or partially tied. Individual transactions may have a different code for this element."
@@ -90,7 +90,7 @@ msgstr "Un code définissant le statut conditionnel par défaut d'une activité�
 
 #: ../../filter_glossary.rst:40
 msgid "`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_"
-msgstr "`Catégorie de document <https://IITAstandard.org/en/IITA-standard/203/codelists/documentcategory/>`_"
+msgstr "`Catégorie de document <https://iatistandard.org/en/IITA-standard/203/codelists/documentcategory/>`_"
 
 #: ../../filter_glossary.rst:41
 msgid "A code defining the category of documents linked to an activity."
@@ -98,7 +98,7 @@ msgstr "Code définissant la catégorie de documents liés à une activité."
 
 #: ../../filter_glossary.rst:43
 msgid "`Humanitarian Activity <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/>`_"
-msgstr "`Activité humanitaire <https://IITAstandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/>`_"
+msgstr "`Activité humanitaire <https://iatistandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/>`_"
 
 #: ../../filter_glossary.rst:44
 msgid "A flag which indicates an activity and/or transaction relates entirely or partially to humanitarian aid."
@@ -106,7 +106,7 @@ msgstr "Un drapeau qui indique qu'une activité ou une transaction est entièrem
 
 #: ../../filter_glossary.rst:46
 msgid "`Humanitarian Scope Vocab <https://iatistandard.org/en/iati-standard/203/codelists/humanitarianscopevocabulary/>`_"
-msgstr "`Vocabulaire du champ d'application humanitaire <https://IITAstandard.org/en/IITA-standard/203/codelists/humanitarianscopevocabulary/>`_"
+msgstr "`Vocabulaire du champ d'application humanitaire <https://iatistandard.org/en/IITA-standard/203/codelists/humanitarianscopevocabulary/>`_"
 
 #: ../../filter_glossary.rst:47
 msgid "A code for a recognised vocabulary used to classify emergencies, appeals, and other humanitarian events and actions."
@@ -114,7 +114,7 @@ msgstr "Code du vocable reconnu utilisé pour classer les situations dʼurgence,
 
 #: ../../filter_glossary.rst:49
 msgid "`Participating Organisation <https://iatiregistry.org/publisher/>`_"
-msgstr "`Organisation participante <https://IITAregistry.org/publisher/>`_"
+msgstr "`Organisation participante <https://iatiregistry.org/publisher/>`_"
 
 #: ../../filter_glossary.rst:50
 msgid "Organisations involved in an activity. This filter is not extensive, and only includes Reporting Organisations who have registered data on the IATI registry."
@@ -134,11 +134,11 @@ msgstr "Marqueur de politique"
 
 #: ../../filter_glossary.rst:58
 msgid "A combination of `Policy Significance <https://iatistandard.org/en/iati-standard/203/codelists/policysignificance/>`_ and `Policy Marker <https://iatistandard.org/en/iati-standard/203/codelists/policymarker/>`_ codes. These define a policy or theme addressed by the activity, and the significance of the policy marker for this activity. For example, the code **0_4** filters for \"not targeted, Trade Development\", while **2_4** filters for \"principal objective, Trade Development\"."
-msgstr "Combinaison des codes `Importance de la politique <https://IITAstandard.org/en/IITA-standard/203/codelists/policysignificance/>`_ et `Marqueur de politique <https://IITAstandard.org/en/IITA-standard/203/codelists/policymarker/>`_. Ils définissent une politique ou un thème abordé par l'activité, ainsi que l'importance du marqueur politique pour cette activité. Par exemple, le code **0_4** filtre pour « non ciblé, développement commercial », tandis que **2_4** filtre pour « objectif principal, développement commercial »."
+msgstr "Combinaison des codes `Importance de la politique <https://iatistandard.org/en/IITA-standard/203/codelists/policysignificance/>`_ et `Marqueur de politique <https://iatistandard.org/en/IITA-standard/203/codelists/policymarker/>`_. Ils définissent une politique ou un thème abordé par l'activité, ainsi que l'importance du marqueur politique pour cette activité. Par exemple, le code **0_4** filtre pour « non ciblé, développement commercial », tandis que **2_4** filtre pour « objectif principal, développement commercial »."
 
 #: ../../filter_glossary.rst:63
 msgid "`Reporting Organisation <https://iatiregistry.org/publisher/>`_"
-msgstr "`Organisation déclarante <https://IITAregistry.org/publisher/>`_"
+msgstr "`Organisation déclarante <https://iatiregistry.org/publisher/>`_"
 
 #: ../../filter_glossary.rst:64
 msgid "The organisation reporting an activity, taken from the IATI Registry."
@@ -146,7 +146,7 @@ msgstr "L'organisation qui déclare une activité, extraite du registre de l'IIT
 
 #: ../../filter_glossary.rst:66
 msgid "`Recipient Country <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_"
-msgstr "`Pays bénéficiaire <https://IITAstandard.org/en/IITA-standard/203/codelists/country/>`_"
+msgstr "`Pays bénéficiaire <https://iatistandard.org/en/IITA-standard/203/codelists/country/>`_"
 
 #: ../../filter_glossary.rst:67
 msgid "A ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction."
@@ -154,7 +154,7 @@ msgstr "Code ISO 3166-1 alpha-2 spécifiant le pays bénéficiaire d'une activ
 
 #: ../../filter_glossary.rst:69
 msgid "`Related Activity Type <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`_"
-msgstr "`Type d'activité connexe <https://IITAstandard.org/en/IITA-standard/203/codelists/relatedactivitytype/>`_"
+msgstr "`Type d'activité connexe <https://iatistandard.org/en/IITA-standard/203/codelists/relatedactivitytype/>`_"
 
 #: ../../filter_glossary.rst:70
 msgid "A code defining the relationship between an IATI activity and another, separately reported IATI activity."
@@ -162,7 +162,7 @@ msgstr "Code définissant la relation entre une activité de l'IITA et une autre
 
 #: ../../filter_glossary.rst:72
 msgid "`Result Type <https://iatistandard.org/en/iati-standard/203/codelists/resulttype/>`_"
-msgstr "`Type de résultat <https://IITAstandard.org/en/IITA-standard/203/codelists/resulttype/>`_"
+msgstr "`Type de résultat <https://iatistandard.org/en/IITA-standard/203/codelists/resulttype/>`_"
 
 #: ../../filter_glossary.rst:73
 msgid "A code defining the type of result being reported in an activity."
@@ -170,7 +170,7 @@ msgstr "Code définissant le type de résultat déclaré dans une activité."
 
 #: ../../filter_glossary.rst:75
 msgid "`Sector <https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_"
-msgstr "`Secteur <https://IITAstandard.org/en/IITA-standard/203/codelists/sector/>`_"
+msgstr "`Secteur <https://iatistandard.org/en/IITA-standard/203/codelists/sector/>`_"
 
 #: ../../filter_glossary.rst:76
 msgid "An OECD DAC 5-digit code classifying the purpose of an activity or transaction."
@@ -178,7 +178,7 @@ msgstr "Code à 5 chiffres du CAD de l'OCDE définissant l'objet d'une activit�
 
 #: ../../filter_glossary.rst:78
 msgid "`Sector Group <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_"
-msgstr "`Groupe sectoriel <https://IITAstandard.org/en/IITA-standard/203/codelists/sectorcategory/>`_"
+msgstr "`Groupe sectoriel <https://iatistandard.org/en/IITA-standard/203/codelists/sectorcategory/>`_"
 
 #: ../../filter_glossary.rst:79
 msgid "An OECD DAC 3-digit code classifying the purpose of an activity or transaction."
@@ -186,7 +186,7 @@ msgstr "Code à 3 chiffres du CAD de l'OCDE classant l'objet d'une activité ou
 
 #: ../../filter_glossary.rst:81
 msgid "`Tag Vocabulary <https://iatistandard.org/en/iati-standard/203/codelists/tagvocabulary/>`_"
-msgstr "`Vocable des étiquettes <https://IITAstandard.org/en/IITA-standard/203/codelists/tagvocabulary/>`_"
+msgstr "`Vocable des étiquettes <https://iatistandard.org/en/IITA-standard/203/codelists/tagvocabulary/>`_"
 
 #: ../../filter_glossary.rst:82
 msgid "A code defining the tag classification vocabulary used in an activity. For example, the UN Sustainable Development Goals codelist."
@@ -198,11 +198,11 @@ msgstr "Engagement sortant total"
 
 #: ../../filter_glossary.rst:85
 msgid "The sum of all outgoing commitment `type transactions <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ in an activity. This can be used to filter activities by minimum and/or maximum total Outgoing Commitment."
-msgstr "La somme de toutes les transactions de type engagement <https://IITAstandard.org/en/IITA-standard/203/codelists/transactiontype/>`_ dans une activité. Cette option peut être utilisée pour filtrer les activités en fonction de l'engagement sortant total minimum et/ou maximum."
+msgstr "La somme de toutes `les transactions de type engagement <https://iatistandard.org/en/IITA-standard/203/codelists/transactiontype/>`_ dans une activité. Cette option peut être utilisée pour filtrer les activités en fonction de l'engagement sortant total minimum et/ou maximum."
 
 #: ../../filter_glossary.rst:88
 msgid "`Transaction Type <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_"
-msgstr "`Type de transaction <https://IITAstandard.org/en/IITA-standard/203/codelists/transactiontype/>`_"
+msgstr "`Type de transaction <https://iatistandard.org/en/IITA-standard/203/codelists/transactiontype/>`_"
 
 #: ../../filter_glossary.rst:89
 msgid "A code defining the type of transactions in an activity, for example disbursements, or incoming commitments."
