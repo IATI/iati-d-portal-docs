@@ -182,7 +182,7 @@ msgstr "Codes sectoriels"
 
 #: ../../technical_faq.rst:85
 msgid "\\10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ codes?"
-msgstr "\\10. Pourquoi les :iati-reference:`sector/@code` sont-ils agrégés à l'aide des codes du DAC à 3 chiffres <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ ?"
+msgstr "\\10. Pourquoi les :iati-reference:`sector/@code` sont-ils agrégés à l'aide des codes du `DAC à 3 chiffres <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_ ?"
 
 #: ../../technical_faq.rst:86
 msgid "Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit codes are converted to 3 digits for d-portal visualisations."
