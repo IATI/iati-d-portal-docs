@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../view_your_data.rst:3
+msgid "View your data"
+msgstr "Consulter vos données"
+
+#: ../../view_your_data.rst:5
+msgid "Once your organisation's data is registered with IATI, it can be accessed by anyone through tools such as d-portal. Recent changes can take up to 48 hours to update."
+msgstr "Une fois que les données de votre organisation sont enregistrées dans l'IITA, tout le monde peut y accéder grâce à des outils tels que d-portal. La mise à jour des nouveaux fichiers peut prendre jusqu'à 24 heures."
+
+#: ../../view_your_data.rst:8
+msgid "To view your data on d-portal, select your organisation from the drop-down list of Reporting Organisations. Then click “Explore Results” to see the overview page for your organisation, including:"
+msgstr "Pour consulter vos données sur d-portal, sélectionnez votre organisation dans la liste déroulante des organisations déclarantes. Cliquez ensuite sur « Rechercher les résultats » pour afficher la page de présentation de votre organisation, notamment :"
+
+#: ../../view_your_data.rst:11
+msgid "Active, ended, and total number of activities"
+msgstr "les activités en cours, les activités terminées et le nombre total d'activités"
+
+#: ../../view_your_data.rst:12
+msgid "All your published IATI activities, split by status. Click any of these to see a list of your activities."
+msgstr "toutes vos activités IITA publiées, ventilées par statut. Cliquez sur l'une d'entre elles pour afficher la liste de vos activités."
+
+#: ../../view_your_data.rst:13
+msgid "Funding went to..."
+msgstr "Le financement a été accordé à..."
+
+#: ../../view_your_data.rst:14
+msgid "Your organisation's annual spend and budget for recipient countries. Allocated budget shows activity level budgets for each country. Total budget shows organisation level budgets."
+msgstr "Dépenses et budget annuels de votre organisation en faveur des pays bénéficiaires. Le budget alloué affiche les budgets au niveau des activités pour chaque pays. Le budget total indique les budgets à lʼéchelle de l'organisation."
+
+#: ../../view_your_data.rst:16
+msgid "Where does the money go?"
+msgstr "Où va cet argent ?"
+
+#: ../../view_your_data.rst:17
+msgid "Your organisation's annual spend and budget by sector, using DAC 3 Digit sector codes."
+msgstr "Les dépenses et le budget annuels de votre organisation par secteur, en utilisant les codes sectoriels du CAD à 3 chiffres."
+
+#: ../../view_your_data.rst:18
+msgid "Heatmap of all activities"
+msgstr "Carte thermique de toutes les activités"
+
+#: ../../view_your_data.rst:19
+msgid "A heatmap of all your activities using longitude and latitude data."
+msgstr "Une carte thermique de toutes vos activités utilisant des données de longitude et de latitude."
+
+#: ../../view_your_data.rst:20
+msgid "Organisation file"
+msgstr "Fichier organisationnel"
+
+#: ../../view_your_data.rst:21
+msgid "Information reported in your organisation file, including organisation level documents and budgets."
+msgstr "Les informations figurant dans votre fichier organisationnel, y compris les documents et les budgets à lʼéchelle de l'organisation."
+
+#: ../../view_your_data.rst:23
+msgid "You can also click the \"View this organisation as a Participating Organisation\" button. This displays activities which reference your organisation as a funding, accountable, extending, or implementing organisation."
+msgstr "Vous pouvez également cliquer sur le bouton « Considérer cette organisation comme organisation participante ». Cette rubrique affiche les activités qui font référence à votre organisation en tant qu'organisme financeur, responsable, élargissant ou mettant en œuvre le projet."

@@ -8,7 +8,7 @@ alabaster==1.0.0
     # via
     #   -r requirements.txt
     #   sphinx
-anyio==4.9.0
+anyio==4.10.0
     # via
     #   starlette
     #   watchfiles
@@ -23,11 +23,11 @@ babel==2.17.0
     #   sphinx-intl
 black==25.1.0
     # via -r requirements_dev.in
-certifi==2025.6.15
+certifi==2025.8.3
     # via
     #   -r requirements.txt
     #   requests
-charset-normalizer==3.4.2
+charset-normalizer==3.4.3
     # via
     #   -r requirements.txt
     #   requests
@@ -49,7 +49,7 @@ docutils==0.21.2
     #   sphinxcontrib-opendataservices-jsonschema
 h11==0.16.0
     # via uvicorn
-iati-sphinx-theme==3.0.0
+iati-sphinx-theme==3.1.0
     # via -r requirements.txt
 idna==3.10
     # via
@@ -92,7 +92,7 @@ markupsafe==3.0.2
     # via
     #   -r requirements.txt
     #   jinja2
-mdit-py-plugins==0.4.2
+mdit-py-plugins==0.5.0
     # via
     #   -r requirements.txt
     #   myst-parser
@@ -114,7 +114,7 @@ packaging==25.0
     #   sphinx
 pathspec==0.12.1
     # via black
-platformdirs==4.3.8
+platformdirs==4.4.0
     # via black
 pygments==2.19.2
     # via
@@ -128,7 +128,7 @@ referencing==0.36.2
     # via
     #   -r requirements.txt
     #   sphinxcontrib-opendataservices-jsonschema
-requests==2.32.4
+requests==2.32.5
     # via
     #   -r requirements.txt
     #   jscc
@@ -137,7 +137,7 @@ roman-numerals-py==3.1.0
     # via
     #   -r requirements.txt
     #   sphinx
-rpds-py==0.25.1
+rpds-py==0.27.1
     # via
     #   -r requirements.txt
     #   referencing
@@ -155,9 +155,9 @@ sphinx==8.2.3
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
-sphinx-autobuild==2024.10.3
+sphinx-autobuild==2025.8.25
     # via -r requirements_dev.in
-sphinx-intl==2.3.1
+sphinx-intl==2.3.2
     # via -r requirements.txt
 sphinx-togglebutton==0.3.2
     # via -r requirements.txt
@@ -191,13 +191,13 @@ sphinxcontrib-serializinghtml==2.0.0
     # via
     #   -r requirements.txt
     #   sphinx
-starlette==0.47.1
+starlette==0.47.3
     # via sphinx-autobuild
 urllib3==2.5.0
     # via
     #   -r requirements.txt
     #   requests
-uvicorn==0.34.3
+uvicorn==0.35.0
     # via sphinx-autobuild
 watchfiles==1.1.0
     # via sphinx-autobuild

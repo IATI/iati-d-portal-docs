@@ -12,9 +12,9 @@ babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2025.6.15
+certifi==2025.8.3
     # via requests
-charset-normalizer==3.4.2
+charset-normalizer==3.4.3
     # via requests
 click==8.2.1
     # via sphinx-intl
@@ -25,7 +25,7 @@ docutils==0.21.2
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-iati-sphinx-theme==3.0.0
+iati-sphinx-theme==3.1.0
     # via -r requirements.in
 idna==3.10
     # via requests
@@ -53,7 +53,7 @@ markdown-it-py==3.0.0
     #   myst-parser
 markupsafe==3.0.2
     # via jinja2
-mdit-py-plugins==0.4.2
+mdit-py-plugins==0.5.0
     # via myst-parser
 mdurl==0.1.2
     # via markdown-it-py
@@ -69,13 +69,13 @@ pyyaml==6.0.2
     # via myst-parser
 referencing==0.36.2
     # via sphinxcontrib-opendataservices-jsonschema
-requests==2.32.4
+requests==2.32.5
     # via
     #   jscc
     #   sphinx
 roman-numerals-py==3.1.0
     # via sphinx
-rpds-py==0.25.1
+rpds-py==0.27.1
     # via referencing
 snowballstemmer==3.0.1
     # via sphinx
@@ -86,7 +86,7 @@ sphinx==8.2.3
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
-sphinx-intl==2.3.1
+sphinx-intl==2.3.2
     # via -r requirements.in
 sphinx-togglebutton==0.3.2
     # via -r requirements.in

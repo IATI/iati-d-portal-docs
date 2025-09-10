@@ -17,7 +17,8 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
+import iati_sphinx_theme
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -140,11 +141,12 @@ html_css_files = [
 html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-d-portal-docs",
     "header_title_text": "d-portal",
-    "languages": ["en"],
+    "languages": ["en", "es", "fr"],
     "project_title": "d-portal: Documentation",
     "tool_nav_items": {
         "d-portal": "https://d-portal.iatistandard.org/"
     },
+    "show_download_links": True,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -358,7 +360,7 @@ texinfo_documents = [
 # texinfo_no_detailmenu = False
 
 
-locale_dirs = ['locale/']   # path is example but recommended.
+locale_dirs = ['locale/', os.path.join(os.path.dirname(iati_sphinx_theme.__file__), 'locale')]   # path is example but recommended.
 gettext_compact = False     # optional.
 
 togglebutton_hint = ""

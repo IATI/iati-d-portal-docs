@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../sources.rst:3
+msgid "Data Sources"
+msgstr "Sources des données"
+
+#: ../../sources.rst:6
+msgid "Data"
+msgstr "Données"
+
+#: ../../sources.rst:6
+msgid "Source"
+msgstr "Source"
+
+#: ../../sources.rst:8
+msgid "IATI Data"
+msgstr "Données de lʼIITA"
+
+#: ../../sources.rst:8
+msgid "`IATI Registry <http://iatiregistry.org/>`_"
+msgstr "`Registre de lʼIITA <http://iatiregistry.org/>`_"
+
+#: ../../sources.rst:10
+msgid "IATI Standard"
+msgstr "Norme de lʼIITA"
+
+#: ../../sources.rst:10
+msgid "`IATI Standard <https://iatistandard.org/en/iati-standard/>`_"
+msgstr "Les données de l'IITA sont formatées conformément à la `norme IITA <https://iatistandard.org/en/IITA-standard/203/>`_"
+
+#: ../../sources.rst:12
+msgid "Country Flags"
+msgstr "Drapeaux de pays"
+
+#: ../../sources.rst:12
+msgid "`Wikipedia Public Domain only images <http://en.wikipedia.org/>`_"
+msgstr "`Wikipédia Images du domaine public uniquement <http://en.wikipedia.org/>`_"
+
+#: ../../sources.rst:14
+msgid "Country Names and Codes"
+msgstr "Noms et codes de pays"
+
+#: ../../sources.rst:14
+msgid "`ISO3166 Alpha-2 <http://en.wikipedia.org/wiki/ISO_3166-2>`_"
+msgstr "`ISO3166 Alpha-2 <http://en.wikipedia.org/wiki/ISO_3166-2>`_"
+
+#: ../../sources.rst:16
+msgid "Exchange Rates (1st preference)"
+msgstr "Taux de change (1er choix)"
+
+#: ../../sources.rst:16
+msgid "`International Monetary Fund <http://www.imf.org/external/np/fin/data/rms_five.aspx>`_"
+msgstr "`Fonds monétaire international <http://www.imf.org/external/np/fin/data/rms_five.aspx>`_"
+
+#: ../../sources.rst:18
+msgid "Exchange Rates (2nd preference)"
+msgstr "Taux de change (2e choix)"
+
+#: ../../sources.rst:18
+msgid "`Federal Reserve Economic Data <https://fred.stlouisfed.org/categories/94>`_"
+msgstr "`Données économiques de la Réserve fédérale <https://fred.stlouisfed.org/categories/94>`_"
+
+#: ../../sources.rst:20
+msgid "Exchange Rates (3rd preference)"
+msgstr "Taux de change (3e choix)"
+
+#: ../../sources.rst:20
+msgid "`CodeforIATI <https://raw.githubusercontent.com/codeforIATI/imf-exchangerates/gh-pages/imf_exchangerates.csv>`_"
+msgstr "`CodeforIATI <https://raw.githubusercontent.com/codeforIATI/imf-exchangerates/gh-pages/imf_exchangerates.csv>`_"
+
+#: ../../sources.rst:22
+msgid "Exchange Rates (4th preference)"
+msgstr "Taux de change (4e choix)"
+
+#: ../../sources.rst:22
+msgid "`Organisation for Economic Co-operation and Development <https://www.oecd.org/en/data/indicators/exchange-rates.html>`_"
+msgstr "`Organisation de coopération et de développement économiques <https://www.oecd.org/en/data/indicators/exchange-rates.html>`_"
+
+#: ../../sources.rst:24
+msgid "Exchange Rates (5th preference)"
+msgstr "Taux de change (5e choix)"
+
+#: ../../sources.rst:24
+msgid "`Failsafe <https://github.com/xriss/freechange/blob/master/failsafe/year.csv>`_"
+msgstr "`Failsafe <https://github.com/xriss/freechange/blob/master/failsafe/year.csv>`_"

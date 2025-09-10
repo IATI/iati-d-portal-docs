@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../view_your_data.rst:3
+msgid "View your data"
+msgstr "Ver sus datos"
+
+#: ../../view_your_data.rst:5
+msgid "Once your organisation's data is registered with IATI, it can be accessed by anyone through tools such as d-portal. Recent changes can take up to 48 hours to update."
+msgstr "Cuando los datos de su organización estén registrados en la IATI, cualquier persona podrá acceder a ellos a través de recursos como d-portal. Los cambios recientes pueden tardar hasta 48 horas en actualizarse."
+
+#: ../../view_your_data.rst:8
+msgid "To view your data on d-portal, select your organisation from the drop-down list of Reporting Organisations. Then click “Explore Results” to see the overview page for your organisation, including:"
+msgstr "Para ver sus datos en d-portal, seleccione su organización en la lista desplegable de organizaciones que presentan informes. A continuación, haga clic en \"Explorar resultados\" para ver la página de resumen de su organización, que incluye:"
+
+#: ../../view_your_data.rst:11
+msgid "Active, ended, and total number of activities"
+msgstr "Actividades activas y finalizadas y número total de actividades"
+
+#: ../../view_your_data.rst:12
+msgid "All your published IATI activities, split by status. Click any of these to see a list of your activities."
+msgstr "Todas sus actividades de la IATI publicadas, clasificadas por estado. Haga clic en cualquiera de estos elementos para ver una lista de sus actividades."
+
+#: ../../view_your_data.rst:13
+msgid "Funding went to..."
+msgstr "La financiación se destinó a..."
+
+#: ../../view_your_data.rst:14
+msgid "Your organisation's annual spend and budget for recipient countries. Allocated budget shows activity level budgets for each country. Total budget shows organisation level budgets."
+msgstr "Gasto y presupuesto anual de su organización para los países beneficiarios. El presupuesto asignado muestra los presupuestos en el nivel de la actividad para cada país. El presupuesto total muestra los presupuestos en el nivel de la organización."
+
+#: ../../view_your_data.rst:16
+msgid "Where does the money go?"
+msgstr "¿Adónde se destina el dinero?"
+
+#: ../../view_your_data.rst:17
+msgid "Your organisation's annual spend and budget by sector, using DAC 3 Digit sector codes."
+msgstr "Gasto y presupuesto anual de su organización por sector, utilizando los códigos de sectores de 3 dígitos del CAD."
+
+#: ../../view_your_data.rst:18
+msgid "Heatmap of all activities"
+msgstr "Matriz cromática de todas las actividades"
+
+#: ../../view_your_data.rst:19
+msgid "A heatmap of all your activities using longitude and latitude data."
+msgstr "Matriz cromática de todas sus actividades utilizando datos de longitud y latitud."
+
+#: ../../view_your_data.rst:20
+msgid "Organisation file"
+msgstr "Expediente de organización"
+
+#: ../../view_your_data.rst:21
+msgid "Information reported in your organisation file, including organisation level documents and budgets."
+msgstr "La información que contiene su expediente de organización, incluidos los documentos y presupuestos en el nivel de la organización."
+
+#: ../../view_your_data.rst:23
+msgid "You can also click the \"View this organisation as a Participating Organisation\" button. This displays activities which reference your organisation as a funding, accountable, extending, or implementing organisation."
+msgstr "También puede hacer clic en el botón \"Ver esta organización como organización participante\". Muestra las actividades que hacen referencia a su organización como organización financiadora, responsable, ampliadora o de implementación."

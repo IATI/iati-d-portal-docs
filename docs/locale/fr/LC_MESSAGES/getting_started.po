@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the d-portal: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: d-portal: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../getting_started.rst:3
+msgid "Getting started"
+msgstr "Commencer"
+
+#: ../../getting_started.rst:6
+msgid "Searching d-portal"
+msgstr "Recherche d-portail"
+
+#: ../../getting_started.rst:8
+msgid "d-portal provides a search function which allows you to explore IATI data. This is made up of filters and a freetext box. As you build your search query, the number of filtered IATI activities will update."
+msgstr "d-portal offre une fonction de recherche qui vous permet d'explorer les données de l'IITA. Il est composé de filtres et d'une barre de recherche pour texte libre. À mesure que vous élaborerez votre requête de recherche, le nombre d'activités IITA filtrées sera mis à jour."
+
+#: ../../getting_started.rst:10
+msgid "Filters:"
+msgstr "Filtres :"
+
+#: ../../getting_started.rst:11
+msgid "The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example. You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters. See the :ref:`Filter glossary` page for more details."
+msgstr "Les filtres sont basés sur les éléments de la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/activity-standard/>`_. Il s'agit par exemple de :iati-reference:`recipient-country`, :iati-reference:`sector`, et :iati-reference:`reporting-org`. Vous pouvez sélectionner plusieurs filtres à l'aide des menus déroulants. Cliquer sur « Plus de filtres » permet d'afficher un plus grand nombre de filtres. Voir la page :ref:`Glossaire des filtres` pour plus de détails."
+
+#: ../../getting_started.rst:17
+msgid "Freetext:"
+msgstr "Texte libre :"
+
+#: ../../getting_started.rst:18
+msgid "The freetext search box searches against the  :iati-reference:`title` and :iati-reference:`description` elements of IATI activities."
+msgstr "La barre de recherche pour texte libre permet d'effectuer une recherche sur les éléments :iati-reference:`titre` et :iati-reference:`description` des activités de l'IITA."
+
+#: ../../getting_started.rst:20
+msgid "Once your search query is ready, you can click \"Explore Results\" to view the activities."
+msgstr "Une fois que votre recherche est prête, vous pouvez cliquer sur « Rechercher les résultats » pour voir les activités."
+
+#: ../../getting_started.rst:22
+msgid "You can use the settings options at the top right to change the currency, language, and 12-month period your results are displayed in."
+msgstr "Vous pouvez utiliser les options de paramétrage en haut à droite pour modifier la devise, la langue et la période de 12 mois dans le cadre desquelles vos résultats sont affichés."
+
+#: ../../getting_started.rst:25
+msgid "Downloading Results"
+msgstr "Téléchargement des résultats"
+
+#: ../../getting_started.rst:27
+msgid "Your results page will include summary figures and table previews. If you click on any of these you will be presented with a table, with a CSV download button at the top right."
+msgstr "Votre page de résultats inclura des figures récapitulatives et des aperçus de tableaux. Si vous cliquez sur l'un d'entre eux, vous ferez face à un tableau, avec un bouton de téléchargement CSV en haut à droite."
+
+#: ../../getting_started.rst:29
+msgid "Location data can also be downloaded from heatmaps into a CSV file."
+msgstr "Les données de localisation peuvent également être téléchargées depuis des cartes thermiques dans un fichier CSV."
+
+#: ../../getting_started.rst:32
+msgid "Example Questions"
+msgstr "Exemples de questions"
+
+#: ../../getting_started.rst:34
+msgid "To practise using d-portal, you can find the answers to these example questions:"
+msgstr "Pour vous entraîner à utiliser d-portal, vous pouvez trouver les réponses à ces exemples de questions :"
+
+#: ../../getting_started.rst:36
+msgid "How many projects are taking place in Ghana on water and sanitation (DAC 5 Digit sector group 140)?"
+msgstr "Combien de projets sont en cours au Ghana dans le domaine de l'eau et de l'assainissement (groupe sectoriel 140 du CAD à 5 chiffres) ?"
+
+#: ../../getting_started.rst:37
+msgid "Which organisations are currently working on tackling Ebola in Guinea?"
+msgstr "Quelles sont les organisations qui œuvrent actuellement à la lutte contre Ebola en Guinée ?"
+
+#: ../../getting_started.rst:38
+msgid "How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?"
+msgstr "Quel est le montant des fonds du PNUD alloués à la Sierra Leone en 2015 en livres sterling ?"
+
+#: ../../getting_started.rst:39
+msgid "Which government is the original funder of this activity: MW-NBM-R1527-W106?"
+msgstr "Quel est le gouvernement à l'origine du financement de cette activité ? MW-NBM-R1527-W106 ?"
+
+#: ../../getting_started.rst:40
+msgid "Which two countries received the largest amount of aid as a response to Hurricane Matthew?"
+msgstr "Quels sont les deux pays qui ont reçu le plus d'aide en réponse à l'ouragan Matthew ?"
