@@ -30,7 +30,7 @@ msgstr "`Dash <https://d-portal.org/ctrack.html?#view=dash>`_"
 
 #: ../../dash.rst:8
 msgid "Dash provides an overview of the data populating d-portal from individual reporting organisations. This includes summary statistics, and reports on errors such as an invalid :iati-reference:`recipient-country`. By showing where invalid data is reported, Dash can help to explain gaps in the data."
-msgstr "Dash fournit un aperçu des données qui alimentent d-portal depuis des organisations déclarantes individuelles. Cela inclut des statistiques sommaires et des rapports sur les erreurs telles qu'une:iati-reference:`recipient-country`. En montrant où des données non valides sont signalées, Dash peut aider à expliquer les lacunes en matière de données."
+msgstr "Dash fournit un aperçu des données qui alimentent d-portal depuis des organisations déclarantes individuelles. Cela inclut des statistiques sommaires et des rapports sur les erreurs telles qu'une :iati-reference:`recipient-country`. En montrant où des données non valides sont signalées, Dash peut aider à expliquer les lacunes en matière de données."
 
 #: ../../dash.rst:11
 msgid "`d-portal Logs <https://xriss.github.io/D-Portal-Logs/>`_"
