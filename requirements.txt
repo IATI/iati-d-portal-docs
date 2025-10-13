@@ -6,17 +6,17 @@
 #
 alabaster==1.0.0
     # via sphinx
-attrs==25.3.0
+attrs==25.4.0
     # via referencing
 babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2025.8.3
+certifi==2025.10.5
     # via requests
 charset-normalizer==3.4.3
     # via requests
-click==8.2.1
+click==8.3.0
     # via sphinx-intl
 docutils==0.21.2
     # via
@@ -25,9 +25,9 @@ docutils==0.21.2
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-iati-sphinx-theme==3.1.0
+iati-sphinx-theme==3.1.1
     # via -r requirements.in
-idna==3.10
+idna==3.11
     # via requests
 imagesize==1.4.1
     # via sphinx
@@ -51,7 +51,7 @@ markdown-it-py==3.0.0
     # via
     #   mdit-py-plugins
     #   myst-parser
-markupsafe==3.0.2
+markupsafe==3.0.3
     # via jinja2
 mdit-py-plugins==0.5.0
     # via myst-parser
@@ -65,7 +65,7 @@ packaging==25.0
     # via sphinx
 pygments==2.19.2
     # via sphinx
-pyyaml==6.0.2
+pyyaml==6.0.3
     # via myst-parser
 referencing==0.36.2
     # via sphinxcontrib-opendataservices-jsonschema
