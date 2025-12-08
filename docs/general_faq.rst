@@ -19,7 +19,8 @@ General FAQs
 .. _faq_1: 
 
 \1. What data is included in d-portal?
-    Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). These data come from the `IATI Registry <https://www.iatiregistry.org/>`_.
+    Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). 
+    These data come from `reporting organisations <https://dashboard.iatistandard.org/publishers/>`_.
 
 .. _faq_2: 
 
