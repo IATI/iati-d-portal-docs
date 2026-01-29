@@ -11,7 +11,7 @@ Filters:
     The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. 
     These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example.  
     You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters.
-    See the :ref:`Filter glossary` page for more details.
+    See the :ref:`filter_glossary` page for more details.
 
 
 Freetext:
