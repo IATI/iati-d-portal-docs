@@ -1,3 +1,5 @@
+.. _filter_glossary:
+
 ****************
 Filter glossary
 ****************
