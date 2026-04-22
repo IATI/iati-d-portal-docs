@@ -50,7 +50,7 @@ General FAQs
 .. _faq_6: 
 
 \6. Why are there zeros and dashes in the tables?
-    Zeroes show issues with data quality. For example, codes which do not follow the IATI Standard. Dashes show that an organisation does not currently report IATI data. 
+    Zeroes indicate data quality issues, such as codes which do not follow the IATI Standard. Dashes show that an organisation does not currently report IATI data. 
 
 .. _faq_7: 
 
