@@ -33,7 +33,7 @@ General FAQs
 \3. Why can't I see my published data on d-portal?
     It is normal for there to be a delay between publishing your activity (e.g. in IATI Publisher) and seeing it on d-portal. This is because d-portal can take up to 48 hours to update. 
 
-    If there are critical errors in your data, your files will not be processed and updated by IATI tooling. You can check for critical errors using the `IATI Validator <https://validator.iatistandard.org/>`_.
+    If there are critical errors in your data, your files will not be processed and displayed by IATI tooling. You can check for critical errors using the `IATI Validator <https://validator.iatistandard.org/>`_.
 
     Your data needs to be published openly to be accessible to our tools. If you have created and published your own XML files (i.e. not using a tool like IATI Publisher or Aidstream), please see the IATI website for more information on `publishing without access restrictions <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/publishing-without-access-restrictions/why-we-need-to-publish-without-access-restrictions/>`_.
 
