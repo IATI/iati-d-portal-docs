@@ -4,7 +4,7 @@ General FAQs
 
 1. :ref:`What data is included in d-portal? <faq_1>`
 2. :ref:`What is IATI? <faq_2>`
-3. :ref:`Why can't I see my published activity on d-portal? <faq_3>`
+3. :ref:`Why can't I see my published data on d-portal? <faq_3>`
 4. :ref:`Why are some data fields missing or out of date? <faq_4>`
 5. :ref:`How can I preview my data? <faq_5>`
 6. :ref:`Why are there zeros and dashes in the tables? <faq_6>`
@@ -31,7 +31,13 @@ General FAQs
 .. _faq_3: 
 
 \3. Why can't I see my published data on d-portal?
-    It is normal for there to be a delay between publishing your activity (e.g. in IATI Publisher) and seeing it on d-portal. This is because d-portal can take up to 48 hours to update. If your activity data still isn’t visible on d-portal after 48 hours, please `contact us <https://iatistandard.org/en/guidance/get-support/>`_.
+    It is normal for there to be a delay between publishing your activity (e.g. in IATI Publisher) and seeing it on d-portal. This is because d-portal can take up to 48 hours to update. 
+
+    If there are critical errors in your data, your files will not be processed and updated by IATI tooling. You can check for critical errors using the `IATI Validator <https://validator.iatistandard.org/>`_.
+
+    Your data needs to be published openly to be accessible to our tools. If you have created and published your own XML files (i.e. not using a tool like IATI Publisher or Aidstream), please see the IATI website for more information on `publishing without access restrictions <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/publishing-without-access-restrictions/why-we-need-to-publish-without-access-restrictions/>`_.
+
+    If your activity data still isn’t visible on d-portal after 48 hours, please `contact us <https://iatistandard.org/en/guidance/get-support/>`_.
 
 .. _faq_4: 
 
@@ -55,7 +61,7 @@ General FAQs
 .. _faq_7: 
 
 \7. Where can I ask questions about d-portal?
-    By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_.
+    By `contacting us <https://iatistandard.org/en/guidance/get-support/>`_ or raising an issue on `GitHub <https://github.com/IATI/D-Portal/issues>`_.
 
 .. _faq_8: 
 
