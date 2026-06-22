@@ -21,7 +21,7 @@ github_repository = "https://github.com/IATI/iati-d-portal-docs"
 
 # Plausible analytics domain, derived from tool_url so docs are tracked
 # under the tool's site. Set to None to disable.
-plausible_domain = urlparse(tool_url).hostname if tool_url else None
+plausible_domain = "d-portal.org"
 
 # Supported languages for the documentation
 languages = ["en", "fr", "es"]
