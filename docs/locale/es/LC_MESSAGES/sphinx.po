@@ -1,0 +1,117 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-01 14:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: es <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+# REVIEWED: ca9744413211a6f8
+#: iati_sphinx_theme/footer.html:7
+msgid "Additional Information"
+msgstr "Información adicional"
+
+# REVIEWED: 29993d11598c6496
+#: iati_sphinx_theme/footer.html:9
+#, python-format
+msgid "Created using <a href=\"%(url)s\">Sphinx</a> %(sphinx_version)s."
+msgstr "Creado con <a href=\"%(url)s\">Sphinx</a> %(sphinx_version)s."
+
+# REVIEWED: 9c11c39275f384e4
+#: iati_sphinx_theme/footer.html:11
+#, python-format
+msgid "Source code at <a href=\"%(url)s\">GitHub</a>."
+msgstr "Código fuente disponible en <a href=\"%(url)s\">GitHub</a>."
+
+# REVIEWED: c847e583d9a044bf
+#: iati_sphinx_theme/footer.html:13
+#, python-format
+msgid "Documentation licensed under <a href=\"%(url)s\">CC BY 4.0</a>."
+msgstr "Documentación bajo licencia <a href=\"%(url)s\">CC BY 4.0</a>."
+
+# REVIEWED: 3d9d5febfdaecf21
+#: iati_sphinx_theme/footer.html:23
+msgid "Privacy"
+msgstr "Privacidad"
+
+# REVIEWED: aca0f60a191954e9
+#: iati_sphinx_theme/footer.html:24
+msgid "Cookies"
+msgstr "Cookies"
+
+# REVIEWED: 72359ce0d836fe00
+#: iati_sphinx_theme/footer.html:25
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+# REVIEWED: 77a9e2804a93f709
+#: iati_sphinx_theme/footer.html:26
+msgid "Data Removal"
+msgstr "Supresión de datos"
+
+# REVIEWED: 03c163f829713413
+#: iati_sphinx_theme/header.html:2
+msgid "About IATI"
+msgstr "Acerca de la IATI"
+
+# REVIEWED: 74d46a26c0fdd20c
+#: iati_sphinx_theme/header.html:3
+msgid "Use Data"
+msgstr "Usar los datos"
+
+# REVIEWED: eef4c2aeeceb35e4
+#: iati_sphinx_theme/header.html:4
+msgid "Publish Data"
+msgstr "Publicar datos"
+
+# REVIEWED: dc84d5a97d176916
+#: iati_sphinx_theme/header.html:5
+msgid "Contact"
+msgstr "Contacto"
+
+# REVIEWED: 33dd52c26b84fcff
+#: iati_sphinx_theme/header.html:16 iati_sphinx_theme/header.html:70
+msgid "Menu"
+msgstr "Menú"
+
+# REVIEWED: a074b1bbd17bd3d6
+#: iati_sphinx_theme/header.html:18
+msgid "Close"
+msgstr "Cerrar"
+
+# REVIEWED: 4c5acb6e1ace0c31
+#: iati_sphinx_theme/header.html:65 iati_sphinx_theme/search.html:15
+msgid "Search"
+msgstr "Buscar"
+
+# REVIEWED: dd2c45ef45b84794
+#: iati_sphinx_theme/header.html:75
+msgid "IATI Tools: Documentation"
+msgstr "Herramientas de IATI: Documentación"
+
+# REVIEWED: 0722e11dbe51f35f
+#: iati_sphinx_theme/language-switcher.html:2
+msgid "Choose your language"
+msgstr "Seleccionar idioma"
+
+# REVIEWED: 42e43f6944ab0a08
+#: iati_sphinx_theme/relations.html:4
+msgid "Previous"
+msgstr "Anterior"
+
+# REVIEWED: 6bebf74fafba0c57
+#: iati_sphinx_theme/relations.html:12
+msgid "Next"
+msgstr "Siguiente"

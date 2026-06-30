@@ -1,70 +1,94 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
-# This file is distributed under the same license as the d-portal: Documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the d-portal:
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: d-portal: Documentation 0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"POT-Creation-Date: 2026-06-29 17:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
+# REVIEWED: 677ee247d2c6cf97
 #: ../../index.rst:17
 msgid "Home"
 msgstr "Accueil"
 
-#: ../../index.rst:3
-#: ../../index.rst:17
+# REVIEWED: c07362d8788fd343
+#: ../../index.rst:3 ../../index.rst:17
 msgid "d-portal"
 msgstr "d-portal"
 
+# REVIEWED: b45ff16d7607ae7b
 #: ../../index.rst:28
 msgid "Frequently Asked Questions"
 msgstr "Foire aux questions"
 
+# REVIEWED: c6e597d0c1840201
 #: ../../index.rst:38
 msgid "d-portal Tools"
 msgstr "Outils d-portal"
 
-#: ../../index.rst:49
-msgid "PDF"
-msgstr "PDF"
-
-#: ../../index.rst:49
-msgid "Download"
-msgstr "Télécharger"
-
+# REVIEWED: 5f8303e857bfd6b3
 #: ../../index.rst:5
-msgid "d-portal is a tool which helps users to explore International Aid Transparency Initiative (IATI) data. These data are formatted according to the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_."
-msgstr "d-portal est un outil qui aide les utilisateurs à explorer les données de l'Initiative internationale pour la transparence de l'aide (IITA). Les données de l'IITA sont formatées conformément à la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/>`_."
+msgid ""
+"d-portal is a tool which helps users to explore International Aid "
+"Transparency Initiative (IATI) data. These data are formatted according to "
+"the `IATI Standard <https://iatistandard.org/en/iati-standard/203/>`_."
+msgstr ""
+"d-portal est un outil qui aide les utilisateurs à explorer les données de "
+"l'Initiative internationale pour la transparence de l'aide (IITA). Ces "
+"données sont formatées conformément à la `Norme de l'IITA "
+"<https://iatistandard.org/fr/iati-standard/203/>`_."
 
+# REVIEWED: b5d25dac2a512a9f
 #: ../../index.rst:7
 msgid "Use d-portal if you want to:"
 msgstr "Utilisez d-portal si vous souhaitez :"
 
+# REVIEWED: d993ba43f1983935
 #: ../../index.rst:9
 msgid "View individual IATI activities in detail."
-msgstr "Voir les activités individuelles de l'IITA en détail."
+msgstr "Voir les activités IITA individuelles en détail."
 
+# REVIEWED: d3dd011d3681ba6f
 #: ../../index.rst:10
 msgid "Search IATI activities using keywords and filters."
-msgstr "Recherchez les activités de l'IITA à l'aide de mots-clés et de filtres."
+msgstr ""
+"Recherchez les activités de l'IITA à l'aide de mots-clés et de filtres."
 
+# REVIEWED: fead84f99499f5e0
 #: ../../index.rst:11
-msgid "Access summaries of IATI data by reporting organisation or recipient country."
-msgstr "Accédez aux résumés des données de l'IITA par organisation déclarante ou pays bénéficiaire."
+msgid ""
+"Access summaries of IATI data by reporting organisation or recipient "
+"country."
+msgstr ""
+"Accédez aux résumés des données IITA par organisation déclarante ou pays "
+"bénéficiaire."
 
+# REVIEWED: f3459e27a7669b34
 #: ../../index.rst:14
 msgid "Open source"
 msgstr "Source ouverte"
 
+# REVIEWED: 4d09ac7af425a4ae
 #: ../../index.rst:15
-msgid "d-portal.org is an open source platform. This means you can use all aspects of the platform to build your own portal using the `free source code <https://github.com/IATI/D-Portal>`_."
-msgstr "d-portal.org est une plateforme en source ouverte. Cela signifie que vous pouvez utiliser tous les aspects de la plateforme pour créer votre propre portail en utilisant le `code source gratuit <https://github.com/IITA/D-Portal>`_."
+msgid ""
+"d-portal.org is an open source platform. This means you can use all aspects "
+"of the platform to build your own portal using the `free source code "
+"<https://github.com/IATI/D-Portal>`_."
+msgstr ""
+"d-portal.org est une plateforme en source ouverte. Cela signifie que vous "
+"pouvez utiliser tous les aspects de la plateforme pour créer votre propre "
+"portail en utilisant le `code source libre "
+"<https://github.com/IATI/D-Portal>`_."

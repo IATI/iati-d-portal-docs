@@ -1,109 +1,269 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
-# This file is distributed under the same license as the d-portal: Documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the d-portal:
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: d-portal: Documentation 0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"POT-Creation-Date: 2026-06-29 17:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
+# REVIEWED: 413b767fb5c6ef70
 #: ../../general_faq.rst:3
 msgid "General FAQs"
-msgstr "FAQ générale"
+msgstr "FAQ générales"
 
+# REVIEWED: 9089284bcafbe382
 #: ../../general_faq.rst:5
 msgid ":ref:`What data is included in d-portal? <faq_1>`"
 msgstr ":ref:`Quelles sont les données incluses dans d-portal ? <faq_1>`"
 
+# REVIEWED: 46cca4d40b70cc03
 #: ../../general_faq.rst:6
 msgid ":ref:`What is IATI? <faq_2>`"
 msgstr ":ref:`Qu'est-ce que l'IITA ? <faq_2>`"
 
+# REVIEWED: 923bfad73bf7068c
 #: ../../general_faq.rst:7
-msgid ":ref:`When is d-portal updated? <faq_3>`"
-msgstr ":ref:`Quand est-ce que d-portal est mis à jour ? <faq_3>`"
+msgid ":ref:`Why can't I see my published data on d-portal? <faq_3>`"
+msgstr ""
+":ref:`Pourquoi ne puis-je pas voir mes données publiées sur d-portal ? "
+"<faq_3>`"
 
+# REVIEWED: 3a78f482fa634a68
 #: ../../general_faq.rst:8
-msgid ":ref:`Why is there missing data? <faq_4>`"
-msgstr ":ref:`Pourquoi y a-t-il des données manquantes ? <faq_4>`"
+msgid ":ref:`Why are some data fields missing or out of date? <faq_4>`"
+msgstr ""
+":ref:`Pourquoi certains champs de données sont-ils manquants ou obsolètes ? "
+"<faq_4>`"
 
+# REVIEWED: e1517570c30baa20
 #: ../../general_faq.rst:9
-msgid ":ref:`Why are there zeros and dashes in the tables? <faq_5>`"
-msgstr ":ref:`Pourquoi y a-t-il des zéros et des tirets dans les tableaux ? <faq_5>`"
+msgid ":ref:`How can I preview my data? <faq_5>`"
+msgstr ":ref:`Comment puis-je prévisualiser mes données ? <faq_5>`"
 
+# REVIEWED: 0967a4133f699aab
 #: ../../general_faq.rst:10
-msgid ":ref:`Where can I ask questions about d-portal? <faq_6>`"
-msgstr ":ref:`Où puis-je poser des questions sur d-portal ? <faq_6>`"
+msgid ":ref:`Why are there zeros and dashes in the tables? <faq_6>`"
+msgstr ""
+":ref:`Pourquoi y a-t-il des zéros et des tirets dans les tableaux ? <faq_6>`"
 
-#: ../../general_faq.rst:20
+# REVIEWED: 125806b6e33217f3
+#: ../../general_faq.rst:11
+msgid ":ref:`Where can I ask questions about d-portal? <faq_7>`"
+msgstr ":ref:`Où puis-je poser des questions sur d-portal ? <faq_7>`"
+
+# REVIEWED: 9dc02cdce2b99c49
+#: ../../general_faq.rst:12
+msgid ":ref:`Where can I access the classic d-portal theme? <faq_8>`"
+msgstr ":ref:`Où puis-je accéder au thème classique de d-portal ? <faq_8>`"
+
+# REVIEWED: 202e8a41f388ccd0
+#: ../../general_faq.rst:22
 msgid "\\1. What data is included in d-portal?"
 msgstr "\\1. Quelles sont les données incluses dans d-portal ?"
 
-#: ../../general_faq.rst:21
-msgid "Data published to the `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI). These data come from the `IATI Registry <https://www.iatiregistry.org/>`_."
-msgstr "Données publiées dans le cadre de `l'Initiative internationale pour la transparence de l'aide <https://iatistandard.org/en/>`_ (IITA). Ces données proviennent du `Registre IITA <https://www.iatiregistry.org/>`_."
+# REVIEWED: e9ce26974523d192
+#: ../../general_faq.rst:23
+msgid ""
+"Data published to the `International Aid Transparency Initiative "
+"<https://iatistandard.org/en/>`_ (IATI). These data come from `reporting "
+"organisations <https://dashboard.iatistandard.org/publishers/>`_."
+msgstr ""
+"Données publiées dans le cadre de l'`Initiative internationale pour la "
+"transparence de l'aide (IITA) <https://iatistandard.org/fr/>`_. Ces données "
+"proviennent des `organisations déclarantes "
+"<https://dashboard.iatistandard.org/publishers/>`_."
 
-#: ../../general_faq.rst:25
+# REVIEWED: e7bda55f3466ec9d
+#: ../../general_faq.rst:28
 msgid "\\2. What is IATI?"
 msgstr "\\2. Qu'est-ce que l'IITA ?"
 
-#: ../../general_faq.rst:26
-msgid "The `International Aid Transparency Initiative <https://iatistandard.org/en/>`_ (IATI) is a global effort to make data about development and humanitarian aid more transparent. IATI data helps people make informed decisions that deliver better results."
-msgstr "L'Initiative internationale pour la transparence de l'aide (IITA) est un mouvement mondial visant à rendre plus transparentes les données relatives au développement et à l'aide humanitaire. Les données de l'IITA aident les individus à prendre des décisions éclairées afin de produire de meilleurs résultats."
+# REVIEWED: f84b71a84be3beca
+#: ../../general_faq.rst:29
+msgid ""
+"The `International Aid Transparency Initiative "
+"<https://iatistandard.org/en/>`_ (IATI) is a global effort to make data "
+"about development and humanitarian aid more transparent. IATI data helps "
+"people make informed decisions that deliver better results."
+msgstr ""
+"L'`Initiative internationale pour la transparence de l'aide (IITA) "
+"<https://iatistandard.org/fr/>`_ est un effort mondial visant à rendre les "
+"données relatives au développement et à l'aide humanitaire plus "
+"transparentes. Les données de l'IITA aident les individus à prendre des "
+"décisions éclairées afin de produire de meilleurs résultats."
 
-#: ../../general_faq.rst:30
-msgid "\\3. When is d-portal updated?"
-msgstr "\\3. Quand d-portal est-il mis à jour ?"
+# REVIEWED: 0d3992fec00aa3a5
+#: ../../general_faq.rst:33
+msgid "\\3. Why can't I see my published data on d-portal?"
+msgstr "3. Pourquoi ne puis-je pas voir mes données publiées sur d-portal ?"
 
-#: ../../general_faq.rst:31
-msgid "d-portal is updated every 24 hours, including all existing and newly published files."
-msgstr "d-portal est mis à jour toutes les 24 heures, y compris tous les fichiers existants et nouvellement publiés."
+# REVIEWED: 8510745b4fc4ccb0
+#: ../../general_faq.rst:34
+msgid ""
+"It is normal for there to be a delay between publishing your activity (e.g. "
+"in IATI Publisher) and seeing it on d-portal. This is because d-portal can "
+"take up to 48 hours to update."
+msgstr ""
+"Il est normal qu'il y ait un délai entre la publication de votre activité "
+"(par exemple, dans IATI Publisher) et son apparition sur d-portal. Cela est "
+"dû au fait que d-portal peut prendre jusqu'à 48 heures pour se mettre à "
+"jour."
 
-#: ../../general_faq.rst:35
-msgid "\\4. Why is there missing data?"
-msgstr "\\4. Pourquoi y a-t-il des données manquantes ?"
-
+# REVIEWED: f7546f9d4e13a2d2
 #: ../../general_faq.rst:36
-msgid "Common reasons for \"missing\" data in d-portal include:"
-msgstr "Les données « manquantes » dans d-portal s'expliquent souvent par les raisons suivantes :"
+msgid ""
+"If there are critical errors in your data, your files will not be processed "
+"and displayed by IATI tooling. You can check for critical errors using the "
+"`IATI Validator <https://validator.iatistandard.org/>`_."
+msgstr ""
+"Si des erreurs critiques sont présentes dans vos données, vos fichiers ne "
+"seront pas traités et affichés par les outils de l'IITA. Vous pouvez "
+"vérifier la présence d'erreurs critiques à l'aide de l'`IATI Validator "
+"<https://validator.iatistandard.org/>`_."
 
+# REVIEWED: 2de306fc0c664092
 #: ../../general_faq.rst:38
-msgid "Reporting organisations can include different levels of detail in their data."
-msgstr "Les organismes déclarants peuvent inclure différents niveaux de détail dans leurs données."
+msgid ""
+"Your data needs to be published openly to be accessible to our tools. If you"
+" have created and published your own XML files (i.e. not using a tool like "
+"IATI Publisher or Aidstream), please see the IATI website for more "
+"information on `publishing without access restrictions "
+"<https://iatistandard.org/en/guidance/publishing-data/how-to-publish-"
+"data/creating-files/publishing-without-access-restrictions/why-we-need-to-"
+"publish-without-access-restrictions/>`_."
+msgstr ""
+"Vos données doivent être publiées ouvertement pour être accessibles à nos "
+"outils. Si vous avez créé et publié vos propres fichiers XML (c'est-à-dire "
+"sans utiliser un outil comme IATI Publisher ou Aidstream), veuillez "
+"consulter le site web de l'IITA pour plus d'informations sur `la publication"
+" sans restrictions d'accès <https://iatistandard.org/fr/guidance/publishing-"
+"data/how-to-publish-data/creating-files/publishing-without-access-"
+"restrictions/why-we-need-to-publish-without-access-restrictions/>`_."
 
-#: ../../general_faq.rst:39
-msgid "Reporting organisations may follow different update schedules."
-msgstr "Les organisations déclarantes peuvent suivre des calendriers de mise à jour différents."
-
+# REVIEWED: 7dca0ec9d4387bea
 #: ../../general_faq.rst:40
-msgid "There may be errors in a reporting organisation's data. This can be checked using the `IATI Validator <https://validator.iatistandard.org/>`_."
-msgstr "Il peut y avoir des erreurs dans les données d'une organisation déclarante. Ceci peut être vérifié à l'aide de lʼ `outil de validation de lʼIITA <https://validator.iatistandard.org/>`_."
+msgid ""
+"If your activity data still isn’t visible on d-portal after 48 hours, please"
+" `contact us <https://iatistandard.org/en/guidance/get-support/>`_."
+msgstr ""
+"Si vos données d'activité ne sont toujours pas visibles sur d-portal après "
+"48 heures, veuillez `nous contacter "
+"<https://iatistandard.org/fr/guidance/get-support/>`_."
 
+# REVIEWED: c65e8f6dae5f98c6
 #: ../../general_faq.rst:44
-msgid "\\5. Why are there zeros and dashes in the tables?"
-msgstr "\\5. Pourquoi y a-t-il des zéros et des tirets dans les tableaux ?"
+msgid "\\4. Why are some data fields missing or out of date?"
+msgstr ""
+"4. Pourquoi certains champs de données sont-ils manquants ou obsolètes ?"
 
+# REVIEWED: a98e22a889e1745c
 #: ../../general_faq.rst:45
-msgid "Zeroes show issues with data quality. For example, codes which do not follow the IATI Standard."
-msgstr "Les zéros indiquent des problèmes de qualité des données. Par exemple, les codes qui ne suivent pas la norme de l'IITA."
+msgid "Common reasons for \"missing\" data in d-portal include:"
+msgstr ""
+"Les données « manquantes » dans d-portal s'expliquent souvent par les "
+"raisons suivantes :"
 
-#: ../../general_faq.rst:46
-msgid "Dashes show that an organisation does not currently report IATI data."
-msgstr "Les tirets indiquent qu'une organisation ne communique pas actuellement de données relatives à lʼIITA."
+# REVIEWED: 9300b0ac53c304f0
+#: ../../general_faq.rst:47
+msgid ""
+"Reporting organisations can include different levels of detail in their "
+"data."
+msgstr ""
+"Les organismes déclarants peuvent inclure différents niveaux de détail dans "
+"leurs données."
 
-#: ../../general_faq.rst:50
-msgid "\\6. Where can I ask questions about d-portal?"
-msgstr "\\6. Où puis-je poser des questions sur d-portal ?"
+# REVIEWED: 7c1104effa18be75
+#: ../../general_faq.rst:48
+msgid "Reporting organisations may follow different update schedules."
+msgstr ""
+"Les organisations déclarantes peuvent suivre des calendriers de mise à jour "
+"différents."
 
-#: ../../general_faq.rst:51
-msgid "By `contacting IATI support <https://iatistandard.org/en/guidance/get-support/>`_ or on our `GitHub issues page <https://github.com/IATI/D-Portal/issues>`_."
-msgstr "En `contactant lʼassistance de lʼIITA <https://iatistandard.org/en/guidance/get-support/>`_ ou sur notre `page de résolution de problèmes GitHub <https://github.com/IITA/D-Portal/issues>`_."
+# REVIEWED: 8d692b095997944e
+#: ../../general_faq.rst:49
+msgid ""
+"There may be errors in a reporting organisation's data. This can be checked "
+"using the `IATI Validator <https://validator.iatistandard.org/>`_."
+msgstr ""
+"Il peut y avoir des erreurs dans les données d'une organisation déclarante. "
+"Ceci peut être vérifié à l'aide du `IATI Validator "
+"<https://validator.iatistandard.org/>`_."
+
+# REVIEWED: fa1c422de5314d68
+#: ../../general_faq.rst:53
+msgid "\\5. How can I preview my data?"
+msgstr "5. Comment puis-je prévisualiser mes données?"
+
+# REVIEWED: 442a5deda038ef23
+#: ../../general_faq.rst:54
+msgid ""
+"`D-preview <https://preview.d-portal.org/upload>`_ can be used to preview "
+"your IATI activity data. `IATI Switcheroo "
+"<https://notshi.github.io/IATIswitcheroo/>`_ can be used for organisation "
+"files (upload your XML file then download the HTML to view your organisation"
+" data)."
+msgstr ""
+"`D-preview <https://preview.d-portal.org/upload>`_ peut être utilisé pour "
+"prévisualiser vos données d'activité de l'IITA. `IATI Switcheroo "
+"<https://notshi.github.io/IATIswitcheroo/>`_ peut être utilisé pour les "
+"fichiers d'organisation (téléchargez votre fichier XML puis téléchargez le "
+"HTML pour consulter vos données d'organisation)."
+
+# REVIEWED: 6483cf1b89f924fa
+#: ../../general_faq.rst:58
+msgid "\\6. Why are there zeros and dashes in the tables?"
+msgstr ""
+"6. Pourquoi y a-t-il des zéros et des tirets dans les tableaux\n"
+"0?"
+
+# REVIEWED: c9c085138e36981d
+#: ../../general_faq.rst:59
+msgid ""
+"Zeroes indicate data quality issues, such as codes which do not follow the "
+"IATI Standard. Dashes show that an organisation does not currently report "
+"IATI data."
+msgstr ""
+"Les zéros indiquent des problèmes de qualité des données, tels que des codes"
+" qui ne suivent pas la Norme de l'IITA. Les tirets montrent qu'une "
+"organisation ne déclare actuellement pas de données IITA."
+
+# REVIEWED: 5b3835f180286d6c
+#: ../../general_faq.rst:63
+msgid "\\7. Where can I ask questions about d-portal?"
+msgstr "\\7. Où puis-je poser des questions sur d-portal ?"
+
+# REVIEWED: a35a7530f8ce38cd
+#: ../../general_faq.rst:64
+msgid ""
+"By `contacting us <https://iatistandard.org/en/guidance/get-support/>`_ or "
+"raising an issue on `GitHub <https://github.com/IATI/D-Portal/issues>`_."
+msgstr ""
+"En `nous contactant <https://iatistandard.org/fr/guidance/get-support/>`_ ou"
+" en soulevant un problème sur `GitHub "
+"<https://github.com/IATI/D-Portal/issues>`_."
+
+# REVIEWED: 7c71c63028800735
+#: ../../general_faq.rst:68
+msgid "\\8. Where can I access the classic d-portal theme?"
+msgstr "\\8. Où puis-je accéder au thème classique de d-portal ?"
+
+# REVIEWED: ba7b73ac2966affd
+#: ../../general_faq.rst:69
+msgid ""
+"You can access the classic d-portal theme at https://classic.d-portal.org/."
+msgstr ""
+"Vous pouvez accéder au thème classique de d-portal à l'adresse "
+"https://classic.d-portal.org/."

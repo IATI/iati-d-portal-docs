@@ -1,93 +1,181 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
-# This file is distributed under the same license as the d-portal: Documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the d-portal:
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: d-portal: Documentation 0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"POT-Creation-Date: 2026-06-29 17:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
+# REVIEWED: 7906e4e523b64632
 #: ../../getting_started.rst:3
 msgid "Getting started"
 msgstr "Commencer"
 
+# REVIEWED: 22459f5d6f88e541
 #: ../../getting_started.rst:6
 msgid "Searching d-portal"
-msgstr "Recherche d-portail"
+msgstr ""
+"Recherche dans d-portal\n"
+"0:"
 
+# REVIEWED: 47b800c340eb92d9
 #: ../../getting_started.rst:8
-msgid "d-portal provides a search function which allows you to explore IATI data. This is made up of filters and a freetext box. As you build your search query, the number of filtered IATI activities will update."
-msgstr "d-portal offre une fonction de recherche qui vous permet d'explorer les données de l'IITA. Il est composé de filtres et d'une barre de recherche pour texte libre. À mesure que vous élaborerez votre requête de recherche, le nombre d'activités IITA filtrées sera mis à jour."
+msgid ""
+"d-portal provides a search function which allows you to explore IATI data. "
+"This is made up of filters and a freetext box. As you build your search "
+"query, the number of filtered IATI activities will update."
+msgstr ""
+"d-portal offre une fonction de recherche qui vous permet d'explorer les "
+"données IITA."
 
+# REVIEWED: 202ad73b139bc51f
 #: ../../getting_started.rst:10
 msgid "Filters:"
 msgstr "Filtres :"
 
+# REVIEWED: 0c509bd8f5d1be60
 #: ../../getting_started.rst:11
-msgid "The filters are based on elements of the `IATI Standard <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and :iati-reference:`reporting-org`, for example. You can select multiple filters using the dropdown menus. Clicking on “More Filters” displays a wider range of filters. See the :ref:`Filter glossary` page for more details."
-msgstr "Les filtres sont basés sur les éléments de la `norme de lʼIITA <https://iatistandard.org/en/IITA-standard/203/activity-standard/>`_. Il s'agit par exemple de :iati-reference:`recipient-country`, :iati-reference:`sector`, et :iati-reference:`reporting-org`. Vous pouvez sélectionner plusieurs filtres à l'aide des menus déroulants. Cliquer sur « Plus de filtres » permet d'afficher un plus grand nombre de filtres. Voir la page :ref:`Glossaire des filtres` pour plus de détails."
+msgid ""
+"The filters are based on elements of the `IATI Standard "
+"<https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These "
+"include :iati-reference:`recipient-country`,  :iati-reference:`sector`, and "
+":iati-reference:`reporting-org`, for example. You can select multiple "
+"filters using the dropdown menus. Clicking on “More Filters” displays a "
+"wider range of filters. See the :ref:`filter_glossary` page for more "
+"details."
+msgstr ""
+"Les filtres sont basés sur les éléments de la `Norme de l'IITA "
+"<https://iatistandard.org/fr/iati-standard/203/activity-standard/>`_. Il "
+"s'agit par exemple de :iati-reference:`recipient-country`, :iati-"
+"reference:`sector`, et :iati-reference:`organisation déclarante`. Vous "
+"pouvez sélectionner plusieurs filtres à l'aide des menus déroulants. Cliquer"
+" sur « Plus de filtres » permet d'afficher un plus grand nombre de filtres. "
+"Voir la page :ref:`filter_glossary` pour plus de détails."
 
+# REVIEWED: 8d29f210670772b8
 #: ../../getting_started.rst:17
 msgid "Freetext:"
 msgstr "Texte libre :"
 
+# REVIEWED: 52a49a60f1b0af72
 #: ../../getting_started.rst:18
-msgid "The freetext search box searches against the  :iati-reference:`title` and :iati-reference:`description` elements of IATI activities."
-msgstr "La barre de recherche pour texte libre permet d'effectuer une recherche sur les éléments :iati-reference:`titre` et :iati-reference:`description` des activités de l'IITA."
+msgid ""
+"The freetext search box searches against the  :iati-reference:`title` and "
+":iati-reference:`description` elements of IATI activities."
+msgstr ""
+"La barre de recherche pour texte libre permet d'effectuer une recherche sur les éléments\n"
+"0:iati-reference:`titre` et\n"
+"0:iati-reference:`description` des activités IITA."
 
+# REVIEWED: 13092f67b3d50f0d
 #: ../../getting_started.rst:20
-msgid "Once your search query is ready, you can click \"Explore Results\" to view the activities."
-msgstr "Une fois que votre recherche est prête, vous pouvez cliquer sur « Rechercher les résultats » pour voir les activités."
+msgid ""
+"Once your search query is ready, you can click \"Explore Results\" to view "
+"the activities."
+msgstr ""
+"Une fois que votre recherche est prête, vous pouvez cliquer sur «\n"
+"0Explorer les résultats\n"
+"0» pour voir les activités IITA."
 
+# REVIEWED: d5943c1f46b4b314
 #: ../../getting_started.rst:22
-msgid "You can use the settings options at the top right to change the currency, language, and 12-month period your results are displayed in."
-msgstr "Vous pouvez utiliser les options de paramétrage en haut à droite pour modifier la devise, la langue et la période de 12 mois dans le cadre desquelles vos résultats sont affichés."
+msgid ""
+"You can use the settings options at the top right to change the currency, "
+"language, and 12-month period your results are displayed in."
+msgstr ""
+"Vous pouvez utiliser les options de paramétrage en haut à droite pour "
+"modifier la devise, la langue et la période de 12 mois dans le cadre "
+"desquelles vos résultats sont affichés."
 
+# REVIEWED: 9484a6fe21d87ffb
 #: ../../getting_started.rst:25
 msgid "Downloading Results"
-msgstr "Téléchargement des résultats"
+msgstr ""
+"Téléchargement des résultats\n"
+"0:"
 
+# REVIEWED: 611581bdece3ff65
 #: ../../getting_started.rst:27
-msgid "Your results page will include summary figures and table previews. If you click on any of these you will be presented with a table, with a CSV download button at the top right."
-msgstr "Votre page de résultats inclura des figures récapitulatives et des aperçus de tableaux. Si vous cliquez sur l'un d'entre eux, vous ferez face à un tableau, avec un bouton de téléchargement CSV en haut à droite."
+msgid ""
+"Your results page will include summary figures and table previews. If you "
+"click on any of these you will be presented with a table, with a CSV "
+"download button at the top right."
+msgstr ""
+"Vous verrez un tableau, avec un bouton de téléchargement CSV en haut à "
+"droite."
 
+# REVIEWED: cbb1229a0a6a352a
 #: ../../getting_started.rst:29
 msgid "Location data can also be downloaded from heatmaps into a CSV file."
-msgstr "Les données de localisation peuvent également être téléchargées depuis des cartes thermiques dans un fichier CSV."
+msgstr ""
+"Les données de localisation peuvent également être téléchargées depuis des "
+"cartes thermiques dans un fichier CSV."
 
+# REVIEWED: 4610060da3c1fced
 #: ../../getting_started.rst:32
 msgid "Example Questions"
-msgstr "Exemples de questions"
+msgstr ""
+"Exemples de questions\n"
+"0:"
 
+# REVIEWED: 011f440038ba14fa
 #: ../../getting_started.rst:34
-msgid "To practise using d-portal, you can find the answers to these example questions:"
-msgstr "Pour vous entraîner à utiliser d-portal, vous pouvez trouver les réponses à ces exemples de questions :"
+msgid ""
+"To practise using d-portal, you can find the answers to these example "
+"questions:"
+msgstr ""
+"Pour vous entraîner à utiliser d-portal, vous pouvez trouver les réponses à "
+"ces exemples de questions :"
 
+# REVIEWED: c2441fef78d31256
 #: ../../getting_started.rst:36
-msgid "How many projects are taking place in Ghana on water and sanitation (DAC 5 Digit sector group 140)?"
-msgstr "Combien de projets sont en cours au Ghana dans le domaine de l'eau et de l'assainissement (groupe sectoriel 140 du CAD à 5 chiffres) ?"
+msgid ""
+"How many projects are taking place in Ghana on water and sanitation (DAC 5 "
+"Digit sector group 140)?"
+msgstr ""
+"Combien de projets sont en cours au Ghana dans le domaine de l'eau et de "
+"l'assainissement (groupe sectoriel 140 du CAD à 5 chiffres) ?"
 
+# REVIEWED: b9f52eb3204c7ce5
 #: ../../getting_started.rst:37
 msgid "Which organisations are currently working on tackling Ebola in Guinea?"
-msgstr "Quelles sont les organisations qui œuvrent actuellement à la lutte contre Ebola en Guinée ?"
+msgstr ""
+"Quelles sont les organisations qui œuvrent actuellement à la lutte contre "
+"Ebola en Guinée ?"
 
+# REVIEWED: 0dab3bde24436766
 #: ../../getting_started.rst:38
 msgid "How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?"
-msgstr "Quel est le montant des fonds du PNUD alloués à la Sierra Leone en 2015 en livres sterling ?"
+msgstr ""
+"Quel est le montant des fonds du PNUD alloués à la Sierra Leone en 2015 en "
+"livres sterling ?"
 
+# REVIEWED: a89c4bbcca1c1be2
 #: ../../getting_started.rst:39
-msgid "Which government is the original funder of this activity: MW-NBM-R1527-W106?"
-msgstr "Quel est le gouvernement à l'origine du financement de cette activité ? MW-NBM-R1527-W106 ?"
+msgid ""
+"Which government is the original funder of this activity: MW-NBM-R1527-W106?"
+msgstr ""
+"Quel est le gouvernement bailleur de fonds initial de cette activité : MW-"
+"NBM-R1527-W106 ?"
 
+# REVIEWED: d2318eeb0afece22
 #: ../../getting_started.rst:40
-msgid "Which two countries received the largest amount of aid as a response to Hurricane Matthew?"
-msgstr "Quels sont les deux pays qui ont reçu le plus d'aide en réponse à l'ouragan Matthew ?"
+msgid ""
+"Which two countries received the largest amount of aid as a response to "
+"Hurricane Matthew?"
+msgstr ""
+"Quels sont les deux pays qui ont reçu le plus d'aide en réponse à l'ouragan "
+"Matthew ?"
