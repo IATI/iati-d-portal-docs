@@ -23,7 +23,7 @@ Filters:
 `Collaboration Type	<https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_
     A code defining the type of collaboration involved in an activity's disbursements, for example bilateral or multilateral.
 
-`Default Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_	
+`Default Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_
     A code specifying the default type of aid being supplied in an activity, such as project-type intervention or budget support.
     Individual transactions may have a different code for this element.
 
@@ -35,11 +35,11 @@ Filters:
     A code defining the default resource flow type for an activity, for example Official Development Assistance (ODA).
     Individual transactions may have a different code for this element.
 
-`Default Tied Status <https://iatistandard.org/en/iati-standard/203/codelists/tiedstatus/>`_	
+`Default Tied Status <https://iatistandard.org/en/iati-standard/203/codelists/tiedstatus/>`_
     A code defining the default tied status of an activity; untied, tied, or partially tied.
     Individual transactions may have a different code for this element.
 
-`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_	
+`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_
     A code defining the category of documents linked to an activity.
 
 `Humanitarian Activity <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/>`_
@@ -48,8 +48,8 @@ Filters:
 `Humanitarian Scope Vocab <https://iatistandard.org/en/iati-standard/203/codelists/humanitarianscopevocabulary/>`_
     A code for a recognised vocabulary used to classify emergencies, appeals, and other humanitarian events and actions.
 
-`Participating Organisation <https://iatiregistry.org/publisher/>`_
-    Organisations involved in an activity. This filter is not extensive, and only includes Reporting Organisations who have registered data on the IATI registry.
+`Participating Organisation <https://dashboard.iatistandard.org/publishers/>`_
+    Organisations involved in an activity. This filter is not extensive, and only includes Reporting Organisations who have registered with IATI. 
     
 .. tip::
     To search for participating organisations not included in the dropdown menu, you can insert their organisation-identifier (org-id) directly into the d-portal url as follows:
@@ -64,8 +64,8 @@ Policy Marker
     the significance of the policy marker for this activity. For example, the code **0_4** filters for "not targeted, Trade Development", while **2_4** filters 
     for "principal objective, Trade Development".
 
-`Reporting Organisation	<https://iatiregistry.org/publisher/>`_
-    The organisation reporting an activity, taken from the IATI Registry.
+`Reporting Organisation	<https://dashboard.iatistandard.org/publishers/>`_
+    The organisation reporting an activity.
 
     
 .. tip::
@@ -76,7 +76,7 @@ Policy Marker
     This allows you to access an organisation's data when they are not using their validated organisation-identifier in their publication.
 
 `Recipient Country <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_
-    A ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction.
+    An ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction.
 
 `Related Activity Type <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`_
     A code defining the relationship between an IATI activity and another, separately reported IATI activity.
@@ -101,7 +101,7 @@ Total Outgoing Commitment
     A code defining the type of transactions in an activity, for example disbursements, or incoming commitments.
 
 Year Range	
-    The start and/or end year of an activity, taken from actual and planned `activity dates <DAC 3 digit sector>`_. 
+    The start and/or end year of an activity, taken from actual and planned activity dates. 
     The filter looks for activities that were active in the period between the minimum and maximum year. 
     So activities that started before the end of the max year and ended after the start of the minimum year will be returned.
 
