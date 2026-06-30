@@ -46,8 +46,8 @@ msgstr ""
 msgid "Filters:"
 msgstr "Filtros:"
 
+# REVIEWED: 8f9946333ede9b57
 #: ../../getting_started.rst:11
-#, fuzzy
 msgid ""
 "The filters are based on elements of the `IATI Standard "
 "<https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. These "
@@ -58,17 +58,17 @@ msgid ""
 "details."
 msgstr ""
 "Los filtros se basan en elementos de la `Norma IATI "
-"<https://iatistandard.org/en/iati-standard/203/activity-standard/>`_. Por "
-"ejemplo, :iati-reference:`recipient-country`, :iati-reference:`sector` e "
-":iati-reference:`reporting-org`. Puede seleccionar varios filtros utilizando"
-" los menús desplegables. Al hacer clic en \"Más filtros\" aparece una gama "
-"más amplia de filtros. Consulte la página :ref:`Filter glossary` para "
-"obtener más información."
+"<https://iatistandard.org/es/iati-standard/203/activity-standard/>`_. Estos "
+"incluyen :iati-reference:`recipient-country`, :iati-reference:`sector` y "
+":iati-reference:`reporting-org`, por ejemplo. Puede seleccionar múltiples "
+"filtros utilizando los menús desplegables. Al hacer clic en «Más filtros» se"
+" muestra una gama más amplia de filtros. Consulte la página "
+":ref:`filter_glossary` para obtener más detalles."
 
-# REVIEWED: d3800a9bbd5ac937
+# REVIEWED: 7cc96b7da7ec010c
 #: ../../getting_started.rst:17
 msgid "Freetext:"
-msgstr "Texto libre:"
+msgstr "Búsqueda de texto libre:"
 
 # REVIEWED: 7a59b83cd39acdcc
 #: ../../getting_started.rst:18

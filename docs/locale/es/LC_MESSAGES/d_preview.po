@@ -24,33 +24,32 @@ msgstr ""
 msgid "Preview your data"
 msgstr "Previsualizar los datos"
 
+# REVIEWED: 26961e183bbd6e21
 #: ../../d_preview.rst:5
-#, fuzzy
 msgid ""
 "`d-preview <https://preview.d-portal.org/upload>`_ is a tool which generates"
 " a private preview of an IATI XML file. Using the same interface as "
 "d-portal, d-preview allows users to “proof-read” their IATI XML before "
 "publication."
 msgstr ""
-"`d-preview <http://d-preview.codeforiati.org/upload>`_ es una herramienta "
-"que genera una versión preliminar privada de un archivo XML de la IATI. "
-"Utilizando la misma interfaz que d-portal, d-preview permite a los usuarios "
-"\"corregir\" su XML de la IATI antes de publicarlo."
+"`d-preview <https://preview.d-portal.org/upload>`_ es una herramienta que "
+"genera una previsualización privada de un archivo XML de IATI. Utilizando la"
+" misma interfaz que d-portal, d-preview permite a los usuarios «revisar» su "
+"archivo XML de IATI antes de la publicación."
 
-# REVIEWED: e1c2c016ff8e0ead
+# REVIEWED: e4db2fd7d3200f38
 #: ../../d_preview.rst:7
 msgid ""
 "Users can upload IATI XML from their computer, or use a link to a file to "
 "generate a preview. The link to this preview can also be shared with "
 "colleagues and stakeholders."
 msgstr ""
-"Los usuarios pueden cargar el XML de la IATI desde su ordenador o utilizar "
-"un enlace a un archivo para generar una previsualización. El enlace a esta "
-"previsualización también puede compartirse con compañeros y partes "
-"interesadas."
+"Los usuarios pueden cargar el XML de IATI desde su ordenador o utilizar un "
+"enlace a un archivo para generar una previsualización."
 
-# REVIEWED: 359c3e63e7f59960
+# REVIEWED: f8e129bc6d0b3c98
 #: ../../d_preview.rst:9
 msgid "All previews are automatically deleted after ten days."
 msgstr ""
-"Todas las previsualizaciones se borran automáticamente al cabo de diez días."
+"Todas las previsualizaciones se eliminan automáticamente después de diez "
+"días."

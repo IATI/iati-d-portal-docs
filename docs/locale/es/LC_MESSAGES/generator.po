@@ -24,8 +24,8 @@ msgstr ""
 msgid "Widget Generator"
 msgstr "Generador de widgets"
 
+# REVIEWED: d3956a1742885bdb
 #: ../../generator.rst:5
-#, fuzzy
 msgid ""
 "The `d-portal Generator "
 "<https://d-portal.iatistandard.org/ctrack.html?#view=generator>`_ is a tool "
@@ -33,11 +33,11 @@ msgid ""
 "generates HTML code which you can copy into your webpage to create an IATI "
 "widget."
 msgstr ""
-"El `Generator de d-portal "
-"<https://d-portal.org/ctrack.html#view=generator>`_ es una herramienta que "
-"ayuda a los usuarios a reproducir los datos de la IATI en sus propias "
-"páginas web o blogs. Genera un código HTML que usted puede copiar en su "
-"página web para crear un widget de la IATI."
+"La `Herramienta Generadora de d-portal "
+"<https://d-portal.iatistandard.org/ctrack.html?#view=generator>`_ es una "
+"herramienta para ayudar a los usuarios a reproducir los datos de IATI en sus"
+" propias páginas web o blogs. Genera código HTML que puede copiar en su "
+"página web para crear un widget de IATI."
 
 # REVIEWED: 7bf8f215643579a0
 #: ../../generator.rst:8
@@ -47,10 +47,10 @@ msgstr ""
 "Estos widgets pueden mostrar los datos de la IATI en formato de tabla, "
 "gráfico, mapa o lista:"
 
-# REVIEWED: 21ec1cb0b3ab69e0
+# REVIEWED: e39dd099da47f1c0
 #: ../../generator.rst:10
 msgid "Published by specific :iati-reference:`reporting-org`"
-msgstr "Publicados por :iati-reference:`reporting-org` específica"
+msgstr ":iati-reference:`reporting-org` específico"
 
 # REVIEWED: dc204fb8c9d9774d
 #: ../../generator.rst:11

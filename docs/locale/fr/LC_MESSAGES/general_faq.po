@@ -105,10 +105,10 @@ msgstr ""
 "transparentes. Les données de l'IITA aident les individus à prendre des "
 "décisions éclairées afin de produire de meilleurs résultats."
 
-# REVIEWED: 0d3992fec00aa3a5
+# REVIEWED: ebd36705adf8e1a7
 #: ../../general_faq.rst:33
 msgid "\\3. Why can't I see my published data on d-portal?"
-msgstr "3. Pourquoi ne puis-je pas voir mes données publiées sur d-portal ?"
+msgstr "\\3. Pourquoi ne puis-je pas voir mes données publiées sur d-portal ?"
 
 # REVIEWED: 8510745b4fc4ccb0
 #: ../../general_faq.rst:34
@@ -163,11 +163,11 @@ msgstr ""
 "48 heures, veuillez `nous contacter "
 "<https://iatistandard.org/fr/guidance/get-support/>`_."
 
-# REVIEWED: c65e8f6dae5f98c6
+# REVIEWED: 795f629fb366ade9
 #: ../../general_faq.rst:44
 msgid "\\4. Why are some data fields missing or out of date?"
 msgstr ""
-"4. Pourquoi certains champs de données sont-ils manquants ou obsolètes ?"
+"\\4. Pourquoi certains champs de données sont-ils manquants ou obsolètes ?"
 
 # REVIEWED: a98e22a889e1745c
 #: ../../general_faq.rst:45
@@ -202,10 +202,10 @@ msgstr ""
 "Ceci peut être vérifié à l'aide du `IATI Validator "
 "<https://validator.iatistandard.org/>`_."
 
-# REVIEWED: fa1c422de5314d68
+# REVIEWED: 6676f5787afb25db
 #: ../../general_faq.rst:53
 msgid "\\5. How can I preview my data?"
-msgstr "5. Comment puis-je prévisualiser mes données?"
+msgstr "\\5. Comment puis-je prévisualiser mes données?"
 
 # REVIEWED: 442a5deda038ef23
 #: ../../general_faq.rst:54
@@ -222,8 +222,10 @@ msgstr ""
 "fichiers d'organisation (téléchargez votre fichier XML puis téléchargez le "
 "HTML pour consulter vos données d'organisation)."
 
-# REVIEWED: 6483cf1b89f924fa
+# NEEDS-REVIEW: 6483cf1b89f924fa Item number mismatch: source starts with
+# '\6.' but translation starts with (none)
 #: ../../general_faq.rst:58
+#, fuzzy
 msgid "\\6. Why are there zeros and dashes in the tables?"
 msgstr ""
 "6. Pourquoi y a-t-il des zéros et des tirets dans les tableaux\n"

@@ -24,8 +24,8 @@ msgstr ""
 msgid "Query d-portal"
 msgstr "Consulta en d-portal"
 
+# REVIEWED: 51488ceab53a5b9b
 #: ../../d_query.rst:5
-#, fuzzy
 msgid ""
 "`Dquery <https://d-portal.iatistandard.org/dquery/>`_ provides a read only "
 "SQL interface to the d-portal database. This includes non-standard "
@@ -33,11 +33,11 @@ msgid ""
 "the d-portal site. Data can be downloaded from Dquery in XML, JSON, HTML, "
 "and CSV formats."
 msgstr ""
-"`Dquery <https://d-portal.org/dquery/>`_ proporciona una interfaz de SQL de "
-"solo lectura para la base de datos d-portal. Esto incluye atributos no "
-"estándar y extensiones de la Norma IATI que no se muestran en el sitio "
-"d-portal. Los datos pueden descargarse de Dquery en formatos XML, JSON, HTML"
-" y CSV."
+"`Dquery <https://d-portal.iatistandard.org/dquery/>`_ proporciona una "
+"interfaz SQL de solo lectura para la base de datos de d-portal. Esto incluye"
+" atributos no estándar y extensiones a la Norma IATI que no se muestran en "
+"el sitio de d-portal. Los datos pueden descargarse desde Dquery en formatos "
+"XML, JSON, HTML y CSV."
 
 # REVIEWED: 59cb192df2e3f34d
 #: ../../d_query.rst:8

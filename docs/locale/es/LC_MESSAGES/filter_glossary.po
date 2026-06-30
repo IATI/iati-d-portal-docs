@@ -229,22 +229,24 @@ msgstr ""
 "Código de un vocabulario reconocido utilizado para clasificar emergencias, "
 "llamamientos y otros episodios y acciones humanitarias."
 
+# REVIEWED: f71185ff785148cb
 #: ../../filter_glossary.rst:51
-#, fuzzy
 msgid ""
 "`Participating Organisation "
 "<https://dashboard.iatistandard.org/publishers/>`_"
-msgstr "`Organización participante <https://iatiregistry.org/publisher/>`_"
+msgstr ""
+"`Organización participante "
+"<https://dashboard.iatistandard.org/es/publishers/>`_"
 
+# REVIEWED: c76a141609b5b838
 #: ../../filter_glossary.rst:52
-#, fuzzy
 msgid ""
 "Organisations involved in an activity. This filter is not extensive, and "
 "only includes Reporting Organisations who have registered with IATI."
 msgstr ""
-"Las organizaciones que participan en una actividad. Este filtro no es "
-"exhaustivo y solo incluye a las organizaciones que presentan informes que "
-"han registrado datos en el Registro de la IATI."
+"Organizaciones involucradas en una actividad. Este filtro no es exhaustivo y"
+" solo incluye a las organizaciones que presentan el informe que se han "
+"registrado en IATI."
 
 # REVIEWED: 8481d5e4fb30a4a9
 #: ../../filter_glossary.rst:55
@@ -257,13 +259,15 @@ msgstr ""
 "desplegable, puede insertar su identificador de organización (org-id) "
 "directamente en la url de d-portal de la siguiente manera:"
 
+# REVIEWED: 1f0a0d6d9d18bddd
 #: ../../filter_glossary.rst:57
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid ""
 ":samp:`https://d-portal.iatistandard.org/ctrack.html?&/participating-"
 "org@ref={org-id}#view=main`"
 msgstr ""
-":samp:`d-portal.org/ctrack.html?&/participating-org@ref={org-id}#view=main`"
+"`:samp:`https://d-portal.iatistandard.org/ctrack.html?&/participating-"
+"org@ref={org-id}#view=main`"
 
 # REVIEWED: a9ac3c90abb7a6e8
 #: ../../filter_glossary.rst:59
@@ -279,7 +283,7 @@ msgstr ""
 msgid "Policy Marker"
 msgstr "Marcador de políticas"
 
-# REVIEWED: 979a5a9c5f32d994
+# REVIEWED: bf2f19751da30f67
 #: ../../filter_glossary.rst:62
 msgid ""
 "A combination of `Policy Significance <https://iatistandard.org/en/iati-"
@@ -290,48 +294,48 @@ msgid ""
 "**0_4** filters for \"not targeted, Trade Development\", while **2_4** "
 "filters for \"principal objective, Trade Development\"."
 msgstr ""
-"Combinación de los códigos `Policy Significance "
+"Combinación de los códigos `Significado de la política "
 "<https://iatistandard.org/es/iati-"
 "standard/203/codelists/policysignificance/>`_ y `Marcador de políticas "
 "<https://iatistandard.org/es/iati-standard/203/codelists/policymarker/>`_. "
-"Especifican una política o un tema abordado por la actividad, así como la "
-"importancia del marcador de políticas para esa actividad. Por ejemplo, el "
-"código **0_4** filtra para \"no objetivo, Desarrollo comercial\", mientras "
+"Estos definen una política o tema abordado por la actividad, y la "
+"importancia del marcador de políticas para esta actividad. Por ejemplo, el "
+"código **0_4** filtra para \"no dirigido, Desarrollo comercial\", mientras "
 "que **2_4** filtra para \"objetivo principal, Desarrollo comercial\"."
 
+# REVIEWED: 3440b7e2b0b69c6c
 #: ../../filter_glossary.rst:67
-#, fuzzy
 msgid ""
 "`Reporting Organisation <https://dashboard.iatistandard.org/publishers/>`_"
 msgstr ""
 "`Organización que presenta el informe "
-"<https://iatiregistry.org/publisher/>`_"
+"<https://dashboard.iatistandard.org/publishers/>`_"
 
+# REVIEWED: bb39e1a64ac9cdc6
 #: ../../filter_glossary.rst:68
-#, fuzzy
 msgid "The organisation reporting an activity."
-msgstr ""
-"La organización que informa de una actividad, extraída del Registro de la "
-"IATI."
+msgstr "La organización que presenta el informe de una actividad."
 
+# REVIEWED: 3060d74421fe289e
 #: ../../filter_glossary.rst:72
-#, fuzzy
 msgid ""
 "To search for reporting organisations not included in the dropdown menu, you"
 " can insert their organisation-identifier (org-id) directly into the "
 "d-portal url as follows:"
 msgstr ""
-"Para buscar organizaciones participantes no incluidas en el menú "
-"desplegable, puede insertar su identificador de organización (org-id) "
-"directamente en la url de d-portal de la siguiente manera:"
+"puede insertar su identificador de la organización directamente en la url de"
+" d-portal"
 
+# REVIEWED: 26d978532056ae39
 #: ../../filter_glossary.rst:74
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid ""
 ":samp:`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-"
 "id}#view=main`"
 msgstr ""
-":samp:`d-portal.org/ctrack.html?&/participating-org@ref={org-id}#view=main`"
+"{\"translation\": "
+"\"`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-"
+"id}#view=main`\"}"
 
 # REVIEWED: 90b72c5bcd78d2ec
 #: ../../filter_glossary.rst:76
@@ -351,14 +355,14 @@ msgstr ""
 "`País receptor <https://iatistandard.org/es/iati-"
 "standard/203/codelists/country/>`_"
 
+# REVIEWED: c83bd25ed3607310
 #: ../../filter_glossary.rst:79
-#, fuzzy
 msgid ""
 "An ISO 3166-1 alpha-2 code specifying the recipient country of an activity "
 "or transaction."
 msgstr ""
-"Código ISO 3166-1 alfa 2 que indica el país receptor de una actividad o "
-"transacción."
+"Un código ISO 3166-1 alpha-2 que especifica el país receptor de una "
+"actividad o transacción."
 
 # REVIEWED: b9a03b0316e782ff
 #: ../../filter_glossary.rst:81
@@ -482,13 +486,13 @@ msgstr ""
 "Código que indica el tipo de transacciones de una actividad, por ejemplo, "
 "los desembolsos o los compromisos recibidos."
 
-# REVIEWED: 1c32e1aad2a17404
+# REVIEWED: b5bbc5d0b35fd101
 #: ../../filter_glossary.rst:103
 msgid "Year Range"
-msgstr "Años"
+msgstr "Rango de años"
 
+# REVIEWED: 19e31463e06d7bc3
 #: ../../filter_glossary.rst:104
-#, fuzzy
 msgid ""
 "The start and/or end year of an activity, taken from actual and planned "
 "activity dates. The filter looks for activities that were active in the "
@@ -496,9 +500,8 @@ msgid ""
 "before the end of the max year and ended after the start of the minimum year"
 " will be returned."
 msgstr ""
-"Los años de inicio o fin de una actividad, tomados de las `fechas de "
-"actividad <DAC 3 digit sector>`_ reales y previstas. El filtro busca las "
-"actividades que estuvieron activas en el período comprendido entre el año "
-"mínimo y el máximo. Por lo tanto, se mostrarán las actividades que hayan "
-"comenzado antes del final del año máximo y terminado después del comienzo "
-"del año mínimo."
+"El año de inicio y/o finalización de una actividad, tomado de las fechas "
+"reales y previstas de la actividad. El filtro busca actividades que "
+"estuvieron activas en el período comprendido entre el año mínimo y el año "
+"máximo. Por lo tanto, se devolverán las actividades que comenzaron antes del"
+" final del año máximo y finalizaron después del inicio del año mínimo."

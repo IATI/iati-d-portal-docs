@@ -33,10 +33,12 @@ msgstr ""
 "d-portal contiene herramientas que pueden utilizarse para investigar los "
 "datos que faltan y los errores."
 
+# REVIEWED: 9e9da5e04e4ccda8
 #: ../../dash.rst:7
-#, fuzzy
 msgid "`Dash <https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
-msgstr "`Dash <https://d-portal.org/ctrack.html?#view=dash>`_"
+msgstr ""
+"`Panel de control "
+"<https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
 
 # REVIEWED: cc55ca02cf26e1cc
 #: ../../dash.rst:8
@@ -76,8 +78,8 @@ msgstr ""
 "encuentran en la base de datos de d-portal en vivo. Se actualiza cada noche "
 "y puede consultarse en forma de tabla o de gráficos históricos."
 
+# REVIEWED: 177fc40a91809252
 #: ../../dash.rst:16
-#, fuzzy
 msgid ""
 "Xpath Stats shows how much each element of the IATI Standard is used in "
 "activity or organisation data. This can be viewed as a percentage or as a "
@@ -85,10 +87,10 @@ msgid ""
 "IATI Standard elements can also be explored."
 msgstr ""
 "Xpath Stats muestra en qué medida se utiliza cada elemento de la Norma IATI "
-"en los datos de actividades u organizaciones. Puede verse como porcentaje o "
-"como una cronología histórica de uso. También puede explorarse el uso de los"
-" elementos de la Norma IATI por parte de las organizaciones que presentan "
-"informes."
+"en los datos de actividad u organización. Esto puede visualizarse como un "
+"porcentaje o como una línea de tiempo histórica de uso. También se puede "
+"explorar el uso de los elementos de la Norma IATI por parte de "
+"organizaciones que presentan informes de manera individual."
 
 # REVIEWED: be84d3bc81432ab7
 #: ../../dash.rst:19

@@ -56,10 +56,10 @@ msgstr ""
 msgid "Use d-portal if you want to:"
 msgstr "Utilice d-portal si quiere:"
 
-# REVIEWED: 2e8563cbecc6e190
+# REVIEWED: 87139b385f52ff8f
 #: ../../index.rst:9
 msgid "View individual IATI activities in detail."
-msgstr "Ver la actividad de la IATI de forma pormenorizada."
+msgstr "las actividades de IATI"
 
 # REVIEWED: 6749fa9e03da032d
 #: ../../index.rst:10
