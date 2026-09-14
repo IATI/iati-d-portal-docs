@@ -19,62 +19,60 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: ee9c0a125c9a8717
+# REVIEWED: 0ae654cb7b7526a0
 #: ../../general_faq.rst:3
 msgid "General FAQs"
 msgstr "Preguntas más frecuentes"
 
-# REVIEWED: 4183e8bf29ab5af9
+# REVIEWED: 5cd1d78f0228a795
 #: ../../general_faq.rst:5
 msgid ":ref:`What data is included in d-portal? <faq_1>`"
 msgstr ":ref:`¿Qué datos se incluyen en d-portal? <faq_1>`"
 
-# REVIEWED: b4327f478a470cf3
+# REVIEWED: 43d06004ab4de9df
 #: ../../general_faq.rst:6
 msgid ":ref:`What is IATI? <faq_2>`"
 msgstr ":ref:`¿Qué es IATI? <faq_2>`"
 
-# REVIEWED: ba0b288d2bea1266
+# REVIEWED: 75fbab3d26f64efa
 #: ../../general_faq.rst:7
 msgid ":ref:`Why can't I see my published data on d-portal? <faq_3>`"
 msgstr ""
 ":ref:`¿Por qué no puedo ver mis datos publicados en d-portal? <faq_3>`"
 
-# REVIEWED: 5f1fb7c620701291
+# REVIEWED: 24b1f93d017aac0a
 #: ../../general_faq.rst:8
 msgid ":ref:`Why are some data fields missing or out of date? <faq_4>`"
 msgstr ""
 ":ref:`¿Por qué faltan algunos campos de datos o están desactualizados? "
 "<faq_4>`"
 
-# REVIEWED: a34bcec0d660affb
+# REVIEWED: 6bdaa5608b14a42a
 #: ../../general_faq.rst:9
 msgid ":ref:`How can I preview my data? <faq_5>`"
 msgstr ":ref:`¿Cómo puedo previsualizar mis datos? <faq_5>`"
 
-# REVIEWED: f53d615bbffe3a07
+# REVIEWED: fd80ef7a82fe13c0
 #: ../../general_faq.rst:10
 msgid ":ref:`Why are there zeros and dashes in the tables? <faq_6>`"
-msgstr ""
-"{\"translation\": \":ref:`¿Por qué hay ceros y guiones en las tablas? "
-"<faq_6>`\"}"
+msgstr ":ref:`¿Por qué hay ceros y guiones en las tablas? <faq_6>`"
 
-# REVIEWED: 50d74de33aaf2173
+# REVIEWED: 4300dce81e6e2f14
 #: ../../general_faq.rst:11
 msgid ":ref:`Where can I ask questions about d-portal? <faq_7>`"
 msgstr ":ref:`¿Dónde puedo hacer preguntas sobre d-portal? <faq_7>`"
 
-# REVIEWED: ba3bd506502eb01a
+# REVIEWED: 7a25d49b2f0378ba
 #: ../../general_faq.rst:12
 msgid ":ref:`Where can I access the classic d-portal theme? <faq_8>`"
 msgstr ":ref:`¿Dónde puedo acceder al tema clásico de d-portal? <faq_8>`"
 
-# REVIEWED: 26136724a4668fd3
+# REVIEWED: 8d13c0911e31a7b4
 #: ../../general_faq.rst:22
 msgid "\\1. What data is included in d-portal?"
 msgstr "\\1. ¿Qué datos se incluyen en d-portal?"
 
-# REVIEWED: 327509a7c76de4a2
+# REVIEWED: be7d5e5537d2b06e
 #: ../../general_faq.rst:23
 msgid ""
 "Data published to the `International Aid Transparency Initiative "
@@ -83,15 +81,15 @@ msgid ""
 msgstr ""
 "Datos publicados en la `Iniciativa Internacional para la Transparencia de la"
 " Ayuda <https://iatistandard.org/es/>`_ (IATI). Estos datos provienen de "
-"`organizaciones que presentan el informe "
+"`organizaciones que presentan informes "
 "<https://dashboard.iatistandard.org/publishers/>`_."
 
-# REVIEWED: dd87c73448837f34
+# REVIEWED: a0ed0333406963c1
 #: ../../general_faq.rst:28
 msgid "\\2. What is IATI?"
 msgstr "\\2. ¿Qué es la IATI?"
 
-# REVIEWED: bc8461f583c2e08c
+# REVIEWED: 466c7d77add5a29b
 #: ../../general_faq.rst:29
 msgid ""
 "The `International Aid Transparency Initiative "
@@ -105,12 +103,12 @@ msgstr ""
 " Los datos de la IATI ayudan a las personas a tomar decisiones fundamentadas"
 " que ofrecen mejores resultados."
 
-# REVIEWED: 5d4b8a03064eb3d2
+# REVIEWED: f976cd9b6338665e
 #: ../../general_faq.rst:33
 msgid "\\3. Why can't I see my published data on d-portal?"
 msgstr "\\3. ¿Por qué no puedo ver mis datos publicados en d-portal?"
 
-# REVIEWED: 202e3520d1e1037a
+# REVIEWED: bb31495ac72c4a96
 #: ../../general_faq.rst:34
 msgid ""
 "It is normal for there to be a delay between publishing your activity (e.g. "
@@ -121,7 +119,7 @@ msgstr ""
 "ejemplo, en IATI Publisher) y su visualización en d-portal. Esto se debe a "
 "que d-portal puede tardar hasta 48 horas en actualizarse."
 
-# REVIEWED: ee745f81134f06fc
+# REVIEWED: eb9b30d4b8f192e9
 #: ../../general_faq.rst:36
 msgid ""
 "If there are critical errors in your data, your files will not be processed "
@@ -133,7 +131,7 @@ msgstr ""
 "errores críticos utilizando el `Validador de la IATI "
 "<https://validator.iatistandard.org/>`_."
 
-# REVIEWED: 088e0c863544ebde
+# REVIEWED: 2857d5f271faf984
 #: ../../general_faq.rst:38
 msgid ""
 "Your data needs to be published openly to be accessible to our tools. If you"
@@ -144,16 +142,15 @@ msgid ""
 "data/creating-files/publishing-without-access-restrictions/why-we-need-to-"
 "publish-without-access-restrictions/>`_."
 msgstr ""
-"Sus datos deben publicarse de manera abierta para que sean accesibles a "
-"nuestras herramientas. Si ha creado y publicado sus propios archivos XML (es"
-" decir, sin utilizar una herramienta como IATI Publisher o Aidstream), "
-"consulte el sitio web de IATI para obtener más información sobre `la "
-"publicación sin restricciones de acceso "
-"<https://iatistandard.org/es/guidance/publishing-data/how-to-publish-"
-"data/creating-files/publishing-without-access-restrictions/why-we-need-to-"
-"publish-without-access-restrictions/>`_."
+"Sus datos deben publicarse abiertamente para que sean accesibles a nuestras "
+"herramientas. Si ha creado y publicado sus propios archivos XML (es decir, "
+"no utilizando una herramienta como IATI Publisher o Aidstream), consulte el "
+"sitio web de IATI para obtener más información sobre `la publicación sin "
+"restricciones de acceso <https://iatistandard.org/es/guidance/publishing-"
+"data/how-to-publish-data/creating-files/publishing-without-access-"
+"restrictions/why-we-need-to-publish-without-access-restrictions/>`_."
 
-# REVIEWED: a6798595783a49d5
+# REVIEWED: c6510f9b20286684
 #: ../../general_faq.rst:40
 msgid ""
 "If your activity data still isn’t visible on d-portal after 48 hours, please"
@@ -163,19 +160,19 @@ msgstr ""
 "horas, por favor `contáctenos <https://iatistandard.org/es/guidance/get-"
 "support/>`_."
 
-# REVIEWED: 5cd4afee51739bd4
+# REVIEWED: c0210d9ae230f610
 #: ../../general_faq.rst:44
 msgid "\\4. Why are some data fields missing or out of date?"
 msgstr "\\4. ¿Por qué faltan algunos campos de datos o están desactualizados?"
 
-# REVIEWED: ea9a7ad0176d69ef
+# REVIEWED: d7cbe84ed95d4d5f
 #: ../../general_faq.rst:45
 msgid "Common reasons for \"missing\" data in d-portal include:"
 msgstr ""
 "Entre las razones más comunes por las que \"faltan\" datos en d-portal cabe "
 "mencionar:"
 
-# REVIEWED: 1564a3a02b61640a
+# REVIEWED: 53f8bdb3a8ed2434
 #: ../../general_faq.rst:47
 msgid ""
 "Reporting organisations can include different levels of detail in their "
@@ -184,32 +181,33 @@ msgstr ""
 "Las organizaciones que presentan informes pueden incluir distintos niveles "
 "de detalle en sus datos."
 
-# REVIEWED: e996ef6358ea9f17
+# REVIEWED: d385ac2e899be704
 #: ../../general_faq.rst:48
 msgid "Reporting organisations may follow different update schedules."
 msgstr ""
-"Las organizaciones que presentan informes pueden seguir calendarios de "
-"actualización diferentes."
+"Las organizaciones que presentan el informe pueden seguir diferentes "
+"calendarios de actualización."
 
-# REVIEWED: 65f12cbf3dea3b59
+# REVIEWED: 3d99f495de95f983
 #: ../../general_faq.rst:49
 msgid ""
 "There may be errors in a reporting organisation's data. This can be checked "
 "using the `IATI Validator <https://validator.iatistandard.org/>`_."
 msgstr ""
-"Los datos de una organización que presenta informes pueden contener errores."
-" Esto puede comprobarse utilizando el `Validador de la IATI "
+"Los datos de una organización que presenta el informe pueden contener "
+"errores. Esto puede comprobarse utilizando el `Validador de la IATI "
 "<https://validator.iatistandard.org/>`_."
 
-# REVIEWED: f1fe1bd4fb3ca6b1
+# REVIEWED: d3dd9ac80c6cb817
 #: ../../general_faq.rst:53
 msgid "\\5. How can I preview my data?"
 msgstr "\\5. ¿Cómo puedo previsualizar mis datos?"
 
-# NEEDS-REVIEW: 023489df45d1b913 Glossary term 'download' should be translated
 # as 'descargar' but was not found in translation
+# as 'descargar' but was not found in translation
+# as 'descargar' but was not found in translation
+# REVIEWED: 7a78215568b2ed0e
 #: ../../general_faq.rst:54
-#, fuzzy
 msgid ""
 "`D-preview <https://preview.d-portal.org/upload>`_ can be used to preview "
 "your IATI activity data. `IATI Switcheroo "
@@ -217,18 +215,18 @@ msgid ""
 "files (upload your XML file then download the HTML to view your organisation"
 " data)."
 msgstr ""
-"`D-preview <https://preview.d-portal.org/upload>`_ puede utilizarse para "
+"`D-preview <https://preview.d-portal.org/upload>`_ se puede utilizar para "
 "previsualizar los datos de su actividad de IATI. `IATI Switcheroo "
-"<https://notshi.github.io/IATIswitcheroo/>`_ puede utilizarse para los "
-"archivos de la organización (cargue su archivo XML y luego descargue el HTML"
-" para ver los datos de su organización)."
+"<https://notshi.github.io/IATIswitcheroo/>`_ se puede utilizar para los "
+"archivos de organización (cargue su archivo XML y luego descargue el HTML "
+"para ver los datos de su organización)."
 
-# REVIEWED: 2b8a6982d75c1406
+# REVIEWED: 0bc639c9b5391881
 #: ../../general_faq.rst:58
 msgid "\\6. Why are there zeros and dashes in the tables?"
 msgstr "\\6. ¿Por qué hay ceros y guiones en las tablas?"
 
-# REVIEWED: 775f1107278e1059
+# REVIEWED: ed30ac3a6feb8f87
 #: ../../general_faq.rst:59
 msgid ""
 "Zeroes indicate data quality issues, such as codes which do not follow the "
@@ -237,14 +235,14 @@ msgid ""
 msgstr ""
 "Los ceros indican problemas de calidad de los datos, como códigos que no "
 "siguen la Norma IATI. Los guiones muestran que una organización no reporta "
-"actualmente datos IATI."
+"actualmente datos de IATI."
 
-# REVIEWED: 9c46288941c3d152
+# REVIEWED: 8176ec87d9263bc1
 #: ../../general_faq.rst:63
 msgid "\\7. Where can I ask questions about d-portal?"
 msgstr "\\7. ¿Dónde puedo hacer preguntas sobre d-portal?"
 
-# REVIEWED: c1840ffe07952b9c
+# REVIEWED: 5c4783895f94f4d4
 #: ../../general_faq.rst:64
 msgid ""
 "By `contacting us <https://iatistandard.org/en/guidance/get-support/>`_ or "
@@ -254,14 +252,13 @@ msgstr ""
 "<https://iatistandard.org/es/guidance/get-support/>`_ o al abrir un problema"
 " en `GitHub <https://github.com/IATI/D-Portal/issues>`_."
 
-# NEEDS-REVIEW: 20956f9291ff42b4 Item number mismatch: source starts with
 # '\8.' but translation starts with (none)
+# REVIEWED: 22ad5f0d417b7a7c
 #: ../../general_faq.rst:68
-#, fuzzy
 msgid "\\8. Where can I access the classic d-portal theme?"
-msgstr "¿Dónde puedo acceder al tema clásico de d-portal?"
+msgstr "\\8. ¿Dónde puedo acceder al tema clásico de d-portal?"
 
-# REVIEWED: c76201c87d195195
+# REVIEWED: e4612ad64663fc75
 #: ../../general_faq.rst:69
 msgid ""
 "You can access the classic d-portal theme at https://classic.d-portal.org/."

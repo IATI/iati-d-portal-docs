@@ -16,36 +16,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEWED: 036b539b285a4b5a
+# REVIEWED: 966df43b9767f040
 #: ../../technical_faq.rst:3
 msgid "Technical FAQs"
 msgstr "FAQ technique"
 
-# REVIEWED: f76b5fd697aa512d
+# REVIEWED: 19073f241646e7e5
 #: ../../technical_faq.rst:5
 msgid ":ref:`Which transaction types are used in summary tables? <faq_a>`"
 msgstr ""
 ":ref:`Quels types de transactions sont utilisés dans les tableaux "
 "récapitulatifs ? <faq_a>`"
 
-# REVIEWED: f3a4a3e81de7de37
+# REVIEWED: 76cf893b5055338c
 #: ../../technical_faq.rst:6
 msgid ":ref:`How is the data cleaned? <faq_b>`"
 msgstr ":ref:`Comment les données sont-elles nettoyées ? <faq_b>`"
 
-# REVIEWED: 5af56f4c7ac8a28c
+# REVIEWED: 7d062e644348fab8
 #: ../../technical_faq.rst:7
 msgid ":ref:`How is data assigned to a specific year? <faq_c>`"
 msgstr ""
 ":ref:`Comment les données sont-elles assignées à une année spécifique ? "
 "<faq_c>`"
 
-# REVIEWED: e721125b3df769d2
+# REVIEWED: 2ea0bccabec093dc
 #: ../../technical_faq.rst:8
 msgid ":ref:`How are exchange rates calculated? <faq_d>`"
 msgstr ":ref:`Comment les taux de change sont-ils calculés ? <faq_d>`"
 
-# REVIEWED: d5e76a2455793f8a
+# REVIEWED: 8976c95d3aa0cd2b
 #: ../../technical_faq.rst:9
 msgid ""
 ":ref:`Why is my organisation's data missing from a recipient country's "
@@ -54,45 +54,45 @@ msgstr ""
 ":ref:`Pourquoi les données de mon organisation sont-elles absentes du "
 "diagramme/du tableau/de la carte d'un pays bénéficiaire ? <faq_e>`"
 
-# REVIEWED: 28e2c338562b59a6
+# REVIEWED: 97dec69181c5cd99
 #: ../../technical_faq.rst:10
 msgid ":ref:`Why are graphs missing from my activity? <faq_f>`"
 msgstr ""
 ":ref:`Pourquoi les graphiques sont-ils absents de mon activité ? <faq_f>`"
 
-# REVIEWED: ffa8d83ed6754b14
+# REVIEWED: 6e7569e1aa228593
 #: ../../technical_faq.rst:11
 msgid ":ref:`Why do graphs start at 1970-01-01 for my activity? <faq_g>`"
 msgstr ""
 ":ref:`Pourquoi les graphiques commencent-ils à 1970-01-01 pour mon "
 "activité ? <faq_g>`"
 
-# REVIEWED: 86a1944a8bfa8ebd
+# REVIEWED: e193b43d3377b655
 #: ../../technical_faq.rst:12
 msgid ":ref:`What is the source of country codes and descriptions? <faq_h>`"
 msgstr ""
 ":ref:`Quelle est la source des codes et descriptions de pays ? <faq_h>`"
 
-# REVIEWED: 5b077b0b3e550e28
+# REVIEWED: c097cceedd49610d
 #: ../../technical_faq.rst:13
 msgid ":ref:`Where is the additional data used in d-portal stored? <faq_i>`"
 msgstr ""
 ":ref:`Où sont stockées les données supplémentaires utilisées dans d-portal ?"
 " <faq_i>`"
 
-# REVIEWED: 99bf105db2a81ba3
+# REVIEWED: a48ea2b3cf1e97c7
 #: ../../technical_faq.rst:14
 msgid ":ref:`Why are sectors aggregated using DAC 3 Digit codes? <faq_j>`"
 msgstr ""
 ":ref:`Pourquoi les secteurs sont-ils agrégés à l'aide des codes du CAD à "
 "3 chiffres ? <faq_j>`"
 
-# REVIEWED: c2bb57c4347b8f13
+# REVIEWED: 88dfbe69cb58e15c
 #: ../../technical_faq.rst:15
 msgid ":ref:`How are results percentages calculated? <faq_k>`"
 msgstr ":ref:`Comment sont calculés les pourcentages de résultats ? <faq_k>`"
 
-# REVIEWED: 2d43031416f52261
+# REVIEWED: 468761621f20e340
 #: ../../technical_faq.rst:25
 msgid ""
 "\\1. Which :iati-reference:`transaction/transaction-type` are used in "
@@ -101,7 +101,7 @@ msgstr ""
 "\\1. Quelles sont les :iati-reference:`transaction/transaction-type` "
 "utilisées dans les tableaux récapitulatifs ?"
 
-# REVIEWED: c2ab6dabc25516e5
+# REVIEWED: 1c35ccb97e4ed214
 #: ../../technical_faq.rst:26
 msgid ""
 "Spend data is the sum of expenditure and disbursements. If these are not "
@@ -111,7 +111,7 @@ msgstr ""
 "des décaissements. Si ceux-ci ne sont pas publiés, les engagements sortants "
 "seront utilisés."
 
-# REVIEWED: 94a8d4a88454bf1a
+# REVIEWED: 464cf4b7a6ee1167
 #: ../../technical_faq.rst:27
 msgid ""
 "Total commitment is the sum of outgoing commitments. If these are not "
@@ -120,7 +120,7 @@ msgstr ""
 "L'engagement total est la somme des engagements sortants. Si ceux-ci ne sont"
 " pas publiés, les dépenses et les décaissements seront utilisés."
 
-# REVIEWED: fc9aa827fa36951c
+# REVIEWED: 69de86ce55ae2bb8
 #: ../../technical_faq.rst:28
 msgid ""
 "Budget is the sum of  :iati-reference:`budget/value`. If these are not "
@@ -130,24 +130,23 @@ msgstr ""
 "sont pas publiées, :iati-reference:`planned-disbursement/value` sera "
 "utilisé."
 
-# REVIEWED: fa7f552cec61e3e1
+# REVIEWED: 37d2a6999c3e073f
 #: ../../technical_faq.rst:32
 msgid "\\2. How is the data cleaned?"
 msgstr "\\2. Comment les données sont-elles nettoyées ?"
 
-# REVIEWED: 22d28a3d089375d7
+# REVIEWED: 8ba2f494da1feb48
 #: ../../technical_faq.rst:33
 msgid "To be updated following finalisation of new data policy."
 msgstr ""
-"À mettre à jour après la finalisation de la nouvelle politique en matière de"
-" données."
+"À mettre à jour après la finalisation de la nouvelle politique de données."
 
-# REVIEWED: 3f9960d67acc262a
+# REVIEWED: dd6ff2c7673a4320
 #: ../../technical_faq.rst:37
 msgid "\\3. How is data assigned to a specific year?"
 msgstr "\\3. Comment les données sont-elles affectées à une année spécifique ?"
 
-# REVIEWED: 907172fcc8af5da7
+# REVIEWED: 056f7063dd785d8e
 #: ../../technical_faq.rst:38
 msgid ""
 "For transactions, using :iati-reference:`transaction/transaction-date`, else"
@@ -156,17 +155,17 @@ msgstr ""
 "Pour les transactions, utiliser :iati-reference:`transaction/transaction-"
 "date`, sinon :iati-reference:`transaction/value/@value-date`."
 
-# REVIEWED: f65f6e3941519a45
+# REVIEWED: eecc21128c6e0c6c
 #: ../../technical_faq.rst:39
 msgid "For budgets, using :iati-reference:`budget/period-end`."
 msgstr "Pour les budgets, utiliser :iati-reference:`budget/period-end`."
 
-# REVIEWED: bedcba2b3f200491
+# REVIEWED: f4024bd3215f5bbd
 #: ../../technical_faq.rst:43
 msgid "\\4. How are exchange rates calculated?"
 msgstr "\\4. Comment les taux de change sont-ils calculés ?"
 
-# REVIEWED: c3134e30349b3c81
+# REVIEWED: a6f27b7f5d250fd2
 #: ../../technical_faq.rst:44
 msgid ""
 "Exchange rates are taken from the `Freechange "
@@ -182,7 +181,7 @@ msgstr ""
 "`référentiel Github Freechange "
 "<https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_."
 
-# REVIEWED: f4e9c0a72c0648be
+# REVIEWED: 896442721cf5ce49
 #: ../../technical_faq.rst:46
 msgid ""
 "For USD, GBP, EUR, and CAD, currency conversion is carried out when "
@@ -190,13 +189,13 @@ msgid ""
 " <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-"
 "activities/iati-activity/transaction/value/>`_ is used as the exchange date."
 msgstr ""
-"La conversion des devise USD, GBP, EUR et CAD est effectuée lorsque les "
-"transactions et les budgets sont importés dans d-portal. L'élément `date de "
-"la valeur <https://iatistandard.org/fr/iati-standard/203/activity-"
+"La conversion des devises USD, GBP, EUR et CAD est effectuée lorsque les "
+"transactions et le budget sont importés dans d-portal. L'élément `date de la"
+" valeur <https://iatistandard.org/fr/iati-standard/203/activity-"
 "standard/iati-activities/iati-activity/transaction/value/>`_ est utilisé "
 "comme date d'échange."
 
-# REVIEWED: 93ab26a043540ecc
+# REVIEWED: 751e4f498fa21a01
 #: ../../technical_faq.rst:48
 msgid ""
 "For all other currencies, transactions and budgets are initially converted "
@@ -204,12 +203,12 @@ msgid ""
 "exchange rate. These values are estimates, and will be less accurate for "
 "older transactions."
 msgstr ""
-"Pour toutes les autres devises, les transactions et les budgets sont "
+"Pour toutes les autres devises, les transactions et le budget sont "
 "initialement convertis en USD. Ils sont ensuite convertis dans la devise "
 "cible sur la base du taux de change du jour. Ces valeurs sont des "
 "estimations et seront moins précises pour les transactions plus anciennes."
 
-# REVIEWED: 53c81b33e3786b06
+# REVIEWED: cc982ec4124b6ac0
 #: ../../technical_faq.rst:52
 msgid ""
 "\\5. Why is my organisation's data missing from a recipient country's "
@@ -218,7 +217,7 @@ msgstr ""
 "\\5. Pourquoi les données de mon organisation sont-elles absentes du "
 "diagramme/du tableau/de la carte d'un pays bénéficiaire ?"
 
-# REVIEWED: 6937df29e42725ab
+# REVIEWED: a4e368a772a0eac3
 #: ../../technical_faq.rst:53
 msgid ""
 "Charts need a transaction with a :iati-reference:`transaction/transaction-"
@@ -230,7 +229,7 @@ msgstr ""
 " un :iati-reference:`recipient-country/@code` ou un :iati-"
 "reference:`sector/@code` valide."
 
-# REVIEWED: b0abb81da1bff8a7
+# REVIEWED: 59753c1dab5921e9
 #: ../../technical_faq.rst:54
 msgid ""
 "Tables need a transaction with a :iati-reference:`transaction/transaction-"
@@ -242,7 +241,7 @@ msgstr ""
 " un :iati-reference:`recipient-country/@code` ou un :iati-"
 "reference:`sector/@code` valide."
 
-# REVIEWED: 6b9b928bbce07d7b
+# REVIEWED: ad2a5943f2131ace
 #: ../../technical_faq.rst:55
 msgid ""
 "Maps need transactions with a valid :iati-reference:`location/point/pos` and"
@@ -252,12 +251,12 @@ msgstr ""
 "reference:`location/point/pos` et un :iati-reference:`recipient-"
 "country/@code` valides."
 
-# REVIEWED: ca7254a9016d3eac
+# REVIEWED: a8b3099dcf7c75fd
 #: ../../technical_faq.rst:59
 msgid "\\6. Why are graphs missing from my activity?"
 msgstr "\\6. Pourquoi les graphiques sont-ils absents de mon activité ?"
 
-# REVIEWED: a51f9c36b4a2d1b0
+# REVIEWED: deaf97ef6ee51934
 #: ../../technical_faq.rst:60
 msgid ""
 "Graphs are only shown for an activity if all transactions are in the same "
@@ -266,13 +265,13 @@ msgstr ""
 "Les graphiques ne sont affichés pour une activité que si toutes les "
 "transactions sont effectuées dans la même devise."
 
-# REVIEWED: 98457e7e0f477805
+# REVIEWED: 425da5c5ce4ff1e8
 #: ../../technical_faq.rst:64
 msgid "\\7. Why do graphs start at 1970-01-01 for my activity?"
 msgstr ""
 "\\7. Pourquoi les graphiques commencent-ils à 1970-01-01 pour mon activité ?"
 
-# REVIEWED: da4eef25d8e63837
+# REVIEWED: 6b5e2f8ea4b90cf8
 #: ../../technical_faq.rst:65
 msgid ""
 "D-portal does not adjust the x-axis when there is only one transaction of a "
@@ -283,25 +282,25 @@ msgstr ""
 "d'un type donné, ou si toutes les transactions sont à la même date. L'axe "
 "sera ajusté lorsque d'autres transactions seront ajoutées."
 
-# REVIEWED: cf034edd78ad9158
+# REVIEWED: ca24ae8b3de8b85f
 #: ../../technical_faq.rst:70
 msgid "\\8. What is the source of country codes and descriptions?"
 msgstr "\\8. Quelle est la source des codes et descriptions de pays ?"
 
-# REVIEWED: 63bbe4714d4e0b8e
+# REVIEWED: e4b3344b46240a09
 #: ../../technical_faq.rst:71
 msgid ""
 "The `ISO 3166-2 Wikipedia page <https://en.wikipedia.org/wiki/ISO_3166-2>`_."
 msgstr ""
 "La page Wikipédia `ISO 3166-2 <https://en.wikipedia.org/wiki/ISO_3166-2>`_."
 
-# REVIEWED: 6ed9a8b6c3dd0e4a
+# REVIEWED: 1ce38b8613769b4b
 #: ../../technical_faq.rst:75
 msgid "\\9. Where is the additional data used in d-portal stored?"
 msgstr ""
 "\\9. Où sont stockées les données supplémentaires utilisées dans d-portal ?"
 
-# REVIEWED: 1cf20a1ecbf4aa89
+# REVIEWED: 947e1457fe3a0cf9
 #: ../../technical_faq.rst:76
 msgid ""
 "In `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. This"
@@ -310,27 +309,27 @@ msgstr ""
 "Dans `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. Il"
 " s'agit notamment des éléments suivants :"
 
-# REVIEWED: 425b0fa2b25c94f2
+# REVIEWED: f4dda090664948aa
 #: ../../technical_faq.rst:78
 msgid "List of Reporting Organisation IDs"
 msgstr "Liste des identifiants des organisations déclarantes"
 
-# REVIEWED: 0bd7093ef5751734
+# REVIEWED: 630e19d039b2c82f
 #: ../../technical_faq.rst:79
 msgid "Currencies"
 msgstr "Devises"
 
-# REVIEWED: 753fab06bd63e432
+# REVIEWED: 760172d0359768cf
 #: ../../technical_faq.rst:80
 msgid "Exchange rates"
 msgstr "Taux de change"
 
-# REVIEWED: 8001fce43cf456c5
+# REVIEWED: 08bc71933a740c63
 #: ../../technical_faq.rst:81
 msgid "Sector codes"
-msgstr "Codes sectoriels"
+msgstr "Codes secteur"
 
-# REVIEWED: 3dc159896d3a246a
+# REVIEWED: 401602f7d8952ada
 #: ../../technical_faq.rst:85
 msgid ""
 "\\10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit "
@@ -341,7 +340,7 @@ msgstr ""
 "des codes du `DAC à 3 chiffres <https://iatistandard.org/fr/iati-"
 "standard/203/codelists/sectorcategory/>`_ ?"
 
-# REVIEWED: 7198053741bb5037
+# REVIEWED: 480cfe07e494dad1
 #: ../../technical_faq.rst:86
 msgid ""
 "Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit "
@@ -351,12 +350,12 @@ msgstr ""
 "3 chiffres. Les codes du CAD à 5 chiffres sont convertis en 3 chiffres aux "
 "fins des visualisations dans d-portal."
 
-# REVIEWED: 35911a0898351ba6
+# REVIEWED: 4508144ac23b1039
 #: ../../technical_faq.rst:90
 msgid "\\11. How are results percentages calculated?"
 msgstr "\\11. Comment les pourcentages de résultats sont-ils calculés ?"
 
-# REVIEWED: a39fc5fe53c36aa9
+# REVIEWED: 59ab7e766077867c
 #: ../../technical_faq.rst:91
 msgid ""
 "The results percentage is the :iati-"
@@ -369,7 +368,7 @@ msgstr ""
 " :iati-reference:`result/indicator/baseline/@value` par rapport au :iati-"
 "reference:`result/indicator/period/target`."
 
-# REVIEWED: e2b88f9899210f2a
+# REVIEWED: e7d4185571c6e4df
 #: ../../technical_faq.rst:94
 msgid ""
 "It is clamped from 0 to 100. If the target or actual value is less than the "
@@ -378,7 +377,7 @@ msgstr ""
 "Il est compris entre 0 et 100. Si la valeur cible ou réelle est inférieure à"
 " la valeur de référence, le pourcentage sera de 0 %."
 
-# REVIEWED: 572a31ed01973e0d
+# REVIEWED: 39eb9596c8865aa0
 #: ../../technical_faq.rst:97
 msgid ""
 "For example, a result could have baseline of 10, a target of 100, and an "
@@ -387,21 +386,21 @@ msgstr ""
 "Par exemple, un résultat peut avoir une base de 10, un objectif de 100 et "
 "une valeur réelle de 50."
 
-# REVIEWED: 9b3c6e244a80d3bd
+# REVIEWED: ad8821b8504fd809
 #: ../../technical_faq.rst:99
 msgid "The baseline to target value change is: ``100 - 10 = 90``"
 msgstr ""
 "Le changement de la valeur de référence à la valeur cible est le suivant : "
 "``100 - 10 = 90``"
 
-# REVIEWED: 6236a9d20436e221
+# REVIEWED: 2df4cc0a0f1286a4
 #: ../../technical_faq.rst:100
 msgid "The baseline to actual value change is: ``50 - 10 = 40``"
 msgstr ""
 "La variation de la valeur de référence par rapport à la valeur réelle est la"
 " suivante : ``50 - 10 = 40``"
 
-# REVIEWED: f979c9b9981ac1c9
+# REVIEWED: 2b0deeeb5c30cf7c
 #: ../../technical_faq.rst:101
 msgid "The results percentage is therefore: ``40/90 x 100 = 44%``"
 msgstr ""

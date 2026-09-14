@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: 9be6705bf7d85b6a
+# REVIEWED: 0e401779d0c9311f
 #: ../../dash.rst:3
 msgid "Data Validity and Logs"
 msgstr "Validité des données et journaux"
 
-# REVIEWED: 06838c59a738ab03
+# REVIEWED: d7b3e9806567de28
 #: ../../dash.rst:5
 msgid ""
 "D-portal includes tools which can be used to investigate missing data and "
@@ -33,12 +33,12 @@ msgstr ""
 "D-portal comprend des outils qui peuvent être utilisés pour enquêter sur les"
 " données manquantes et les erreurs."
 
-# REVIEWED: 5b42aef318a033d7
+# REVIEWED: 3cfa3466c5c07cce
 #: ../../dash.rst:7
 msgid "`Dash <https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
 msgstr "`Dash <https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
 
-# REVIEWED: 926beebc4d84c507
+# REVIEWED: 1e9252d58323ea5c
 #: ../../dash.rst:8
 msgid ""
 "Dash provides an overview of the data populating d-portal from individual "
@@ -49,23 +49,22 @@ msgstr ""
 "Dash fournit un aperçu des données qui alimentent d-portal depuis des "
 "organisations déclarantes individuelles. Cela inclut des statistiques "
 "sommaires et des rapports sur les erreurs telles qu'un :iati-"
-"reference:`recipient-country` non valide. En montrant où des données non "
-"valides sont signalées, Dash peut aider à expliquer les lacunes dans les "
-"données."
+"reference:`recipient-country` invalide. En montrant où les données invalides"
+" sont déclarées, Dash peut aider à expliquer les lacunes dans les données."
 
-# REVIEWED: 202daf74988504ab
+# REVIEWED: e8b93171ccff953c
 #: ../../dash.rst:11
 msgid "`d-portal Logs <https://xriss.github.io/D-Portal-Logs/>`_"
 msgstr "`Journaux du d-portal <https://xriss.github.io/D-Portal-Logs/>`_"
 
-# REVIEWED: 7f443a17fd4ed5a9
+# REVIEWED: d3ea31e6bb079ce6
 #: ../../dash.rst:12
 msgid "The d-portal logs site hosts two tools; Database Logs and Xpath Stats."
 msgstr ""
-"Le site des journaux d-portal logs héberge deux outils : les journaux de "
-"base de données Logs et Xpath Stats."
+"Le site des journaux d-portal héberge deux outils : Database Logs et Xpath "
+"Stats."
 
-# REVIEWED: 3bf5c59771cc5072
+# REVIEWED: 328db085bf2f0b72
 #: ../../dash.rst:14
 msgid ""
 "Database Logs provides a snapshot of all data found in the live d-portal "
@@ -77,7 +76,7 @@ msgstr ""
 " peuvent être consultées sous la forme d'un tableau ou de frises "
 "chronologiques."
 
-# REVIEWED: 3454e44ddf71923e
+# REVIEWED: f8b34c894bc8ca0f
 #: ../../dash.rst:16
 msgid ""
 "Xpath Stats shows how much each element of the IATI Standard is used in "
@@ -86,35 +85,35 @@ msgid ""
 "IATI Standard elements can also be explored."
 msgstr ""
 "Les statistiques Xpath montrent dans quelle mesure chaque élément de la "
-"Norme de l'IITA est utilisé dans le cadre des données relatives aux "
-"activités ou aux organisations. Ce chiffre peut être considéré comme un "
-"pourcentage ou comme une chronologie de l'utilisation. L'utilisation des "
-"éléments de la Norme de l'IITA par les organisations déclarantes "
-"individuelles peut également être étudiée."
+"Norme de l'IITA est utilisé dans les données relatives aux activités ou aux "
+"organisations. Ce chiffre peut être considéré comme un pourcentage ou comme "
+"une chronologie de l'utilisation. L'utilisation des éléments de la Norme de "
+"l'IITA par les organisations déclarantes individuelles peut également être "
+"étudiée."
 
-# REVIEWED: 40bd57e45ad32650
+# REVIEWED: 5d6289588ed2c53b
 #: ../../dash.rst:19
 msgid "`Cleanerr <https://notshi.github.io/cleanerr/>`_"
 msgstr "`Cleanerr <https://notshi.github.io/cleanerr/>`_"
 
-# REVIEWED: c8aa35dfb065454f
+# REVIEWED: 73a97b1e29259418
 #: ../../dash.rst:20
 msgid "Cleanerr reports issues with individual datasets. These include:"
 msgstr ""
-"Cleanerr signale les problèmes à lʼaide dʼensembles de données individuels. "
-"Il s'agit notamment des éléments suivants :"
+"Cleanerr signale les problèmes à l’aide d’ensembles de données individuels. "
+"Il s’agit notamment des éléments suivants :"
 
-# REVIEWED: fa2cfb6d88595827
+# REVIEWED: 1018ff382ea598cf
 #: ../../dash.rst:23
 msgid "Duplicate organisation identifiers"
-msgstr "Identifiants de l'organisation dupliqués"
+msgstr "Identifiants d'organisation dupliqués"
 
-# REVIEWED: d272ba0bb2f21969
+# REVIEWED: 98afd8e71146a8dd
 #: ../../dash.rst:24
 msgid "Duplicate activity identifiers"
 msgstr "Identifiants d'activité dupliqués"
 
-# REVIEWED: 1c1412967d1e50cd
+# REVIEWED: cca24d650e5a2050
 #: ../../dash.rst:25
 msgid "Download and import errors"
 msgstr "Erreurs de téléchargement et d'importation"

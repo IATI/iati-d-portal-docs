@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: 9d8d07e8c2cbd136
+# REVIEWED: 5478e139cbcf9958
 #: ../../generator.rst:3
 msgid "Widget Generator"
 msgstr "Generador de widgets"
 
-# REVIEWED: d3956a1742885bdb
+# REVIEWED: 28e6ec3784d8a495
 #: ../../generator.rst:5
 msgid ""
 "The `d-portal Generator "
@@ -33,41 +33,41 @@ msgid ""
 "generates HTML code which you can copy into your webpage to create an IATI "
 "widget."
 msgstr ""
-"La `Herramienta Generadora de d-portal "
+"El `Generador de d-portal "
 "<https://d-portal.iatistandard.org/ctrack.html?#view=generator>`_ es una "
 "herramienta para ayudar a los usuarios a reproducir los datos de IATI en sus"
 " propias páginas web o blogs. Genera código HTML que puede copiar en su "
 "página web para crear un widget de IATI."
 
-# REVIEWED: 7bf8f215643579a0
+# REVIEWED: 7f30868080cc809f
 #: ../../generator.rst:8
 msgid ""
 "These widgets can show IATI data in table, graph, map, or list formats:"
 msgstr ""
-"Estos widgets pueden mostrar los datos de la IATI en formato de tabla, "
-"gráfico, mapa o lista:"
+"Estos widgets pueden mostrar datos de IATI en formato de tabla, gráfico, "
+"mapa o lista:"
 
-# REVIEWED: e39dd099da47f1c0
+# REVIEWED: 54aaf21f00795a00
 #: ../../generator.rst:10
 msgid "Published by specific :iati-reference:`reporting-org`"
-msgstr ":iati-reference:`reporting-org` específico"
+msgstr "Publicado por :iati-reference:`reporting-org` específico"
 
-# REVIEWED: dc204fb8c9d9774d
+# REVIEWED: b2d15b85c4c57457
 #: ../../generator.rst:11
 msgid "Describing funds a specific :iati-reference:`recipient-country`."
 msgstr ""
 "Describen los fondos de un :iati-reference:`recipient-country` específico."
 
-# REVIEWED: 2c14a78ecf150256
+# REVIEWED: 29a7787a91b9e415
 #: ../../generator.rst:13
 msgid ""
 "The resulting widget will update automatically overnight, in line with "
 "d-portal."
 msgstr ""
-"El widget resultante se actualizará automáticamente durante la noche, en "
-"concordancia con d-portal."
+"El widget de IATI resultante se actualizará automáticamente durante la "
+"noche, en concordancia con d-portal."
 
-# REVIEWED: 1d9a14d0f4343797
+# REVIEWED: 03326d02d5e456d5
 #: ../../generator.rst:15
 msgid ""
 "Both secured and non-secured HTTP access is supported by d-portal. This "
@@ -76,4 +76,4 @@ msgid ""
 msgstr ""
 "d-portal admite tanto el acceso HTTP seguro como el no seguro. Esto "
 "significa que los usuarios de dominios seguros también deberían poder "
-"utilizar los contenidos del Generator de d-portal."
+"utilizar los contenidos del Generador de d-portal."

@@ -19,72 +19,72 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: f76d52c2d08ff973
+# REVIEWED: 6ce247ffe20b963e
 #: ../../sources.rst:3
 msgid "Data Sources"
 msgstr "Fuentes de los datos"
 
-# REVIEWED: 76fd7bf918640061
+# REVIEWED: 5094d8ee8850e295
 #: ../../sources.rst:6
 msgid "Data"
 msgstr "Datos"
 
-# REVIEWED: faf05046f0536c20
+# REVIEWED: 814817b96814f797
 #: ../../sources.rst:6
 msgid "Source"
 msgstr "Fuente"
 
-# REVIEWED: 614e577194574e2a
+# REVIEWED: 0fbb01114f03fed1
 #: ../../sources.rst:8
 msgid "IATI Data"
 msgstr "Datos de IATI"
 
-# REVIEWED: 56da05cd8770b3a7
+# REVIEWED: a761e857d4d35cdf
 #: ../../sources.rst:8
 msgid ""
 "`IATI Dashboard  <https://dashboard.iatistandard.org/publishers/>`_  (direct"
 " from reporting organisations)"
 msgstr ""
 "`Panel de IATI <https://dashboard.iatistandard.org/publishers/>`_ "
-"(directamente de las organizaciones que presentan el informe)"
+"(directamente de las organizaciones que reportan)"
 
-# REVIEWED: baa6983ca3e941b9
+# REVIEWED: 9a2da274e18822be
 #: ../../sources.rst:10
 msgid "IATI Standard"
 msgstr "Norma IATI"
 
-# REVIEWED: 6b935d375197328a
+# REVIEWED: 715cb4e84273072d
 #: ../../sources.rst:10
 msgid "`IATI Standard <https://iatistandard.org/en/iati-standard/>`_"
 msgstr "`Norma IATI <https://iatistandard.org/es/iati-standard/>`_"
 
-# REVIEWED: 582a1e03de0cd062
+# REVIEWED: 7f5402591776955a
 #: ../../sources.rst:12
 msgid "Country Flags"
 msgstr "Banderas de los países"
 
-# REVIEWED: 0bdcc0edb7c6a0b1
+# REVIEWED: d5bef4337ae79d9c
 #: ../../sources.rst:12
 msgid "`Wikipedia Public Domain only images <http://en.wikipedia.org/>`_"
 msgstr ""
 "`Wikipedia, dominio público, solo imágenes <http://en.wikipedia.org/>`_"
 
-# REVIEWED: 4b5cfb920a6a6019
+# REVIEWED: 808b8847b4a5b349
 #: ../../sources.rst:14
 msgid "Country Names and Codes"
 msgstr "Nombres y códigos de los países"
 
-# REVIEWED: de56e7f40302f875
+# REVIEWED: 465f4f6d7d537025
 #: ../../sources.rst:14
 msgid "`ISO3166 Alpha-2 <http://en.wikipedia.org/wiki/ISO_3166-2>`_"
 msgstr "`ISO3166 alfa 2 <http://en.wikipedia.org/wiki/ISO_3166-2>`_"
 
-# REVIEWED: 5aa4adda7ddeef3b
+# REVIEWED: 90b7522f8fb2cc50
 #: ../../sources.rst:16
 msgid "Exchange Rates (1st preference)"
 msgstr "Tipos de cambio (1.ª preferencia)"
 
-# REVIEWED: bdb73b4ccb32bd54
+# REVIEWED: e4ac41e1b451b8b0
 #: ../../sources.rst:16
 msgid ""
 "`International Monetary Fund "
@@ -93,12 +93,12 @@ msgstr ""
 "`Fondo Monetario Internacional "
 "<http://www.imf.org/external/np/fin/data/rms_five.aspx>`_"
 
-# REVIEWED: 31dc0063f9967848
+# REVIEWED: 476afb53a5f05b66
 #: ../../sources.rst:18
 msgid "Exchange Rates (2nd preference)"
 msgstr "Tipos de cambio (2.ª preferencia)"
 
-# REVIEWED: e65f5b7d67dd3073
+# REVIEWED: 8fddbceef934f755
 #: ../../sources.rst:18
 msgid ""
 "`Federal Reserve Economic Data <https://fred.stlouisfed.org/categories/94>`_"
@@ -106,12 +106,12 @@ msgstr ""
 "`Datos económicos de la Reserva Federal "
 "<https://fred.stlouisfed.org/categories/94>`_"
 
-# REVIEWED: 44b86c2884f8a228
+# REVIEWED: 1e57425c57f13afa
 #: ../../sources.rst:20
 msgid "Exchange Rates (3rd preference)"
 msgstr "Tipos de cambio (3.ª preferencia)"
 
-# REVIEWED: fa559fddea020620
+# REVIEWED: 52d67eef326e031b
 #: ../../sources.rst:20
 msgid ""
 "`CodeforIATI <https://raw.githubusercontent.com/codeforIATI/imf-"
@@ -120,12 +120,12 @@ msgstr ""
 "`Código para la IATI <https://raw.githubusercontent.com/codeforIATI/imf-"
 "exchangerates/gh-pages/imf_exchangerates.csv>`_"
 
-# REVIEWED: 424ecacb4475e03b
+# REVIEWED: 69466b9eaff8c2ef
 #: ../../sources.rst:22
 msgid "Exchange Rates (4th preference)"
 msgstr "Tipos de cambio (4.ª preferencia)"
 
-# REVIEWED: 43846cb44a296a64
+# REVIEWED: 59869cfb364f88ea
 #: ../../sources.rst:22
 msgid ""
 "`Organisation for Economic Co-operation and Development "
@@ -134,12 +134,12 @@ msgstr ""
 "`Organización de Cooperación y Desarrollo Económicos "
 "<https://www.oecd.org/en/data/indicators/exchange-rates.html>`_"
 
-# REVIEWED: cb3161f5e635c8f8
+# REVIEWED: 7a9bea36ff092676
 #: ../../sources.rst:24
 msgid "Exchange Rates (5th preference)"
 msgstr "Tipos de cambio (5.ª preferencia)"
 
-# REVIEWED: 20cc834f7e35912a
+# REVIEWED: d42970b8c4dd506c
 #: ../../sources.rst:24
 msgid ""
 "`Failsafe "

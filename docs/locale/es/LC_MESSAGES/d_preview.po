@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: f0ec47d066d0e373
+# REVIEWED: 00ae4b3448dd988c
 #: ../../d_preview.rst:3
 msgid "Preview your data"
-msgstr "Previsualizar los datos"
+msgstr "Vista previa de los datos"
 
-# REVIEWED: 26961e183bbd6e21
+# REVIEWED: 110db8229afa9eaf
 #: ../../d_preview.rst:5
 msgid ""
 "`d-preview <https://preview.d-portal.org/upload>`_ is a tool which generates"
@@ -37,7 +37,7 @@ msgstr ""
 " misma interfaz que d-portal, d-preview permite a los usuarios «revisar» su "
 "archivo XML de IATI antes de la publicación."
 
-# REVIEWED: e4db2fd7d3200f38
+# REVIEWED: 3ec46f08bca3153d
 #: ../../d_preview.rst:7
 msgid ""
 "Users can upload IATI XML from their computer, or use a link to a file to "
@@ -45,11 +45,11 @@ msgid ""
 "colleagues and stakeholders."
 msgstr ""
 "Los usuarios pueden cargar el XML de IATI desde su ordenador o utilizar un "
-"enlace a un archivo para generar una previsualización."
+"enlace a un archivo para generar una previsualización. El enlace a esta "
+"previsualización también puede compartirse con colegas y partes interesadas."
 
-# REVIEWED: f8e129bc6d0b3c98
+# REVIEWED: c3e51db7564d757a
 #: ../../d_preview.rst:9
 msgid "All previews are automatically deleted after ten days."
 msgstr ""
-"Todas las previsualizaciones se eliminan automáticamente después de diez "
-"días."
+"Todas las vistas previas se eliminan automáticamente después de diez días."

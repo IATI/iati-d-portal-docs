@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: 4167e6fce3211fcb
+# REVIEWED: e774d42822371e26
 #: ../../filter_glossary.rst:5
 msgid "Filter glossary"
 msgstr "Glosario de filtros"
 
-# REVIEWED: f559ee019834f613
+# REVIEWED: d4f4744329f03409
 #: ../../filter_glossary.rst:7
 msgid ""
 "This page provides more detail on the filters and options available in "
@@ -38,17 +38,17 @@ msgstr ""
 "`Norma IATI <https://iatistandard.org/es/iati-standard/203/activity-"
 "standard/>`_."
 
-# REVIEWED: b93b1e4c84de89fb
+# REVIEWED: ae4e221b7fa21560
 #: ../../filter_glossary.rst:11
 msgid "Settings:"
 msgstr "Configuración:"
 
-# REVIEWED: 6ebc390a70145953
+# REVIEWED: 97d15fabfaa38561
 #: ../../filter_glossary.rst:13
 msgid "ABC - 123"
 msgstr "ABC - 123"
 
-# REVIEWED: 7b6798bb996b378f
+# REVIEWED: 606b0ec8a68d11f9
 #: ../../filter_glossary.rst:14
 msgid ""
 "This button determines the sort order of the dropdown menus; in alphabetical"
@@ -59,12 +59,12 @@ msgstr ""
 "numérico. Por ejemplo, alfabéticamente por códigos de sector de 3 dígitos "
 "del CAD, o numéricamente por códigos de sector."
 
-# REVIEWED: 8aca819a1d1f3430
+# REVIEWED: 7376d5ac87ba6baa
 #: ../../filter_glossary.rst:18
 msgid "Filters:"
 msgstr "Filtros:"
 
-# REVIEWED: 3fdf3f919817481c
+# REVIEWED: fc347e3219400703
 #: ../../filter_glossary.rst:20
 msgid ""
 "`Activity Status <https://iatistandard.org/en/iati-"
@@ -73,12 +73,12 @@ msgstr ""
 "`Estado de la actividad <https://iatistandard.org/es/iati-"
 "standard/203/codelists/activitystatus/>`_"
 
-# REVIEWED: ccef4c9e2ba0ccbe
+# REVIEWED: 302f84698ac2259d
 #: ../../filter_glossary.rst:21
 msgid "A code defining the current status of an activity."
 msgstr "Código que indica el estado actual de una actividad."
 
-# REVIEWED: 2ac3ab281fd8f244
+# REVIEWED: cc17b3533000c204
 #: ../../filter_glossary.rst:23
 msgid ""
 "`Collaboration Type     <https://iatistandard.org/en/iati-"
@@ -87,7 +87,7 @@ msgstr ""
 "`Tipo de colaboración     <https://iatistandard.org/es/iati-"
 "standard/203/codelists/collaborationtype/>`_"
 
-# REVIEWED: 98f16edbe26fcbc9
+# REVIEWED: 1ba9ad363922f96a
 #: ../../filter_glossary.rst:24
 msgid ""
 "A code defining the type of collaboration involved in an activity's "
@@ -96,7 +96,7 @@ msgstr ""
 "Código que indica el tipo de colaboración relacionada con los desembolsos de"
 " una actividad, por ejemplo, bilateral o multilateral."
 
-# REVIEWED: ff508b19c3b78393
+# REVIEWED: 9718178861025664
 #: ../../filter_glossary.rst:26
 msgid ""
 "`Default Aid Type <https://iatistandard.org/en/iati-"
@@ -105,7 +105,7 @@ msgstr ""
 "`Tipo de ayuda predeterminada <https://iatistandard.org/es/iati-"
 "standard/203/codelists/aidtype/>`_"
 
-# REVIEWED: c92cc7c30ab893df
+# REVIEWED: 78ab038ddb4a2b76
 #: ../../filter_glossary.rst:27
 msgid ""
 "A code specifying the default type of aid being supplied in an activity, "
@@ -117,7 +117,7 @@ msgstr ""
 "Las transacciones individuales pueden tener un código diferente para este "
 "elemento."
 
-# REVIEWED: d433646af13252a8
+# REVIEWED: d5be78c33d53f4e1
 #: ../../filter_glossary.rst:30
 msgid ""
 "`Default Finance Type <https://iatistandard.org/en/iati-"
@@ -126,7 +126,7 @@ msgstr ""
 "`Tipo de financiación predeterminada <https://iatistandard.org/es/iati-"
 "standard/203/codelists/financetype/>`_"
 
-# REVIEWED: 09fc7b296e53ad33
+# REVIEWED: 9f8351d1837218f0
 #: ../../filter_glossary.rst:31
 msgid ""
 "A code specifying the default type of finance being described in an "
@@ -137,7 +137,7 @@ msgstr ""
 " en una actividad, como subvenciones o préstamos. Las transacciones "
 "individuales pueden tener un código diferente para este elemento."
 
-# REVIEWED: e326e8b314951a85
+# REVIEWED: 74dc4830bc54b3ec
 #: ../../filter_glossary.rst:34
 msgid ""
 "`Default Flow Type <https://iatistandard.org/en/iati-"
@@ -146,7 +146,7 @@ msgstr ""
 "`Tipo de flujo predeterminado <https://iatistandard.org/es/iati-"
 "standard/203/codelists/flowtype/>`_"
 
-# REVIEWED: c31ae6032687d931
+# REVIEWED: 08ca7a5407306b77
 #: ../../filter_glossary.rst:35
 msgid ""
 "A code defining the default resource flow type for an activity, for example "
@@ -158,7 +158,7 @@ msgstr ""
 "transacciones individuales pueden tener un código diferente para este "
 "elemento."
 
-# REVIEWED: 868d704a5938ebea
+# REVIEWED: 0fccaaa9552d3648
 #: ../../filter_glossary.rst:38
 msgid ""
 "`Default Tied Status <https://iatistandard.org/en/iati-"
@@ -167,7 +167,7 @@ msgstr ""
 "`Estado vinculado predeterminado <https://iatistandard.org/es/iati-"
 "standard/203/codelists/tiedstatus/>`_"
 
-# REVIEWED: 55e74f1f1180646b
+# REVIEWED: fc89a684f6ddada4
 #: ../../filter_glossary.rst:39
 msgid ""
 "A code defining the default tied status of an activity; untied, tied, or "
@@ -178,7 +178,7 @@ msgstr ""
 "desvinculada, vinculada o parcialmente vinculada. Las transacciones "
 "individuales pueden tener un código diferente para este elemento."
 
-# REVIEWED: f5429db26c59e6d2
+# REVIEWED: 6dacb0edc893fa9e
 #: ../../filter_glossary.rst:42
 msgid ""
 "`Document Category <https://iatistandard.org/en/iati-"
@@ -187,13 +187,13 @@ msgstr ""
 "`Categoría de documento <https://iatistandard.org/es/iati-"
 "standard/203/codelists/documentcategory/>`_"
 
-# REVIEWED: b05058335fdb9c10
+# REVIEWED: 5d6043d2775f79f5
 #: ../../filter_glossary.rst:43
 msgid "A code defining the category of documents linked to an activity."
 msgstr ""
 "Código que indica la categoría de los documentos vinculados a una actividad."
 
-# REVIEWED: 2a04f07e1dca6f28
+# REVIEWED: 7bc1a2a1d5dc897d
 #: ../../filter_glossary.rst:45
 msgid ""
 "`Humanitarian Activity <https://iatistandard.org/en/iati-"
@@ -202,7 +202,7 @@ msgstr ""
 "`Actividad humanitaria <https://iatistandard.org/es/iati-"
 "standard/203/activity-standard/iati-activities/iati-activity/>`_"
 
-# REVIEWED: c53b7ade96f6647a
+# REVIEWED: 5e63119b75a5684d
 #: ../../filter_glossary.rst:46
 msgid ""
 "A flag which indicates an activity and/or transaction relates entirely or "
@@ -211,7 +211,7 @@ msgstr ""
 "Etiqueta que indica que una actividad o transacción está relacionada total o"
 " parcialmente con la ayuda humanitaria."
 
-# REVIEWED: 7558292b3f1538e0
+# REVIEWED: 35a7543e7f7f71e2
 #: ../../filter_glossary.rst:48
 msgid ""
 "`Humanitarian Scope Vocab <https://iatistandard.org/en/iati-"
@@ -220,7 +220,7 @@ msgstr ""
 "`Vocabulario del ámbito humanitario <https://iatistandard.org/es/iati-"
 "standard/203/codelists/humanitarianscopevocabulary/>`_"
 
-# REVIEWED: 809da1871cf0455e
+# REVIEWED: 885eda655f63830c
 #: ../../filter_glossary.rst:49
 msgid ""
 "A code for a recognised vocabulary used to classify emergencies, appeals, "
@@ -229,26 +229,26 @@ msgstr ""
 "Código de un vocabulario reconocido utilizado para clasificar emergencias, "
 "llamamientos y otros episodios y acciones humanitarias."
 
-# REVIEWED: f71185ff785148cb
+# REVIEWED: cd9032263d5308a1
 #: ../../filter_glossary.rst:51
 msgid ""
 "`Participating Organisation "
 "<https://dashboard.iatistandard.org/publishers/>`_"
 msgstr ""
 "`Organización participante "
-"<https://dashboard.iatistandard.org/es/publishers/>`_"
+"<https://dashboard.iatistandard.org/publishers/>`_"
 
-# REVIEWED: c76a141609b5b838
+# REVIEWED: 993e459b1461ec5b
 #: ../../filter_glossary.rst:52
 msgid ""
 "Organisations involved in an activity. This filter is not extensive, and "
 "only includes Reporting Organisations who have registered with IATI."
 msgstr ""
 "Organizaciones involucradas en una actividad. Este filtro no es exhaustivo y"
-" solo incluye a las organizaciones que presentan el informe que se han "
+" solo incluye a las organizaciones que presentan informes que se han "
 "registrado en IATI."
 
-# REVIEWED: 8481d5e4fb30a4a9
+# REVIEWED: d9e7653be40ad25d
 #: ../../filter_glossary.rst:55
 msgid ""
 "To search for participating organisations not included in the dropdown menu,"
@@ -259,7 +259,7 @@ msgstr ""
 "desplegable, puede insertar su identificador de organización (org-id) "
 "directamente en la url de d-portal de la siguiente manera:"
 
-# REVIEWED: 1f0a0d6d9d18bddd
+# REVIEWED: ecae8a35036e8041
 #: ../../filter_glossary.rst:57
 #, python-brace-format
 msgid ""
@@ -269,7 +269,7 @@ msgstr ""
 "`:samp:`https://d-portal.iatistandard.org/ctrack.html?&/participating-"
 "org@ref={org-id}#view=main`"
 
-# REVIEWED: a9ac3c90abb7a6e8
+# REVIEWED: fa1f701d4865512d
 #: ../../filter_glossary.rst:59
 msgid ""
 "This allows you to see all activities involving participating organisations "
@@ -278,12 +278,12 @@ msgstr ""
 "Esto le permite ver todas las actividades que involucran a organizaciones "
 "participantes que no publican datos IATI por sí mismas."
 
-# REVIEWED: 2d5c330b572498f9
+# REVIEWED: d074028cd911c14d
 #: ../../filter_glossary.rst:61
 msgid "Policy Marker"
 msgstr "Marcador de políticas"
 
-# REVIEWED: bf2f19751da30f67
+# REVIEWED: 3882c4d663664403
 #: ../../filter_glossary.rst:62
 msgid ""
 "A combination of `Policy Significance <https://iatistandard.org/en/iati-"
@@ -300,44 +300,45 @@ msgstr ""
 "<https://iatistandard.org/es/iati-standard/203/codelists/policymarker/>`_. "
 "Estos definen una política o tema abordado por la actividad, y la "
 "importancia del marcador de políticas para esta actividad. Por ejemplo, el "
-"código **0_4** filtra para \"no dirigido, Desarrollo comercial\", mientras "
-"que **2_4** filtra para \"objetivo principal, Desarrollo comercial\"."
+"código **0_4** filtra para \"no dirigido, Desarrollo del comercio\", "
+"mientras que **2_4** filtra para \"objetivo principal, Desarrollo del "
+"comercio\"."
 
-# REVIEWED: 3440b7e2b0b69c6c
+# REVIEWED: b852cdfc40c5dbae
 #: ../../filter_glossary.rst:67
 msgid ""
 "`Reporting Organisation <https://dashboard.iatistandard.org/publishers/>`_"
 msgstr ""
-"`Organización que presenta el informe "
+"`organización que presenta el informe "
 "<https://dashboard.iatistandard.org/publishers/>`_"
 
-# REVIEWED: bb39e1a64ac9cdc6
+# REVIEWED: e8ae1084a6612001
 #: ../../filter_glossary.rst:68
 msgid "The organisation reporting an activity."
 msgstr "La organización que presenta el informe de una actividad."
 
-# REVIEWED: 3060d74421fe289e
+# REVIEWED: 3965036389baa27a
 #: ../../filter_glossary.rst:72
 msgid ""
 "To search for reporting organisations not included in the dropdown menu, you"
 " can insert their organisation-identifier (org-id) directly into the "
 "d-portal url as follows:"
 msgstr ""
-"puede insertar su identificador de la organización directamente en la url de"
-" d-portal"
+"Para buscar organizaciones que presentan informes no incluidas en el menú "
+"desplegable, puede insertar su identificador de la organización (org-id) "
+"directamente en la url de d-portal de la siguiente manera:"
 
-# REVIEWED: 26d978532056ae39
+# REVIEWED: 3c2d73aca588f0fd
 #: ../../filter_glossary.rst:74
 #, python-brace-format
 msgid ""
 ":samp:`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-"
 "id}#view=main`"
 msgstr ""
-"{\"translation\": "
-"\"`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-"
-"id}#view=main`\"}"
+":samp:`https://d-portal.iatistandard.org/ctrack.html?&reporting_ref={org-"
+"id}#view=main`"
 
-# REVIEWED: 90b72c5bcd78d2ec
+# REVIEWED: ee129f771a411137
 #: ../../filter_glossary.rst:76
 msgid ""
 "This allows you to access an organisation's data when they are not using "
@@ -346,7 +347,7 @@ msgstr ""
 "Esto le permite acceder a los datos de una organización cuando esta no está "
 "utilizando su identificador de organización validado en su publicación."
 
-# REVIEWED: 7a6db4c0b18a0196
+# REVIEWED: 090a3ce8f2e7144f
 #: ../../filter_glossary.rst:78
 msgid ""
 "`Recipient Country <https://iatistandard.org/en/iati-"
@@ -355,7 +356,7 @@ msgstr ""
 "`País receptor <https://iatistandard.org/es/iati-"
 "standard/203/codelists/country/>`_"
 
-# REVIEWED: c83bd25ed3607310
+# REVIEWED: ed80276156dea28f
 #: ../../filter_glossary.rst:79
 msgid ""
 "An ISO 3166-1 alpha-2 code specifying the recipient country of an activity "
@@ -364,7 +365,7 @@ msgstr ""
 "Un código ISO 3166-1 alpha-2 que especifica el país receptor de una "
 "actividad o transacción."
 
-# REVIEWED: b9a03b0316e782ff
+# REVIEWED: 6082a5135fc1aae1
 #: ../../filter_glossary.rst:81
 msgid ""
 "`Related Activity Type <https://iatistandard.org/en/iati-"
@@ -373,16 +374,16 @@ msgstr ""
 "`Tipo de actividad relacionada <https://iatistandard.org/es/iati-"
 "standard/203/codelists/relatedactivitytype/>`_"
 
-# REVIEWED: 3c0fd61f4924f41c
+# REVIEWED: 4a52b5dcffd93f94
 #: ../../filter_glossary.rst:82
 msgid ""
 "A code defining the relationship between an IATI activity and another, "
 "separately reported IATI activity."
 msgstr ""
 "Código que indica la relación entre una actividad de la IATI y otra "
-"notificada por separado."
+"actividad de la IATI notificada por separado."
 
-# REVIEWED: a7f3d395a5ab6bfa
+# REVIEWED: 0a9ccc16d5f90c76
 #: ../../filter_glossary.rst:84
 msgid ""
 "`Result Type <https://iatistandard.org/en/iati-"
@@ -391,20 +392,20 @@ msgstr ""
 "`Tipo de resultado <https://iatistandard.org/es/iati-"
 "standard/203/codelists/resulttype/>`_"
 
-# REVIEWED: 261303f130758243
+# REVIEWED: 0fdf80a595ddc813
 #: ../../filter_glossary.rst:85
 msgid "A code defining the type of result being reported in an activity."
 msgstr ""
 "Código que define el tipo de resultado que se informa en una actividad."
 
-# REVIEWED: 2d70ee9e2edd2cd7
+# REVIEWED: dd12c618710a3365
 #: ../../filter_glossary.rst:87
 msgid ""
 "`Sector <https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_"
 msgstr ""
 "`Sector <https://iatistandard.org/es/iati-standard/203/codelists/sector/>`_"
 
-# REVIEWED: 8a840f3d9cfe0a6b
+# REVIEWED: fb7cf5e904860fb4
 #: ../../filter_glossary.rst:88
 msgid ""
 "An OECD DAC 5-digit code classifying the purpose of an activity or "
@@ -413,7 +414,7 @@ msgstr ""
 "Código de 5 dígitos del CAD de la OCDE que clasifica la finalidad de una "
 "actividad o transacción."
 
-# REVIEWED: 914aa5760cb200b5
+# REVIEWED: 73748972dcc3b0d1
 #: ../../filter_glossary.rst:90
 msgid ""
 "`Sector Group <https://iatistandard.org/en/iati-"
@@ -422,7 +423,7 @@ msgstr ""
 "`Grupo de sector <https://iatistandard.org/es/iati-"
 "standard/203/codelists/sectorcategory/>`_"
 
-# REVIEWED: 887ef18894ec3b8d
+# REVIEWED: 6d3b86d05e9011cb
 #: ../../filter_glossary.rst:91
 msgid ""
 "An OECD DAC 3-digit code classifying the purpose of an activity or "
@@ -431,7 +432,7 @@ msgstr ""
 "Código de 3 dígitos del CAD de la OCDE que clasifica la finalidad de una "
 "actividad o transacción."
 
-# REVIEWED: 3389f698097c7522
+# REVIEWED: f25abca3c417f084
 #: ../../filter_glossary.rst:93
 msgid ""
 "`Tag Vocabulary <https://iatistandard.org/en/iati-"
@@ -440,7 +441,7 @@ msgstr ""
 "`Vocabulario de etiquetas <https://iatistandard.org/es/iati-"
 "standard/203/codelists/tagvocabulary/>`_"
 
-# REVIEWED: 728be5e69991fa14
+# REVIEWED: 59dfb1bd6b33e713
 #: ../../filter_glossary.rst:94
 msgid ""
 "A code defining the tag classification vocabulary used in an activity. For "
@@ -450,12 +451,12 @@ msgstr ""
 "una actividad. Por ejemplo, la lista de códigos de los Objetivos de "
 "Desarrollo Sostenible de las Naciones Unidas."
 
-# REVIEWED: 22e99c976ddcbcf1
+# REVIEWED: fcfb4338acbafef7
 #: ../../filter_glossary.rst:96
 msgid "Total Outgoing Commitment"
-msgstr "Compromisos salientes totales"
+msgstr "Compromiso saliente total"
 
-# REVIEWED: f9ada590fc80892d
+# REVIEWED: 1bfafa35024c3953
 #: ../../filter_glossary.rst:97
 msgid ""
 "The sum of all outgoing commitment `type transactions "
@@ -468,7 +469,7 @@ msgstr ""
 " que sean compromisos salientes en una actividad. Se puede utilizar para "
 "filtrar las actividades por compromiso saliente total mínimo o máximo."
 
-# REVIEWED: 07dcc9b69e444514
+# REVIEWED: 254133786e831031
 #: ../../filter_glossary.rst:100
 msgid ""
 "`Transaction Type <https://iatistandard.org/en/iati-"
@@ -477,7 +478,7 @@ msgstr ""
 "`Tipo de transacción <https://iatistandard.org/es/iati-"
 "standard/203/codelists/transactiontype/>`_"
 
-# REVIEWED: 7f1524da8ef4da7d
+# REVIEWED: 37de7249a4ae6113
 #: ../../filter_glossary.rst:101
 msgid ""
 "A code defining the type of transactions in an activity, for example "
@@ -486,12 +487,12 @@ msgstr ""
 "Código que indica el tipo de transacciones de una actividad, por ejemplo, "
 "los desembolsos o los compromisos recibidos."
 
-# REVIEWED: b5bbc5d0b35fd101
+# REVIEWED: 5446755818c5dbe0
 #: ../../filter_glossary.rst:103
 msgid "Year Range"
 msgstr "Rango de años"
 
-# REVIEWED: 19e31463e06d7bc3
+# REVIEWED: cde8664f8e420b20
 #: ../../filter_glossary.rst:104
 msgid ""
 "The start and/or end year of an activity, taken from actual and planned "

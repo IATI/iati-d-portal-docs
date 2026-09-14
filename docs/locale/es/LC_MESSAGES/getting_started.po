@@ -19,34 +19,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: 83c14d99f2deb6f9
+# REVIEWED: a8e19f24fdcb6917
 #: ../../getting_started.rst:3
 msgid "Getting started"
 msgstr "Primeros pasos"
 
-# REVIEWED: 458187dcc9ffa31d
+# REVIEWED: 1e538bc8459a09a6
 #: ../../getting_started.rst:6
 msgid "Searching d-portal"
 msgstr "Buscar en d-portal"
 
-# REVIEWED: 2bc889e9574d34e6
+# REVIEWED: a764fd3c453be4be
 #: ../../getting_started.rst:8
 msgid ""
 "d-portal provides a search function which allows you to explore IATI data. "
 "This is made up of filters and a freetext box. As you build your search "
 "query, the number of filtered IATI activities will update."
 msgstr ""
-"d-portal ofrece una función de búsqueda que permite explorar los datos de la"
-" IATI. Se compone de filtros y un cuadro de texto libre. A medida que vaya "
-"confeccionando su consulta de búsqueda, se actualizará el número de "
-"actividades de la IATI filtradas."
+"d-portal ofrece una función de búsqueda que permite explorar datos de IATI. "
+"Se compone de filtros y un cuadro de texto libre. A medida que construya su "
+"consulta de búsqueda, se actualizará el número de actividades IATI "
+"filtradas."
 
-# REVIEWED: 8aca819a1d1f3430
+# REVIEWED: 7376d5ac87ba6baa
 #: ../../getting_started.rst:10
 msgid "Filters:"
 msgstr "Filtros:"
 
-# REVIEWED: 8f9946333ede9b57
+# REVIEWED: cce0f6da98e7b34d
 #: ../../getting_started.rst:11
 msgid ""
 "The filters are based on elements of the `IATI Standard "
@@ -65,31 +65,30 @@ msgstr ""
 " muestra una gama más amplia de filtros. Consulte la página "
 ":ref:`filter_glossary` para obtener más detalles."
 
-# REVIEWED: 7cc96b7da7ec010c
+# REVIEWED: eb13b70db5d3941c
 #: ../../getting_started.rst:17
 msgid "Freetext:"
 msgstr "Búsqueda de texto libre:"
 
-# REVIEWED: 7a59b83cd39acdcc
+# REVIEWED: 73d44732613efc10
 #: ../../getting_started.rst:18
 msgid ""
 "The freetext search box searches against the  :iati-reference:`title` and "
 ":iati-reference:`description` elements of IATI activities."
 msgstr ""
 "El cuadro de búsqueda de texto libre busca en los elementos :iati-"
-"reference:`title` e :iati-reference:`description` de las actividades de la "
-"IATI."
+"reference:`title` e :iati-reference:`description` de las actividades IATI."
 
-# REVIEWED: 7c07d7fb8658bc8a
+# REVIEWED: 77741a1b6a5fec9d
 #: ../../getting_started.rst:20
 msgid ""
 "Once your search query is ready, you can click \"Explore Results\" to view "
 "the activities."
 msgstr ""
 "Una vez que su consulta de búsqueda esté lista, puede hacer clic en "
-"\"Explorar resultados\" para ver las actividades."
+"\"Explorar resultados\" para ver las actividades de IATI."
 
-# REVIEWED: cb996ba73167c110
+# REVIEWED: 849573c380757f0b
 #: ../../getting_started.rst:22
 msgid ""
 "You can use the settings options at the top right to change the currency, "
@@ -99,12 +98,12 @@ msgstr ""
 "para cambiar la moneda, el idioma y el período de 12 meses en que se "
 "muestran los resultados."
 
-# REVIEWED: c3f724b0dc7d9579
+# REVIEWED: adf2eaf272ec26b9
 #: ../../getting_started.rst:25
 msgid "Downloading Results"
 msgstr "Descarga de resultados"
 
-# REVIEWED: 87b1a1a39be69264
+# REVIEWED: dcb589c79b6ad31f
 #: ../../getting_started.rst:27
 msgid ""
 "Your results page will include summary figures and table previews. If you "
@@ -113,21 +112,21 @@ msgid ""
 msgstr ""
 "Su página de resultados incluirá cifras de resumen y vistas previas de "
 "tablas. Si hace clic en cualquiera de estas, se le presentará una tabla, con"
-" un botón de descargar CSV en la parte superior derecha."
+" un botón de descarga CSV en la parte superior derecha."
 
-# REVIEWED: 742425c4060de2d5
+# REVIEWED: a6424a027382e012
 #: ../../getting_started.rst:29
 msgid "Location data can also be downloaded from heatmaps into a CSV file."
 msgstr ""
-"Los datos de localización también pueden descargarse de las matrices "
-"cromáticas en un archivo CSV."
+"Los datos de localización también pueden descargarse de los mapas de calor "
+"en un archivo CSV."
 
-# REVIEWED: b103c4f4f5ab161e
+# REVIEWED: 118b39f0f372fd87
 #: ../../getting_started.rst:32
 msgid "Example Questions"
 msgstr "Ejemplos de preguntas"
 
-# REVIEWED: 84ad494ba12ac4bf
+# REVIEWED: 52d320c641e478cb
 #: ../../getting_started.rst:34
 msgid ""
 "To practise using d-portal, you can find the answers to these example "
@@ -136,7 +135,7 @@ msgstr ""
 "Para practicar el uso de d-portal, puede encontrar las respuestas a estas "
 "preguntas de ejemplo:"
 
-# REVIEWED: d62bebf16a9175a0
+# REVIEWED: 9c966cd5293e04bb
 #: ../../getting_started.rst:36
 msgid ""
 "How many projects are taking place in Ghana on water and sanitation (DAC 5 "
@@ -145,21 +144,21 @@ msgstr ""
 "¿Cuántos proyectos se están llevando a cabo en Ghana en materia de agua y "
 "saneamiento (grupo de sector 140 de 5 dígitos del CAD)?"
 
-# REVIEWED: 2fd5b077104a8413
+# REVIEWED: 32b427701766974d
 #: ../../getting_started.rst:37
 msgid "Which organisations are currently working on tackling Ebola in Guinea?"
 msgstr ""
 "¿Qué organizaciones trabajan actualmente en la lucha contra el ébola en "
 "Guinea?"
 
-# REVIEWED: b3dd801d0786d54e
+# REVIEWED: 44d7d2151db53772
 #: ../../getting_started.rst:38
 msgid "How much of UNDP funding went to Sierra Leone in 2015 in UK pounds?"
 msgstr ""
 "¿Qué cantidad de fondos del PNUD se destinó a Sierra Leona en 2015 en libras"
 " esterlinas?"
 
-# REVIEWED: 0a3586882096308d
+# REVIEWED: 18f68a72bc0ba4e0
 #: ../../getting_started.rst:39
 msgid ""
 "Which government is the original funder of this activity: MW-NBM-R1527-W106?"
@@ -167,7 +166,7 @@ msgstr ""
 "¿Qué gobierno es el financiador original de esta actividad: MW-"
 "NBM-R1527-W106?"
 
-# REVIEWED: 2abaaf1cfbf88fc7
+# REVIEWED: 09f4081b426bbe0c
 #: ../../getting_started.rst:40
 msgid ""
 "Which two countries received the largest amount of aid as a response to "

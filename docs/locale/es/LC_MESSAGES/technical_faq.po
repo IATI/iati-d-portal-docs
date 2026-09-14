@@ -16,34 +16,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEWED: 906433982410a4ca
+# REVIEWED: 6945d1ddf32c8de1
 #: ../../technical_faq.rst:3
 msgid "Technical FAQs"
 msgstr "Preguntas frecuentes técnicas"
 
-# REVIEWED: 7912a93fd17123d6
+# REVIEWED: 93deb946b909c4aa
 #: ../../technical_faq.rst:5
 msgid ":ref:`Which transaction types are used in summary tables? <faq_a>`"
 msgstr ""
 ":ref:`¿Qué tipos de transacciones se utilizan en las tablas resumen? "
 "<faq_a>`"
 
-# REVIEWED: 6a79dfa649dc56e1
+# REVIEWED: 13505fb825e651d2
 #: ../../technical_faq.rst:6
 msgid ":ref:`How is the data cleaned? <faq_b>`"
 msgstr ":ref:`¿Cómo se depuran los datos? <faq_b>`"
 
-# REVIEWED: d658a1f2bc5f6b68
+# REVIEWED: 48fbd261a069c7e2
 #: ../../technical_faq.rst:7
 msgid ":ref:`How is data assigned to a specific year? <faq_c>`"
 msgstr ":ref:`¿Cómo se asignan los datos a un año concreto? <faq_c>`"
 
-# REVIEWED: 640c0d4092efa80a
+# REVIEWED: 1dc95f4d72a4dbfc
 #: ../../technical_faq.rst:8
 msgid ":ref:`How are exchange rates calculated? <faq_d>`"
 msgstr ":ref:`¿Cómo se calculan los tipos de cambio? <faq_d>`"
 
-# REVIEWED: 2c505309d437ab89
+# REVIEWED: fdf46bc222050331
 #: ../../technical_faq.rst:9
 msgid ""
 ":ref:`Why is my organisation's data missing from a recipient country's "
@@ -52,45 +52,45 @@ msgstr ""
 ":ref:`¿Por qué faltan los datos de mi organización en un gráfico/tabla/mapa "
 "de un país receptor? <faq_e>`"
 
-# REVIEWED: c264b8c977b7ba0b
+# REVIEWED: 591e0c044727241c
 #: ../../technical_faq.rst:10
 msgid ":ref:`Why are graphs missing from my activity? <faq_f>`"
 msgstr ":ref:`¿Por qué faltan gráficos en mi actividad? <faq_f>`"
 
-# REVIEWED: 970afc38bc57d190
+# REVIEWED: 466aa73fe0bf4129
 #: ../../technical_faq.rst:11
 msgid ":ref:`Why do graphs start at 1970-01-01 for my activity? <faq_g>`"
 msgstr ""
 ":ref:`¿Por qué los gráficos empiezan en 1970-01-01 para mi actividad? "
 "<faq_g>`"
 
-# REVIEWED: 7082ceaa8278a952
+# REVIEWED: c3e9d63941a96234
 #: ../../technical_faq.rst:12
 msgid ":ref:`What is the source of country codes and descriptions? <faq_h>`"
 msgstr ""
 ":ref:`¿Cuál es la fuente de los códigos y descripciones de los países? "
 "<faq_h>`"
 
-# REVIEWED: 1f6a62a3b1965471
+# REVIEWED: fba4d4c38180657d
 #: ../../technical_faq.rst:13
 msgid ":ref:`Where is the additional data used in d-portal stored? <faq_i>`"
 msgstr ""
 ":ref:`¿Dónde se almacenan los datos adicionales utilizados en d-portal? "
 "<faq_i>`"
 
-# REVIEWED: 4cf30f3473a452e3
+# REVIEWED: c104bc6a9dab109f
 #: ../../technical_faq.rst:14
 msgid ":ref:`Why are sectors aggregated using DAC 3 Digit codes? <faq_j>`"
 msgstr ""
 ":ref:`¿Por qué se agregan los sectores utilizando códigos de 3 dígitos del "
 "CAD? <faq_j>`"
 
-# REVIEWED: c47dda653a60b4ea
+# REVIEWED: 99d2ad0c5052e077
 #: ../../technical_faq.rst:15
 msgid ":ref:`How are results percentages calculated? <faq_k>`"
 msgstr ":ref:`¿Cómo se calculan los porcentajes de los resultados? <faq_k>`"
 
-# REVIEWED: 84401dcae0b1a644
+# REVIEWED: f52da1b7f3a3458a
 #: ../../technical_faq.rst:25
 msgid ""
 "\\1. Which :iati-reference:`transaction/transaction-type` are used in "
@@ -99,7 +99,7 @@ msgstr ""
 "\\1. ¿Qué :iati-reference:`transaction/transaction-type` se utilizan en las "
 "tablas resumen?"
 
-# REVIEWED: 9cc4dadda10a02ab
+# REVIEWED: c2840825ed461c18
 #: ../../technical_faq.rst:26
 msgid ""
 "Spend data is the sum of expenditure and disbursements. If these are not "
@@ -108,7 +108,7 @@ msgstr ""
 "Los datos de gastos son la suma de gastos y desembolsos. Si no se publican, "
 "se utilizarán los compromisos salientes."
 
-# REVIEWED: 1ab8abca31fefe5a
+# REVIEWED: 6d201545fab33258
 #: ../../technical_faq.rst:27
 msgid ""
 "Total commitment is the sum of outgoing commitments. If these are not "
@@ -117,7 +117,7 @@ msgstr ""
 "El compromiso total es la suma de los compromisos salientes. Si no se "
 "publican, se utilizarán los gastos y desembolsos."
 
-# REVIEWED: 8ce20cc1b2683d1c
+# REVIEWED: 00d401a14013fd6e
 #: ../../technical_faq.rst:28
 msgid ""
 "Budget is the sum of  :iati-reference:`budget/value`. If these are not "
@@ -126,22 +126,22 @@ msgstr ""
 "El presupuesto es la suma de :iati-reference:`budget/value`. Si no se "
 "publican, se utilizará :iati-reference:`planned-disbursement/value`."
 
-# REVIEWED: 62b992b8568e3816
+# REVIEWED: 296f7fd128b0b77e
 #: ../../technical_faq.rst:32
 msgid "\\2. How is the data cleaned?"
 msgstr "\\2. ¿Cómo se depuran los datos?"
 
-# REVIEWED: baf303f0f0c4d464
+# REVIEWED: d85563acff18ad41
 #: ../../technical_faq.rst:33
 msgid "To be updated following finalisation of new data policy."
 msgstr "Se actualizará tras la finalización de la nueva política de datos."
 
-# REVIEWED: 9ad4f80fa87efb63
+# REVIEWED: b176a35cdea69490
 #: ../../technical_faq.rst:37
 msgid "\\3. How is data assigned to a specific year?"
 msgstr "\\3. ¿Cómo se asignan los datos a un año concreto?"
 
-# REVIEWED: 4bebbf389091b9a1
+# REVIEWED: f095322d1d42f346
 #: ../../technical_faq.rst:38
 msgid ""
 "For transactions, using :iati-reference:`transaction/transaction-date`, else"
@@ -151,18 +151,18 @@ msgstr ""
 "date`, en otros casos mediante :iati-reference:`transaction/value/@value-"
 "date`."
 
-# REVIEWED: 7dee404d740ba33f
+# REVIEWED: 18b8d2e0ddbe860b
 #: ../../technical_faq.rst:39
 msgid "For budgets, using :iati-reference:`budget/period-end`."
 msgstr ""
 "Para los presupuestos, utilizando :iati-reference:`budget/period-end`."
 
-# REVIEWED: 2ee3f2a2627bdef7
+# REVIEWED: 8a4ffceee3ca4775
 #: ../../technical_faq.rst:43
 msgid "\\4. How are exchange rates calculated?"
 msgstr "\\4. ¿Cómo se calculan los tipos de cambio?"
 
-# REVIEWED: 10420f62f4ebea76
+# REVIEWED: bfe19207c874c9d5
 #: ../../technical_faq.rst:44
 msgid ""
 "Exchange rates are taken from the `Freechange "
@@ -177,7 +177,7 @@ msgstr ""
 "Se describen en detalle en el `repositorio Freechange de Github "
 "<https://github.com/xriss/freechange?tab=readme-ov-file#sources>`_."
 
-# REVIEWED: 807060b4d7b51d5c
+# REVIEWED: 0dc15c7803a64612
 #: ../../technical_faq.rst:46
 msgid ""
 "For USD, GBP, EUR, and CAD, currency conversion is carried out when "
@@ -191,7 +191,7 @@ msgstr ""
 "standard/iati-activities/iati-activity/transaction/value/>`_ se utiliza como"
 " fecha de intercambio."
 
-# REVIEWED: 4076ecbc4cf8b148
+# REVIEWED: 6056dc5e36b2fc71
 #: ../../technical_faq.rst:48
 msgid ""
 "For all other currencies, transactions and budgets are initially converted "
@@ -204,7 +204,7 @@ msgstr ""
 "destino utilizando el tipo de cambio diario. Estos valores son estimaciones "
 "y serán menos precisos para las transacciones más antiguas."
 
-# REVIEWED: 3ac9dd0a857e9447
+# REVIEWED: 06863af368656821
 #: ../../technical_faq.rst:52
 msgid ""
 "\\5. Why is my organisation's data missing from a recipient country's "
@@ -213,7 +213,7 @@ msgstr ""
 "\\5. ¿Por qué faltan los datos de mi organización en el gráfico/tabla/mapa "
 "de un país receptor?"
 
-# REVIEWED: b71ea25b1aecbb15
+# REVIEWED: 6268e0c024ce4642
 #: ../../technical_faq.rst:53
 msgid ""
 "Charts need a transaction with a :iati-reference:`transaction/transaction-"
@@ -225,7 +225,7 @@ msgstr ""
 ":iati-reference:`recipient-country/@code` o :iati-reference:`sector/@code` "
 "válido."
 
-# REVIEWED: 2c91fdd387a2ec54
+# REVIEWED: f49c4534c324060a
 #: ../../technical_faq.rst:54
 msgid ""
 "Tables need a transaction with a :iati-reference:`transaction/transaction-"
@@ -237,7 +237,7 @@ msgstr ""
 ":iati-reference:`recipient-country/@code` o :iati-reference:`sector/@code` "
 "válido."
 
-# REVIEWED: a14328696cf924d2
+# REVIEWED: 1f88e031871e3b36
 #: ../../technical_faq.rst:55
 msgid ""
 "Maps need transactions with a valid :iati-reference:`location/point/pos` and"
@@ -247,12 +247,12 @@ msgstr ""
 "reference:`location/point/pos` y un :iati-reference:`recipient-"
 "country/@code` válidos."
 
-# REVIEWED: 3a09da9026374194
+# REVIEWED: ec1390af90a05f62
 #: ../../technical_faq.rst:59
 msgid "\\6. Why are graphs missing from my activity?"
 msgstr "\\6. ¿Por qué faltan gráficos en mi actividad?"
 
-# REVIEWED: fba8bc470ac193b1
+# REVIEWED: 78687c0222ee422c
 #: ../../technical_faq.rst:60
 msgid ""
 "Graphs are only shown for an activity if all transactions are in the same "
@@ -261,12 +261,12 @@ msgstr ""
 "Los gráficos solo se muestran para una actividad si todas las transacciones "
 "están en la misma moneda."
 
-# REVIEWED: 104d042d3e36f512
+# REVIEWED: 7bae702037d1dfce
 #: ../../technical_faq.rst:64
 msgid "\\7. Why do graphs start at 1970-01-01 for my activity?"
 msgstr "\\7. ¿Por qué los gráficos empiezan en 1970-01-01 para mi actividad?"
 
-# REVIEWED: e632c2a01f4c6017
+# REVIEWED: 3ef2be55a734de8d
 #: ../../technical_faq.rst:65
 msgid ""
 "D-portal does not adjust the x-axis when there is only one transaction of a "
@@ -277,12 +277,12 @@ msgstr ""
 "determinado, o si todas las transacciones son en la misma fecha. El eje se "
 "ajustará cuando se añadan más transacciones."
 
-# REVIEWED: 20951080cf05cfe4
+# REVIEWED: bec2fbf103303692
 #: ../../technical_faq.rst:70
 msgid "\\8. What is the source of country codes and descriptions?"
 msgstr "\\8. ¿Cuál es la fuente de los códigos y descripciones de los países?"
 
-# REVIEWED: cb3c99b87575641d
+# REVIEWED: 4352b65301332450
 #: ../../technical_faq.rst:71
 msgid ""
 "The `ISO 3166-2 Wikipedia page <https://en.wikipedia.org/wiki/ISO_3166-2>`_."
@@ -290,12 +290,12 @@ msgstr ""
 "La `página de Wikipedia ISO 3166-2 "
 "<https://en.wikipedia.org/wiki/ISO_3166-2>`_."
 
-# REVIEWED: 90bd496caaad9dd9
+# REVIEWED: e5dd61d86f1edf88
 #: ../../technical_faq.rst:75
 msgid "\\9. Where is the additional data used in d-portal stored?"
 msgstr "\\9. ¿Dónde se almacenan los datos adicionales utilizados en d-portal?"
 
-# REVIEWED: 6b11136a9b552704
+# REVIEWED: 6a254d9d3beceb09
 #: ../../technical_faq.rst:76
 msgid ""
 "In `github <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. This"
@@ -304,27 +304,27 @@ msgstr ""
 "En `GitHub <https://github.com/IATI/D-Portal/tree/master/dstore/csv>`_. Esto"
 " incluye:"
 
-# REVIEWED: 5574c46195d3ce66
+# REVIEWED: 54afbf9ceb8a2098
 #: ../../technical_faq.rst:78
 msgid "List of Reporting Organisation IDs"
 msgstr "Lista de identificadores de las organizaciones que presentan informes"
 
-# REVIEWED: 348a37a63cd717c2
+# REVIEWED: ee82ddb8799c9ca1
 #: ../../technical_faq.rst:79
 msgid "Currencies"
 msgstr "Divisas"
 
-# REVIEWED: 352fedc606027091
+# REVIEWED: c6aed1fad2be4ad7
 #: ../../technical_faq.rst:80
 msgid "Exchange rates"
 msgstr "Tipos de cambio"
 
-# REVIEWED: 23f800967c2b893c
+# REVIEWED: 8227cb85b8819103
 #: ../../technical_faq.rst:81
 msgid "Sector codes"
 msgstr "Códigos de sectores"
 
-# REVIEWED: 5d1c2d1aeed227e1
+# REVIEWED: 5aafd2c027190705
 #: ../../technical_faq.rst:85
 msgid ""
 "\\10. Why are :iati-reference:`sector/@code` aggregated using `DAC 3 Digit "
@@ -335,7 +335,7 @@ msgstr ""
 " de 3 dígitos del CAD <https://iatistandard.org/es/iati-"
 "standard/203/codelists/sectorcategory/>`_?"
 
-# REVIEWED: 22199530d575622d
+# REVIEWED: c6a539fa6ad6b584
 #: ../../technical_faq.rst:86
 msgid ""
 "Some organisations only publish data with DAC 3 Digit codes. DAC 5 Digit "
@@ -345,12 +345,12 @@ msgstr ""
 " Los códigos de 5 dígitos del CAD se convierten a 3 dígitos para las "
 "visualizaciones de d-portal."
 
-# REVIEWED: 9d2288ad3669e88f
+# REVIEWED: 0745878fbfea3ef8
 #: ../../technical_faq.rst:90
 msgid "\\11. How are results percentages calculated?"
 msgstr "\\11. ¿Cómo se calculan los porcentajes de los resultados?"
 
-# REVIEWED: 35298b50dc67cf80
+# REVIEWED: 9964a321942eda9f
 #: ../../technical_faq.rst:91
 msgid ""
 "The results percentage is the :iati-"
@@ -363,7 +363,7 @@ msgstr ""
 " del :iati-reference:`result/indicator/baseline/@value` respecto a :iati-"
 "reference:`result/indicator/period/target`."
 
-# REVIEWED: 1eb5cfaa1daa0494
+# REVIEWED: 13f944fe5ad2976d
 #: ../../technical_faq.rst:94
 msgid ""
 "It is clamped from 0 to 100. If the target or actual value is less than the "
@@ -372,7 +372,7 @@ msgstr ""
 "Está restringido de 0 a 100. Si el valor objetivo o real es inferior al "
 "valor de referencia, el porcentaje será 0%."
 
-# REVIEWED: 257df9553b77d063
+# REVIEWED: 9d69b45558156328
 #: ../../technical_faq.rst:97
 msgid ""
 "For example, a result could have baseline of 10, a target of 100, and an "
@@ -381,17 +381,17 @@ msgstr ""
 "Por ejemplo, un resultado podría tener un valor de referencia de 10, un "
 "objetivo de 100 y un valor real de 50."
 
-# REVIEWED: 310bb3d929966683
+# REVIEWED: 9fe63de7f645d5c7
 #: ../../technical_faq.rst:99
 msgid "The baseline to target value change is: ``100 - 10 = 90``"
 msgstr "El cambio del valor de referencia al objetivo es: ``100 - 10 = 90``"
 
-# REVIEWED: 4dd5b6f4e71d3838
+# REVIEWED: 5ad31d9b63485742
 #: ../../technical_faq.rst:100
 msgid "The baseline to actual value change is: ``50 - 10 = 40``"
 msgstr "El cambio del valor de referencia al real es: ``50 - 10 = 40``"
 
-# REVIEWED: c3a4c05b6809dfdc
+# REVIEWED: 67d67caf5ff3f992
 #: ../../technical_faq.rst:101
 msgid "The results percentage is therefore: ``40/90 x 100 = 44%``"
 msgstr "El porcentaje del resultado es, por tanto: ``40/90 x 100 = 44%``"

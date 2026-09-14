@@ -18,100 +18,100 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 
-# REVIEWED: ca9744413211a6f8
+# REVIEWED: 98c6d47091f0112c
 #: iati_sphinx_theme/footer.html:7
 msgid "Additional Information"
 msgstr "Información adicional"
 
-# REVIEWED: 29993d11598c6496
+# REVIEWED: 60364efb426e9314
 #: iati_sphinx_theme/footer.html:9
 #, python-format
 msgid "Created using <a href=\"%(url)s\">Sphinx</a> %(sphinx_version)s."
 msgstr "Creado con <a href=\"%(url)s\">Sphinx</a> %(sphinx_version)s."
 
-# REVIEWED: 9c11c39275f384e4
+# REVIEWED: ed9b8513a768d73e
 #: iati_sphinx_theme/footer.html:11
 #, python-format
 msgid "Source code at <a href=\"%(url)s\">GitHub</a>."
 msgstr "Código fuente disponible en <a href=\"%(url)s\">GitHub</a>."
 
-# REVIEWED: c847e583d9a044bf
+# REVIEWED: 14fc6e66e0e305ed
 #: iati_sphinx_theme/footer.html:13
 #, python-format
 msgid "Documentation licensed under <a href=\"%(url)s\">CC BY 4.0</a>."
 msgstr "Documentación bajo licencia <a href=\"%(url)s\">CC BY 4.0</a>."
 
-# REVIEWED: 3d9d5febfdaecf21
+# REVIEWED: dbf59f54c2019fdf
 #: iati_sphinx_theme/footer.html:23
 msgid "Privacy"
 msgstr "Privacidad"
 
-# REVIEWED: aca0f60a191954e9
+# REVIEWED: 2daf1665afe8292f
 #: iati_sphinx_theme/footer.html:24
 msgid "Cookies"
 msgstr "Cookies"
 
-# REVIEWED: 72359ce0d836fe00
+# REVIEWED: c6b443d3d9c0e78a
 #: iati_sphinx_theme/footer.html:25
 msgid "Copyright"
 msgstr "Derechos de autor"
 
-# REVIEWED: 77a9e2804a93f709
+# REVIEWED: c35a193e2b5f6765
 #: iati_sphinx_theme/footer.html:26
 msgid "Data Removal"
 msgstr "Supresión de datos"
 
-# REVIEWED: 03c163f829713413
+# REVIEWED: 0e12ae41f0ef7242
 #: iati_sphinx_theme/header.html:2
 msgid "About IATI"
 msgstr "Acerca de la IATI"
 
-# REVIEWED: 74d46a26c0fdd20c
+# REVIEWED: 08e17935fe870106
 #: iati_sphinx_theme/header.html:3
 msgid "Use Data"
 msgstr "Usar los datos"
 
-# REVIEWED: eef4c2aeeceb35e4
+# REVIEWED: b1037951e6ca80b3
 #: iati_sphinx_theme/header.html:4
 msgid "Publish Data"
 msgstr "Publicar datos"
 
-# REVIEWED: dc84d5a97d176916
+# REVIEWED: 9ff440f757934784
 #: iati_sphinx_theme/header.html:5
 msgid "Contact"
 msgstr "Contacto"
 
-# REVIEWED: 33dd52c26b84fcff
+# REVIEWED: 2faff0f76b90c2ee
 #: iati_sphinx_theme/header.html:16 iati_sphinx_theme/header.html:70
 msgid "Menu"
 msgstr "Menú"
 
-# REVIEWED: a074b1bbd17bd3d6
+# REVIEWED: 481c9fa5192a756d
 #: iati_sphinx_theme/header.html:18
 msgid "Close"
 msgstr "Cerrar"
 
-# REVIEWED: 4c5acb6e1ace0c31
+# REVIEWED: ae519beed90d8691
 #: iati_sphinx_theme/header.html:65 iati_sphinx_theme/search.html:15
 msgid "Search"
 msgstr "Buscar"
 
-# REVIEWED: dd2c45ef45b84794
+# REVIEWED: c7d2054f94018452
 #: iati_sphinx_theme/header.html:75
 msgid "IATI Tools: Documentation"
 msgstr "Herramientas de IATI: Documentación"
 
-# REVIEWED: 0722e11dbe51f35f
+# REVIEWED: b7bca4dc6dc71a2d
 #: iati_sphinx_theme/language-switcher.html:2
 msgid "Choose your language"
 msgstr "Seleccionar idioma"
 
-# REVIEWED: 42e43f6944ab0a08
+# REVIEWED: 06742267d626f7c4
 #: iati_sphinx_theme/relations.html:4
 msgid "Previous"
 msgstr "Anterior"
 
-# REVIEWED: 6bebf74fafba0c57
+# REVIEWED: 85adb5b23bcfa8e1
 #: iati_sphinx_theme/relations.html:12
 msgid "Next"
 msgstr "Siguiente"

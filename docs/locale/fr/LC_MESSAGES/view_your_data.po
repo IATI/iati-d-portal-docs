@@ -16,12 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# REVIEWED: 835cf7078058d008
+# REVIEWED: c870dc0c8044e175
 #: ../../view_your_data.rst:3
 msgid "View your data"
 msgstr "Consulter vos données"
 
-# REVIEWED: c7423dd5f99b8899
+# REVIEWED: 04c2fd4062eead01
 #: ../../view_your_data.rst:5
 msgid ""
 "Once your organisation's data is registered with IATI, it can be accessed by"
@@ -33,7 +33,7 @@ msgstr ""
 "Les modifications récentes peuvent prendre jusqu'à 48 heures pour être mises"
 " à jour."
 
-# REVIEWED: 50b3f6c2e3086d4f
+# REVIEWED: ac240add8e5b042f
 #: ../../view_your_data.rst:8
 msgid ""
 "To view your data on d-portal, select your organisation from the drop-down "
@@ -45,80 +45,79 @@ msgstr ""
 "« Rechercher les résultats » pour afficher la page de présentation de votre "
 "organisation, notamment :"
 
-# REVIEWED: 0de19d7d5724a720
+# REVIEWED: 13700cc942d012ac
 #: ../../view_your_data.rst:11
 msgid "Active, ended, and total number of activities"
 msgstr ""
-"les activités en cours, les activités terminées et le nombre total "
-"d'activités"
+"le nombre d'activités en cours, terminées et le nombre total d'activités"
 
-# REVIEWED: fd69797a204a506e
+# REVIEWED: d4af6a769bee9ed0
 #: ../../view_your_data.rst:12
 msgid ""
 "All your published IATI activities, split by status. Click any of these to "
 "see a list of your activities."
 msgstr ""
-"toutes vos activités IITA publiées, ventilées par statut. Cliquez sur l'une "
-"d'entre elles pour afficher la liste de vos activités."
+"toutes les activités IITA publiées, ventilées par statut. Cliquez sur l'une "
+"d'entre elles pour afficher la liste des activités."
 
-# REVIEWED: b9976ebbe9fcfd4e
+# REVIEWED: 64ac76f1889f1312
 #: ../../view_your_data.rst:13
 msgid "Funding went to..."
 msgstr "Le financement a été accordé à..."
 
-# REVIEWED: 9b3ca3af187b70f8
+# REVIEWED: e0a345872e7b7748
 #: ../../view_your_data.rst:14
 msgid ""
 "Your organisation's annual spend and budget for recipient countries. "
 "Allocated budget shows activity level budgets for each country. Total budget"
 " shows organisation level budgets."
 msgstr ""
-"Dépenses et budget annuels de votre organisation en faveur des pays "
-"bénéficiaires. Le budget alloué affiche les budgets au niveau des activités "
-"pour chaque pays. Le budget total indique les budgets à lʼéchelle de "
+"Les dépenses et le budget annuels de votre organisation pour les pays "
+"bénéficiaires. Le budget alloué affiche le budget au niveau des activités "
+"pour chaque pays. Le budget total indique le budget au niveau de "
 "l'organisation."
 
-# REVIEWED: 72df141fd455ab8c
+# REVIEWED: 00ce01649800c0c2
 #: ../../view_your_data.rst:16
 msgid "Where does the money go?"
 msgstr "Où va cet argent ?"
 
-# REVIEWED: 8bbc692e1250eb5e
+# REVIEWED: 12e65c2a902b5409
 #: ../../view_your_data.rst:17
 msgid ""
 "Your organisation's annual spend and budget by sector, using DAC 3 Digit "
 "sector codes."
 msgstr ""
 "Les dépenses et le budget annuels de votre organisation par secteur, en "
-"utilisant les codes sectoriels du CAD à 3 chiffres."
+"utilisant les codes secteur du CAD à 3 chiffres."
 
-# REVIEWED: de1ddfe86dfe1250
+# REVIEWED: a6199218335f8f7d
 #: ../../view_your_data.rst:18
 msgid "Heatmap of all activities"
 msgstr "Carte thermique de toutes les activités"
 
-# REVIEWED: a538ff2221953997
+# REVIEWED: abe59c3059a65cdb
 #: ../../view_your_data.rst:19
 msgid "A heatmap of all your activities using longitude and latitude data."
 msgstr ""
-"Une carte thermique de toutes vos activités utilisant des données de "
+"Une carte thermique de toutes les activités utilisant des données de "
 "longitude et de latitude."
 
-# REVIEWED: bc20ee0e27256539
+# REVIEWED: e8f017b5ca1792ef
 #: ../../view_your_data.rst:20
 msgid "Organisation file"
 msgstr "Fichier organisationnel"
 
-# REVIEWED: 4a457d1172e264fb
+# REVIEWED: 6fc188318b5bf00d
 #: ../../view_your_data.rst:21
 msgid ""
 "Information reported in your organisation file, including organisation level"
 " documents and budgets."
 msgstr ""
-"Les informations figurant dans votre fichier organisationnel, y compris les "
-"documents et les budgets à lʼéchelle de l'organisation."
+"Les informations figurant dans votre fichier d'organisation, y compris les "
+"documents et le budget au niveau de l'organisation."
 
-# REVIEWED: 065690d1d4cfbdc1
+# REVIEWED: 6cb35165cde8ff36
 #: ../../view_your_data.rst:23
 msgid ""
 "You can also click the \"View this organisation as a Participating "

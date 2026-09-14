@@ -19,27 +19,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: 8313bb1a6b6e8e7e
+# REVIEWED: 35c07dda047e46f9
 #: ../../index.rst:17
 msgid "Home"
 msgstr "Inicio"
 
-# REVIEWED: b005699351918dbc
+# REVIEWED: ba89dae5620e4f24
 #: ../../index.rst:3 ../../index.rst:17
 msgid "d-portal"
 msgstr "d-portal"
 
-# REVIEWED: c7f642134cd195f5
+# REVIEWED: 003ea50049950e98
 #: ../../index.rst:28
 msgid "Frequently Asked Questions"
 msgstr "Preguntas frecuentes"
 
-# REVIEWED: 2322c1d5f059a183
+# REVIEWED: 82624db91060101e
 #: ../../index.rst:38
 msgid "d-portal Tools"
 msgstr "Herramientas de d-portal"
 
-# REVIEWED: fce96c0159a816a7
+# REVIEWED: fcd9a3f16f64a56c
 #: ../../index.rst:5
 msgid ""
 "d-portal is a tool which helps users to explore International Aid "
@@ -51,22 +51,22 @@ msgstr ""
 "formato de estos datos se ajusta a la `Norma IATI "
 "<https://iatistandard.org/es/iati-standard/203/>`_."
 
-# REVIEWED: 41840d16ef63666b
+# REVIEWED: 95c72b4b2ef457b5
 #: ../../index.rst:7
 msgid "Use d-portal if you want to:"
 msgstr "Utilice d-portal si quiere:"
 
-# REVIEWED: 87139b385f52ff8f
+# REVIEWED: bf78dea3501afe48
 #: ../../index.rst:9
 msgid "View individual IATI activities in detail."
-msgstr "las actividades de IATI"
+msgstr "Ver actividades de IATI individuales en detalle."
 
-# REVIEWED: 6749fa9e03da032d
+# REVIEWED: 3cdb54d44f645825
 #: ../../index.rst:10
 msgid "Search IATI activities using keywords and filters."
-msgstr "Buscar actividades de la IATI utilizando palabras clave y filtros."
+msgstr "Buscar actividades IATI utilizando palabras clave y filtros."
 
-# REVIEWED: d8e1653141ca0096
+# REVIEWED: 1f0d813de29b7c54
 #: ../../index.rst:11
 msgid ""
 "Access summaries of IATI data by reporting organisation or recipient "
@@ -75,12 +75,12 @@ msgstr ""
 "Acceder a resúmenes de los datos de la IATI por organización que presenta "
 "informes o país receptor."
 
-# REVIEWED: 06e0ed10c04da376
+# REVIEWED: 5fabcff4cbeabb68
 #: ../../index.rst:14
 msgid "Open source"
 msgstr "Código abierto"
 
-# REVIEWED: 64b8e4561ffaa491
+# REVIEWED: 80ecb9a0753a8f74
 #: ../../index.rst:15
 msgid ""
 "d-portal.org is an open source platform. This means you can use all aspects "

@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-# REVIEWED: a7864cf40eb0f0d3
+# REVIEWED: a99d67839cbfe0db
 #: ../../generator.rst:3
 msgid "Widget Generator"
 msgstr "Générateur de widgets"
 
-# REVIEWED: e131e12ecae826af
+# REVIEWED: 1236e4072c2af83e
 #: ../../generator.rst:5
 msgid ""
 "The `d-portal Generator "
@@ -36,28 +36,30 @@ msgstr ""
 "Le `générateur de d-portal "
 "<https://d-portal.iatistandard.org/ctrack.html?#view=generator>`_ est un "
 "outil qui aide les utilisateurs à reproduire les données IITA sur leurs "
-"propres pages web ou blogs."
+"propres pages web ou blogs. Il génère un code HTML que vous pouvez copier "
+"dans votre page web pour créer un widget IITA."
 
-# REVIEWED: 3a762af1483b4548
+# REVIEWED: 47f85ab74f4aee0b
 #: ../../generator.rst:8
 msgid ""
 "These widgets can show IATI data in table, graph, map, or list formats:"
 msgstr ""
-"Ces widgets peuvent afficher les données de l'IITA sous forme de tableau, de"
-" graphique, de carte ou de liste :"
+"Ces widgets peuvent afficher les données IITA sous forme de tableau, de "
+"graphique, de carte ou de liste :"
 
-# REVIEWED: 69af9544aca1b651
+# REVIEWED: bde18165d913eb48
 #: ../../generator.rst:10
 msgid "Published by specific :iati-reference:`reporting-org`"
 msgstr "Publié par une :iati-reference:`reporting-org` spécifique"
 
-# REVIEWED: 06b37ea1b638caa3
+# REVIEWED: 5fffb6f10904ee62
 #: ../../generator.rst:11
 msgid "Describing funds a specific :iati-reference:`recipient-country`."
 msgstr ""
-"Décrire les fonds d'un :iati-reference:`recipient-country` spécifique."
+"Décrire les fonds destinés à un :iati-reference:`recipient-country` "
+"spécifique."
 
-# REVIEWED: 72b57f14eddcfeff
+# REVIEWED: bdce8153713a3b39
 #: ../../generator.rst:13
 msgid ""
 "The resulting widget will update automatically overnight, in line with "
@@ -66,7 +68,7 @@ msgstr ""
 "Le widget obtenu sera automatiquement mis à jour pendant la nuit, "
 "conformément à d-portal."
 
-# REVIEWED: 87f3446f050621c8
+# REVIEWED: 582060a3ef1b66fa
 #: ../../generator.rst:15
 msgid ""
 "Both secured and non-secured HTTP access is supported by d-portal. This "
