@@ -20,7 +20,7 @@ Filters:
 `Activity Status <https://iatistandard.org/en/iati-standard/203/codelists/activitystatus/>`_
 	A code defining the current status of an activity.
 
-`Collaboration Type	<https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_
+`Collaboration Type <https://iatistandard.org/en/iati-standard/203/codelists/collaborationtype/>`_
     A code defining the type of collaboration involved in an activity's disbursements, for example bilateral or multilateral.
 
 `Default Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_	
@@ -64,7 +64,7 @@ Policy Marker
     the significance of the policy marker for this activity. For example, the code **0_4** filters for "not targeted, Trade Development", while **2_4** filters 
     for "principal objective, Trade Development".
 
-`Reporting Organisation	<https://iatiregistry.org/publisher/>`_
+`Reporting Organisation <https://iatiregistry.org/publisher/>`_
     The organisation reporting an activity, taken from the IATI Registry.
 
     
@@ -76,7 +76,7 @@ Policy Marker
     This allows you to access an organisation's data when they are not using their validated organisation-identifier in their publication.
 
 `Recipient Country <https://iatistandard.org/en/iati-standard/203/codelists/country/>`_
-    A ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction.
+    An ISO 3166-1 alpha-2 code specifying the recipient country of an activity or transaction.
 
 `Related Activity Type <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`_
     A code defining the relationship between an IATI activity and another, separately reported IATI activity.
@@ -84,7 +84,7 @@ Policy Marker
 `Result Type <https://iatistandard.org/en/iati-standard/203/codelists/resulttype/>`_
     A code defining the type of result being reported in an activity.
 
-`Sector	<https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_
+`Sector <https://iatistandard.org/en/iati-standard/203/codelists/sector/>`_
     An OECD DAC 5-digit code classifying the purpose of an activity or transaction.
 
 `Sector Group <https://iatistandard.org/en/iati-standard/203/codelists/sectorcategory/>`_	
@@ -101,7 +101,7 @@ Total Outgoing Commitment
     A code defining the type of transactions in an activity, for example disbursements, or incoming commitments.
 
 Year Range	
-    The start and/or end year of an activity, taken from actual and planned `activity dates <DAC 3 digit sector>`_. 
+    The start and/or end year of an activity, taken from actual and planned activity dates. 
     The filter looks for activities that were active in the period between the minimum and maximum year. 
     So activities that started before the end of the max year and ended after the start of the minimum year will be returned.
 

@@ -1,69 +1,120 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
-# This file is distributed under the same license as the d-portal: Documentation package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the d-portal:
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: d-portal: Documentation 0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-24 14:23+0100\n"
+"POT-Creation-Date: 2026-09-15 11:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
+# REVIEWED: 42e072625ec1c4f7
 #: ../../dash.rst:3
 msgid "Data Validity and Logs"
-msgstr "Registros y validez de los datos"
+msgstr "Validez de los datos y registros"
 
+# REVIEWED: df92a6d3f4c729bc
 #: ../../dash.rst:5
-msgid "D-portal includes tools which can be used to investigate missing data and errors."
-msgstr "d-portal contiene herramientas que pueden utilizarse para averiguar los datos que faltan y los errores."
+msgid ""
+"D-portal includes tools which can be used to investigate missing data and "
+"errors."
+msgstr ""
+"d-portal contiene herramientas que pueden utilizarse para averiguar los "
+"datos que faltan y los errores."
 
+# REVIEWED: f680bcb9106468e8
 #: ../../dash.rst:7
-msgid "`Dash <https://d-portal.org/ctrack.html?#view=dash>`_"
-msgstr "`Dash <https://d-portal.org/ctrack.html?#view=dash>`_"
+msgid "`Dash <https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
+msgstr ""
+"`Panel de control "
+"<https://d-portal.iatistandard.org/ctrack.html?#view=dash>`_"
 
+# REVIEWED: a3e03e2c22f09647
 #: ../../dash.rst:8
-msgid "Dash provides an overview of the data populating d-portal from individual reporting organisations. This includes summary statistics, and reports on errors such as an invalid :iati-reference:`recipient-country`. By showing where invalid data is reported, Dash can help to explain gaps in the data."
-msgstr "Dash ofrece una visión general de los datos con los que se cumplimenta d-portal procedentes de las distintas organizaciones que presentan informes. Esto incluye estadísticas resumidas e informes sobre errores, como una referencia no válida :iati-reference:`recipient-country`. Al mostrar dónde se notifican datos no válidos, Dash puede ayudar a explicar las lagunas en los datos."
+msgid ""
+"Dash provides an overview of the data populating d-portal from individual "
+"reporting organisations. This includes summary statistics, and reports on "
+"errors such as an invalid :iati-reference:`recipient-country`. By showing "
+"where invalid data is reported, Dash can help to explain gaps in the data."
+msgstr ""
+"Dash ofrece una visión general de los datos con los que se cumplimenta "
+"d-portal procedentes de las distintas organizaciones que presentan informes."
+" Esto incluye estadísticas resumidas e informes sobre errores, como una "
+"referencia no válida :iati-reference:`recipient-country`. Al mostrar dónde "
+"se notifican datos no válidos, Dash puede ayudar a explicar las lagunas en "
+"los datos."
 
+# REVIEWED: cc67235ead6a961b
 #: ../../dash.rst:11
 msgid "`d-portal Logs <https://xriss.github.io/D-Portal-Logs/>`_"
 msgstr "`Registros de d-portal <https://xriss.github.io/D-Portal-Logs/>`_"
 
+# REVIEWED: 219204e91e222c64
 #: ../../dash.rst:12
 msgid "The d-portal logs site hosts two tools; Database Logs and Xpath Stats."
-msgstr "El sitio de registros de d-portal contiene dos herramientas: Database Logs y Xpath Stats."
+msgstr ""
+"El sitio de registros de d-portal contiene dos herramientas: Database Logs y"
+" Xpath Stats."
 
+# REVIEWED: a378b803bd434916
 #: ../../dash.rst:14
-msgid "Database Logs provides a snapshot of all data found in the live d-portal database. This updates nightly, and can be viewed as a table or historical charts."
-msgstr "Database Logs proporciona una instantánea de todos los datos que se encuentran en la base de datos de d-portal en vivo. Se actualiza cada noche y puede consultarse en forma de tabla o de gráficos históricos."
+msgid ""
+"Database Logs provides a snapshot of all data found in the live d-portal "
+"database. This updates nightly, and can be viewed as a table or historical "
+"charts."
+msgstr ""
+"Database Logs proporciona una instantánea de todos los datos que se "
+"encuentran en la base de datos de d-portal en vivo. Se actualiza cada noche "
+"y puede consultarse en forma de tabla o de gráficos históricos."
 
+# REVIEWED: edb696179843dd08
 #: ../../dash.rst:16
-msgid "Xpath Stats show how much each element of the IATI Standard is used in activity or organisation data. This can be viewed as a percentage or as a historical timeline of use. Individual reporting organisations use of the IATI Standard elements can also be explored."
-msgstr "Xpath Stats muestra en qué medida se utiliza cada elemento de la Norma IATI en los datos de actividades u organizaciones. Puede verse como porcentaje o como una cronología histórica de uso. También puede explorarse el uso de los elementos de la Norma IATI por parte de las organizaciones que presentan informes."
+msgid ""
+"Xpath Stats shows how much each element of the IATI Standard is used in "
+"activity or organisation data. This can be viewed as a percentage or as a "
+"historical timeline of use. Individual reporting organisations use of the "
+"IATI Standard elements can also be explored."
+msgstr ""
+"Xpath Stats muestra en qué medida se utiliza cada elemento de la Norma IATI "
+"en los datos de actividad u organización. Esto puede visualizarse como un "
+"porcentaje o como una línea de tiempo histórica de uso. También es posible "
+"explorar el uso de los elementos de la Norma IATI por parte de "
+"organizaciones que presentan informes individuales."
 
+# REVIEWED: c030d22b03d7557e
 #: ../../dash.rst:19
 msgid "`Cleanerr <https://notshi.github.io/cleanerr/>`_"
 msgstr "`Cleanerr <https://notshi.github.io/cleanerr/>`_"
 
+# REVIEWED: e29ac12b721bf42d
 #: ../../dash.rst:20
 msgid "Cleanerr reports issues with individual datasets. These include:"
-msgstr "Cleanerr informa de problemas con conjuntos de datos individuales. Entre ellos figuran:"
+msgstr ""
+"Cleanerr informa de problemas con conjuntos de datos individuales. Entre "
+"ellos figuran:"
 
+# REVIEWED: 447f22c483dacc6e
 #: ../../dash.rst:23
 msgid "Duplicate organisation identifiers"
 msgstr "Identificadores de organización duplicados"
 
+# REVIEWED: 0370ad3169168711
 #: ../../dash.rst:24
 msgid "Duplicate activity identifiers"
 msgstr "Identificadores de actividad duplicados"
 
+# REVIEWED: 263bfc9be4aefd5d
 #: ../../dash.rst:25
 msgid "Download and import errors"
 msgstr "Errores de descarga e importación"

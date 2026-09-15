@@ -13,7 +13,7 @@ D-portal includes tools which can be used to investigate missing data and errors
 
     Database Logs provides a snapshot of all data found in the live d-portal database. This updates nightly, and can be viewed as a table or historical charts.
 
-    Xpath Stats show how much each element of the IATI Standard is used in activity or organisation data. This can be viewed as a percentage or as a historical timeline of use. 
+    Xpath Stats shows how much each element of the IATI Standard is used in activity or organisation data. This can be viewed as a percentage or as a historical timeline of use. 
     Individual reporting organisations use of the IATI Standard elements can also be explored.
 
 `Cleanerr <https://notshi.github.io/cleanerr/>`_
